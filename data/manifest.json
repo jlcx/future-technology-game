@@ -14,8 +14,8 @@
   "n_pairs_covered": 630,
   "n_pairs_missing": 0,
   "n_skipped_entries": 0,
-  "n_unique_synths": 1972,
-  "n_convergent_collisions": 6,
+  "n_unique_synths": 5733,
+  "n_convergent_collisions": 24,
   "checksums": {
     "pipeline/combine_prompt.txt": "8333ee0ea4d56384",
     "pipeline/core_techs.json": "2ea12cd6dc11b404",
@@ -64,7 +64,35 @@
       "pattern": "combinations_cryo_rev_synth.json",
       "added": 56,
       "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T03:55:28+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_top50_batch_*.json",
+      "added": 0,
+      "skipped": 2200
+    },
+    {
+      "ran_at": "2026-05-04T03:55:53+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_top50_batch_*.json",
+      "added": 2200,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T04:09:07+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_ga_batch_*.json",
+      "added": 611,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T04:57:21+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_tier_a_batch_*.json",
+      "added": 968,
+      "skipped": 1
     }
   ],
-  "n_pairs_in_combinations": 1978
+  "n_pairs_in_combinations": 5757
 }

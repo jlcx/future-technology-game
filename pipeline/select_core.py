@@ -70,6 +70,26 @@ MANUAL_ADD_QIDS = [
     "Q741490",  # Self-driving car
     "Q633581",  # Cryonics
     "Q185410",  # Reversible computing (injected via policy.MANUAL_CORPUS_ADDS)
+    # ── Tier-A 2026 emerging extension (post-web-search audit) ────────────
+    "Q127993",  # Geothermal energy
+    "Q213901",  # Gene therapy
+    "Q160047",  # Maglev
+    "Q1142726", # Intelligent agent
+    "Q7543123", # Small modular reactor
+    "Q391088",  # Sodium-ion battery
+    "Q901551",  # Lithium iron phosphate battery
+    "Q1638492", # Continuous glucose monitor
+    "Q60761394",# Direct air capture
+    "Q112702082",# Foundation model
+    "Q529909",  # Multi-agent system
+    "Q30688561",# Mixture of experts
+    "Q137425629",# Neuromorphic computing
+    "Q523846",  # Photonic integrated circuit
+    "Q18387741",# Perovskite solar cell
+    "Q22349364",# Liquid biopsy
+    "Q967145",  # Satellite constellation
+    "Q4845080", # Wearable technology
+    "Q58181",   # Vactrain (already in corpus from wiki list — promote to core)
 ]
 
 PRESENT_N = 16

@@ -46,9 +46,13 @@ def main():
     have_pair = {tuple(sorted(c["parents"])) for c in combos}
     have_id = {c["id"] for c in combos}
 
-    # Build the valid-ID universe: core QIDs + synth IDs already in combinations.js.
-    core = json.loads((repo_root / "pipeline" / "core_techs.json").read_text())
-    valid_ids = {e["qid"] for e in core} | have_id
+    # Build the valid-ID universe: every QID in the corpus + synth IDs
+    # already in combinations.js. Corpus is the source of truth for "is this
+    # a real Wikidata entity in scope" — it's already filtered by policy.
+    corpus_src = (repo_root / "data" / "corpus.js").read_text()
+    corpus_body = corpus_src.split("window.CORPUS = ", 1)[1].rstrip().rstrip(";").strip()
+    corpus_qids = {e["qid"] for e in json.loads(corpus_body)}
+    valid_ids = corpus_qids | have_id
 
     # Load expected next-level pair list.
     expected_pairs = {tuple(sorted(p)) for p in

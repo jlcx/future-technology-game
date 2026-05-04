@@ -1,0 +1,716 @@
+[
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q3237534",
+    "name": "Adaptive Optical Channel Tuner",
+    "emoji": "💡",
+    "blurb": "Evolves Li-Fi modulation patterns in real time to maximize throughput through changing environments."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q897410",
+    "name": "Neural Interface Topology Search",
+    "emoji": "🔌",
+    "blurb": "Evolves electrode array geometries to maximize signal fidelity for brain-computer interfaces."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q261659",
+    "name": "Nanocarrier Fitness Landscapes",
+    "emoji": "💊",
+    "blurb": "Breeds drug-delivery nanoparticles to optimize targeting, payload release, and immune evasion simultaneously."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q497166",
+    "name": "Evolved Electromagnetic Microstructure",
+    "emoji": "🔮",
+    "blurb": "Discovers metamaterial unit-cell geometries that produce specified optical or acoustic properties."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q689855",
+    "name": "Grid Topology Optimizer",
+    "emoji": "⚡",
+    "blurb": "Evolves power-grid switching schedules to cut losses and absorb renewable variability in real time."
+  },
+  {
+    "qid_a": "Q1566000",
+    "qid_b": "Q187787",
+    "name": "Recursive Self-Improvement Loop",
+    "emoji": "🧠",
+    "blurb": "A superintelligence that uses evolutionary search to rewrite its own optimization algorithms continuously."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q39086217",
+    "name": "Adaptive CBDC Policy Engine",
+    "emoji": "🏦",
+    "blurb": "Evolves central-bank digital-currency parameters to stabilize inflation while maximizing economic welfare."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q633261",
+    "name": "Microfluidic Circuit Evolver",
+    "emoji": "🔬",
+    "blurb": "Automatically breeds lab-on-a-chip channel layouts for faster, cheaper diagnostic assays."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2072214",
+    "name": "Treatment Regimen Breeder",
+    "emoji": "🩺",
+    "blurb": "Searches drug-dose combinations across a patient's genomic profile to maximize therapeutic benefit."
+  },
+  {
+    "qid_a": "Q1061415",
+    "qid_b": "Q187787",
+    "name": "Tissue Scaffold Architecture Search",
+    "emoji": "🩹",
+    "blurb": "Evolves 3-D scaffold geometries that guide cells toward optimal regenerated-tissue structure."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q611870",
+    "name": "Phage Cocktail Designer",
+    "emoji": "🦠",
+    "blurb": "Breeds bacteriophage combinations that outpace bacterial resistance evolution in the clinic."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7557794",
+    "name": "Solid Electrolyte Interface Breeder",
+    "emoji": "🔋",
+    "blurb": "Searches composition and nanostructure space for solid-state electrolytes with maximal conductivity and safety."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q412798",
+    "name": "Conducting Polymer Chain Optimizer",
+    "emoji": "⚗️",
+    "blurb": "Evolves monomer sequences and dopant ratios to maximize conductivity in polymer films."
+  },
+  {
+    "qid_a": "Q1042013",
+    "qid_b": "Q187787",
+    "name": "Supercritical Flow Channel Evolver",
+    "emoji": "💧",
+    "blurb": "Optimizes reactor coolant-channel geometry to suppress corrosion and maximize heat extraction."
+  },
+  {
+    "qid_a": "Q1153902",
+    "qid_b": "Q187787",
+    "name": "Phase-Change Encoding Optimizer",
+    "emoji": "💽",
+    "blurb": "Evolves write-pulse profiles for phase-change memory cells to extend endurance and cut energy use."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q899170",
+    "name": "Sulfur Cathode Architecture Breeder",
+    "emoji": "🔋",
+    "blurb": "Searches porous sulfur-cathode microstructures to suppress polysulfide shuttling and boost cycle life."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q912996",
+    "name": "On-Demand Routing Evolver",
+    "emoji": "🚉",
+    "blurb": "Breeds personal-rapid-transit vehicle dispatch policies that minimize wait time across full networks."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q565368",
+    "name": "Habitat Interior Layout Search",
+    "emoji": "🌐",
+    "blurb": "Evolves Bernal sphere interior partitioning to maximize livable area, airflow, and community cohesion."
+  },
+  {
+    "qid_a": "Q186272",
+    "qid_b": "Q187787",
+    "name": "Ethical Constraint Fitness Function",
+    "emoji": "⚖️",
+    "blurb": "Encodes neuroethical principles as hard constraints so evolutionary search never produces harmful brain interventions."
+  },
+  {
+    "qid_a": "Q1041630",
+    "qid_b": "Q187787",
+    "name": "Skyrmion Racetrack Route Finder",
+    "emoji": "🌀",
+    "blurb": "Evolves nanomagnetic track geometries that reliably steer skyrmions at minimal driving current."
+  },
+  {
+    "qid_a": "Q17386807",
+    "qid_b": "Q187787",
+    "name": "Participatory Policy Optimizer",
+    "emoji": "🗳️",
+    "blurb": "Breeds civic-platform engagement rules that maximize informed public participation with minimal friction."
+  },
+  {
+    "qid_a": "Q177023",
+    "qid_b": "Q187787",
+    "name": "Neural Organoid Wiring Evolver",
+    "emoji": "🧫",
+    "blurb": "Uses evolutionary search to find stimulation protocols that shape wetware neuron connectivity for computation."
+  },
+  {
+    "qid_a": "Q1527901",
+    "qid_b": "Q187787",
+    "name": "Swarm Mission Planner",
+    "emoji": "🛩️",
+    "blurb": "Breeds uncrewed-vehicle formation strategies that complete complex missions with minimal total energy."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2578825",
+    "name": "Foglet Coordination Genome",
+    "emoji": "🌫️",
+    "blurb": "Evolves decentralized control rules for utility-fog swarms to self-assemble target structures robustly."
+  },
+  {
+    "qid_a": "Q1456215",
+    "qid_b": "Q187787",
+    "name": "Propellant Morphology Optimizer",
+    "emoji": "🔫",
+    "blurb": "Evolves caseless-ammunition propellant geometry for consistent burn rate and minimal barrel wear."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2427493",
+    "name": "Sub-Atomic Structure Prospector",
+    "emoji": "🔬",
+    "blurb": "Applies evolutionary search to picotech configuration space to find stable nuclear-scale engineered structures."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q4045956",
+    "name": "Tether Rotation Sequence Evolver",
+    "emoji": "🪝",
+    "blurb": "Optimizes skyhook capture-and-release timing to maximize payload mass delivered per orbit."
+  },
+  {
+    "qid_a": "Q1322096",
+    "qid_b": "Q187787",
+    "name": "Muon Catalyst Cycle Optimizer",
+    "emoji": "⚛️",
+    "blurb": "Searches muon-injection timing and density to minimize sticking losses and maximize fusion yield."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2599856",
+    "name": "Foveated Lens Stack Designer",
+    "emoji": "👁️",
+    "blurb": "Breeds bionic-lens layer configurations that maximize augmented-reality clarity across the full visual field."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q4774931",
+    "name": "Annihilation Yield Maximizer",
+    "emoji": "💣",
+    "blurb": "Searches antimatter confinement geometries to maximize energy release efficiency before containment loss."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2083758",
+    "name": "Mass Driver Launch Profile Evolver",
+    "emoji": "🔫",
+    "blurb": "Optimizes space-gun acceleration profiles to minimize structural stress while hitting orbital insertion velocity."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q557804",
+    "name": "Fast Reactor Fuel Cycle Optimizer",
+    "emoji": "⚛️",
+    "blurb": "Evolves gas-cooled fast reactor fuel loading patterns to maximize breeding ratio and minimize waste."
+  },
+  {
+    "qid_a": "Q17105111",
+    "qid_b": "Q187787",
+    "name": "Photonic Gate Topology Search",
+    "emoji": "💡",
+    "blurb": "Discovers optical-transistor network configurations that implement target logic with fewest photonic components."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q5205754",
+    "name": "Strand Encoding Scheme Optimizer",
+    "emoji": "🧬",
+    "blurb": "Evolves DNA data-storage codebooks that maximize density while minimizing read-error rates."
+  },
+  {
+    "qid_a": "Q137062",
+    "qid_b": "Q187787",
+    "name": "Quantum Token Fitness Selector",
+    "emoji": "💰",
+    "blurb": "Breeds quantum-state configurations for currency tokens that resist any known measurement-based forgery attack."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q523483",
+    "name": "Senescence Pathway Route Finder",
+    "emoji": "⏳",
+    "blurb": "Searches intervention combinations across aging pathways to find maximally synergistic longevity treatments."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7643754",
+    "name": "Exotic Channel Protocol Evolver",
+    "emoji": "📡",
+    "blurb": "Searches hypothetical FTL signaling parameter spaces for self-consistent, causality-respecting communication schemes."
+  },
+  {
+    "qid_a": "Q1633694",
+    "qid_b": "Q187787",
+    "name": "Mass Lift Cycle Scheduler",
+    "emoji": "🪨",
+    "blurb": "Evolves gravity-battery charge-discharge timing across a grid to optimally buffer renewable energy surges."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q331998",
+    "name": "Shielding Field Configuration Search",
+    "emoji": "🛡️",
+    "blurb": "Applies evolutionary search to find gravitational-shielding field geometries that minimize energy expenditure."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7392090",
+    "name": "Nitride Layer Sequence Evolver",
+    "emoji": "💿",
+    "blurb": "Optimizes SONOS gate-stack layer thicknesses for maximum retention with fewest trapped-charge defects."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q3557228",
+    "name": "Holographic Wavefront Breeder",
+    "emoji": "📽️",
+    "blurb": "Evolves spatial light-modulator patterns to generate holographic displays with minimal speckle and ghost images."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q5420522",
+    "name": "Cognitive Scaffold Evolver",
+    "emoji": "🧩",
+    "blurb": "Breeds exocortex memory-indexing architectures that best match individual human associative recall patterns."
+  },
+  {
+    "qid_a": "Q1778563",
+    "qid_b": "Q187787",
+    "name": "Nanotube Device Layout Search",
+    "emoji": "⚡",
+    "blurb": "Finds carbon-nanotube transistor placement and chirality assignments that maximize circuit speed and yield."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7894141",
+    "name": "Unified Memory Cell Optimizer",
+    "emoji": "💾",
+    "blurb": "Searches material and geometry space for memory cells combining RAM speed with decade-long data retention."
+  },
+  {
+    "qid_a": "Q18020956",
+    "qid_b": "Q187787",
+    "name": "Rotor Blade Morphology Evolver",
+    "emoji": "🛸",
+    "blurb": "Breeds hoverbike rotor profiles for maximum lift efficiency at the expense of minimal acoustic signature."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q4536303",
+    "name": "Fission Propellant Flow Optimizer",
+    "emoji": "🚀",
+    "blurb": "Evolves nuclear salt-water rocket injection patterns to maximize specific impulse while preventing runaway reactions."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q5769264",
+    "name": "Megastructure Spin Architecture Search",
+    "emoji": "🌍",
+    "blurb": "Optimizes McKendree cylinder interior zoning, rotation rate, and shell composition for habitable stability."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q752712",
+    "name": "Voxel Refresh Strategy Evolver",
+    "emoji": "📦",
+    "blurb": "Breeds volumetric-display update schedules that maximize perceived frame rate with fixed emitter bandwidth."
+  },
+  {
+    "qid_a": "Q17019157",
+    "qid_b": "Q187787",
+    "name": "Propellant Alloy Fitness Search",
+    "emoji": "🌿",
+    "blurb": "Evolves non-toxic metal alloy compositions for projectiles that match ballistic performance of lead."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2944738",
+    "name": "Ignition Target Shape Optimizer",
+    "emoji": "💥",
+    "blurb": "Searches inertial-fusion capsule geometries to minimize drive energy needed for ignition in power plants."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q5638408",
+    "name": "Isomer Trigger Sequence Breeder",
+    "emoji": "☢️",
+    "blurb": "Searches photon pulse sequences that could reliably induce controlled hafnium isomer energy release."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q6937066",
+    "name": "Muon Ring Lattice Optimizer",
+    "emoji": "🔬",
+    "blurb": "Evolves muon collider magnet lattice configurations to maximize luminosity within a fixed tunnel footprint."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7306332",
+    "name": "Coolant Density Cycle Evolver",
+    "emoji": "⚛️",
+    "blurb": "Optimizes reduced-moderation reactor water conditions to maximize fissile breeding with minimal instability."
+  },
+  {
+    "qid_a": "Q17145419",
+    "qid_b": "Q187787",
+    "name": "Harvester Transducer Layout Search",
+    "emoji": "🏃",
+    "blurb": "Breeds wearable-generator piezoelectric placements that capture maximum kinetic energy from daily movement."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q4492226",
+    "name": "Photon Thrust Profile Evolver",
+    "emoji": "🚀",
+    "blurb": "Optimizes nuclear photonic rocket reactor geometry to maximize photon emission and specific impulse."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q5381488",
+    "name": "Deuterium Ball Staging Optimizer",
+    "emoji": "🚀",
+    "blurb": "Searches Enzmann starship fuel-consumption schedules to maximize velocity at interstellar destination arrival."
+  },
+  {
+    "qid_a": "Q17105006",
+    "qid_b": "Q187787",
+    "name": "Vortex Containment Wall Evolver",
+    "emoji": "☢️",
+    "blurb": "Breeds nuclear lightbulb plasma-confinement geometries that stabilize the fissile gas within the reaction chamber."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q5420676",
+    "name": "Load-Bearing Combustion Layout Search",
+    "emoji": "🦴",
+    "blurb": "Finds exoskeletal engine structural topologies that sustain combustion stresses without dedicated housing mass."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7355162",
+    "name": "Sled Acceleration Curve Optimizer",
+    "emoji": "🛤️",
+    "blurb": "Evolves rocket-sled thrust profiles to minimize payload g-forces while reaching orbital injection velocity."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7783038",
+    "name": "Thermal Pillar Array Evolver",
+    "emoji": "🔧",
+    "blurb": "Searches copper-pillar bump placement patterns that drain chip hotspots most efficiently under real workloads."
+  },
+  {
+    "qid_a": "Q117246174",
+    "qid_b": "Q187787",
+    "name": "Generative Model Architecture Breeder",
+    "emoji": "🎨",
+    "blurb": "Evolves generative AI network topologies and training hyperparameters rather than hand-designing them."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q242256",
+    "name": "Surveillance Network Coverage Optimizer",
+    "emoji": "📹",
+    "blurb": "Breeds CCTV camera placement plans that maximize scene coverage while minimizing blind-spot overlap."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q840387",
+    "name": "Polyp Detection Protocol Evolver",
+    "emoji": "🩺",
+    "blurb": "Searches colonoscopy image-analysis pipelines to minimize missed lesions at any given frame rate."
+  },
+  {
+    "qid_a": "Q12623",
+    "qid_b": "Q187787",
+    "name": "Thermodynamic Loophole Explorer",
+    "emoji": "♾️",
+    "blurb": "Uses evolutionary search to probe unconventional physical models for near-perpetual efficiency configurations."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q848436",
+    "name": "Smart Home Routine Evolver",
+    "emoji": "🏠",
+    "blurb": "Breeds home-automation schedules that minimize energy use while keeping comfort conditions personal to occupants."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q208163",
+    "name": "Filter Bank Shape Optimizer",
+    "emoji": "📊",
+    "blurb": "Evolves signal-processing filter architectures that maximize signal-to-noise while respecting hardware constraints."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q788558",
+    "name": "Cross-Pollination Scheme Designer",
+    "emoji": "🌾",
+    "blurb": "Searches multi-trait plant breeding cross sequences to reach yield and disease-resistance targets fastest."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q931309",
+    "name": "Imaging Sequence Protocol Evolver",
+    "emoji": "🩻",
+    "blurb": "Breeds medical imaging acquisition parameters that maximize diagnostic information per unit radiation dose."
+  },
+  {
+    "qid_a": "Q10861030",
+    "qid_b": "Q187787",
+    "name": "Feature Interaction Prospector",
+    "emoji": "📈",
+    "blurb": "Evolves nonlinear feature combinations that outperform standard linear regression on complex prediction tasks."
+  },
+  {
+    "qid_a": "Q16319025",
+    "qid_b": "Q187787",
+    "name": "Portfolio Strategy Fitness Engine",
+    "emoji": "💳",
+    "blurb": "Breeds financial product bundles and fee structures that survive regulatory and market stress simultaneously."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q938957",
+    "name": "Endoscope Path Planner",
+    "emoji": "🔭",
+    "blurb": "Evolves flexible-scope insertion trajectories that reach target anatomy with least patient discomfort."
+  },
+  {
+    "qid_a": "Q186249",
+    "qid_b": "Q187787",
+    "name": "Formulation Excipient Optimizer",
+    "emoji": "💊",
+    "blurb": "Searches drug excipient combinations to find formulations maximizing bioavailability with acceptable stability."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q624587",
+    "name": "Thermal Anomaly Detection Tuner",
+    "emoji": "🌡️",
+    "blurb": "Evolves thermographic inspection protocols to catch subsurface defects missed by standard fixed-frequency sweeps."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q282453",
+    "name": "Kernel Fitness Landscape Navigator",
+    "emoji": "📐",
+    "blurb": "Searches SVM kernel and hyperparameter combinations to find the true optimal classification boundary."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q694007",
+    "name": "Adaptive Curriculum Path Evolver",
+    "emoji": "🏫",
+    "blurb": "Breeds personalised learning sequences in an LMS that maximize knowledge retention per instructional hour."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q989632",
+    "name": "Intrusion Response Rule Breeder",
+    "emoji": "🛡️",
+    "blurb": "Evolves network-security rule sets that detect novel attack patterns while minimizing false positive alerts."
+  },
+  {
+    "qid_a": "Q1131313",
+    "qid_b": "Q187787",
+    "name": "Structural Bond Pattern Optimizer",
+    "emoji": "🧱",
+    "blurb": "Searches brick-laying bond patterns and mortar compositions that maximize compressive strength per material cost."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q505668",
+    "name": "Precursor Pulse Sequence Evolver",
+    "emoji": "🫧",
+    "blurb": "Optimizes CVD gas-flow timing and pressure cycles to deposit films with fewest voids at highest rate."
+  },
+  {
+    "qid_a": "Q182571",
+    "qid_b": "Q187787",
+    "name": "Perceptual White-Balance Breeder",
+    "emoji": "🎨",
+    "blurb": "Evolves colour correction matrices matched to individual observer chromatic-adaptation response curves."
+  },
+  {
+    "qid_a": "Q10719477",
+    "qid_b": "Q187787",
+    "name": "Funnel Conversion Path Optimizer",
+    "emoji": "📊",
+    "blurb": "Breeds website journey structures and content placements to maximize conversion without increasing ad spend."
+  },
+  {
+    "qid_a": "Q1480945",
+    "qid_b": "Q187787",
+    "name": "Combat Triage Protocol Evolver",
+    "emoji": "🏥",
+    "blurb": "Searches field-medicine resource allocation rules to maximize survivor count under mass-casualty conditions."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7600677",
+    "name": "Shader Pipeline Architecture Search",
+    "emoji": "🖥️",
+    "blurb": "Evolves graphics shader execution orderings and resource assignments to maximize frame throughput."
+  },
+  {
+    "qid_a": "Q177126",
+    "qid_b": "Q187787",
+    "name": "Molecular Program Evolver",
+    "emoji": "🧬",
+    "blurb": "Breeds DNA computing strand sets whose cascaded reactions solve hard combinatorial problems faster."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q614984",
+    "name": "Dynamic Dose Trajectory Optimizer",
+    "emoji": "🩻",
+    "blurb": "Evolves real-time fluoroscopy pulse sequences that track moving anatomy with minimal cumulative X-ray dose."
+  },
+  {
+    "qid_a": "Q1407668",
+    "qid_b": "Q187787",
+    "name": "Attractor Basin Sculptor",
+    "emoji": "🧠",
+    "blurb": "Uses evolutionary search to set Hopfield network weights so desired memory patterns have deepest attractor basins."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q6673524",
+    "name": "Gating Topology Search Engine",
+    "emoji": "🧠",
+    "blurb": "Evolves LSTM gate connection patterns that capture long-range dependencies in fewer trainable parameters."
+  },
+  {
+    "qid_a": "Q1513153",
+    "qid_b": "Q187787",
+    "name": "Edge Kernel Co-Evolver",
+    "emoji": "🖼️",
+    "blurb": "Searches multi-scale edge-detection filter combinations that outperform fixed Sobel operators on noisy imagery."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q785290",
+    "name": "Simulation Parameter Space Prober",
+    "emoji": "🎮",
+    "blurb": "Evolves candidate physical constants to test which universes remain self-consistent under simulated-reality assumptions."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2125156",
+    "name": "Adaptive Content Filter Evolver",
+    "emoji": "🚫",
+    "blurb": "Breeds internet-blocking rule sets that catch new evasion techniques without over-blocking legitimate traffic."
+  },
+  {
+    "qid_a": "Q1061598",
+    "qid_b": "Q187787",
+    "name": "Codeword Polynomial Optimizer",
+    "emoji": "💽",
+    "blurb": "Searches Reed-Solomon generator polynomial parameters to maximize burst-error correction for a target overhead."
+  },
+  {
+    "qid_a": "Q1344419",
+    "qid_b": "Q187787",
+    "name": "National Fleet Composition Optimizer",
+    "emoji": "🗺️",
+    "blurb": "Evolves a country's nuclear plant mix and retirement schedule to minimize cost and carbon simultaneously."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q255848",
+    "name": "Tool Path Erosion Optimizer",
+    "emoji": "🪨",
+    "blurb": "Breeds stone-carving tool sequences and cut angles to achieve target relief sculpture with least material waste."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q384188",
+    "name": "MEG Sensor Array Evolver",
+    "emoji": "🧲",
+    "blurb": "Optimizes magnetoencephalography sensor placement to maximize spatial resolution of deep neural source localisation."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q786435",
+    "name": "Latent Space Topology Search",
+    "emoji": "🔄",
+    "blurb": "Evolves autoencoder architectures whose bottleneck geometry captures the most disentangled data representations."
+  },
+  {
+    "qid_a": "Q1197129",
+    "qid_b": "Q187787",
+    "name": "Meta-Evolutionary Strategy Compiler",
+    "emoji": "♻️",
+    "blurb": "Applies one evolutionary computation method to discover better operators for another, recursively improving both."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q1888932",
+    "name": "Access Policy Fitness Selector",
+    "emoji": "🔐",
+    "blurb": "Evolves mandatory access control label hierarchies that enforce security policy with fewest denied legitimate requests."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q537823",
+    "name": "Context-Fit Technology Selector",
+    "emoji": "🌍",
+    "blurb": "Searches solution spaces to match appropriate technology options to a community's precise resource and skill constraints."
+  },
+  {
+    "qid_a": "Q1136838",
+    "qid_b": "Q187787",
+    "name": "Topology-Aware Map Evolver",
+    "emoji": "🗺️",
+    "blurb": "Evolves self-organising map grid topology so cluster boundaries align with true high-dimensional data manifolds."
+  },
+  {
+    "qid_a": "Q1424528",
+    "qid_b": "Q187787",
+    "name": "Charge Pattern Refresh Optimizer",
+    "emoji": "💾",
+    "blurb": "Searches Williams-tube scan and write timing to maximise data reliability before charge dissipation corrupts bits."
+  },
+  {
+    "qid_a": "Q1074173",
+    "qid_b": "Q187787",
+    "name": "Answer Candidate Fitness Ranker",
+    "emoji": "❓",
+    "blurb": "Breeds question-answering retrieval and re-ranking pipelines that consistently surface correct answers first."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2141748",
+    "name": "Adaptive Allowlist Policy Evolver",
+    "emoji": "✅",
+    "blurb": "Evolves dynamic whitelist rules that expand to permit legitimate new sources while excluding emerging threats."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q55611017",
+    "name": "Redundancy Code Architecture Search",
+    "emoji": "🛡️",
+    "blurb": "Searches error-correction code structures that maximize burst-error recovery capacity for a fixed overhead budget."
+  }
+]

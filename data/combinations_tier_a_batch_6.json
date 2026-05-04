@@ -1,0 +1,681 @@
+[
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q18387741",
+    "name": "Solar-Harvesting Smart Tags",
+    "emoji": "🏷️",
+    "blurb": "RFID tags powered entirely by embedded perovskite cells, eliminating batteries forever."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q7543123",
+    "name": "Reactor Asset Mesh",
+    "emoji": "📡",
+    "blurb": "RFID sensor networks embedded throughout modular reactors for real-time component health tracking."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q213901",
+    "name": "Frictionless Gene Delivery",
+    "emoji": "🌊",
+    "blurb": "Superfluid carrier medium transports therapeutic genes into cells without membrane damage."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q901551",
+    "name": "Zero-Loss Ion Conduit",
+    "emoji": "🔋",
+    "blurb": "Superfluid channels shuttle lithium iron phosphate ions with no resistive energy loss."
+  },
+  {
+    "qid_a": "Q112702082",
+    "qid_b": "Q137425629",
+    "name": "Synaptic Foundation Chip",
+    "emoji": "🧠",
+    "blurb": "Foundation model weights compiled directly onto neuromorphic silicon for milliwatt inference."
+  },
+  {
+    "qid_a": "Q112702082",
+    "qid_b": "Q176555",
+    "name": "Quantum-Classical Hybrid Reasoner",
+    "emoji": "💡",
+    "blurb": "Foundation model offloads combinatorial search steps to a co-located quantum processor."
+  },
+  {
+    "qid_a": "Q112702082",
+    "qid_b": "Q204520",
+    "name": "Planetary Climate Architect",
+    "emoji": "🌍",
+    "blurb": "Foundation model simulates and optimizes centuries-long terraforming intervention sequences."
+  },
+  {
+    "qid_a": "Q112702082",
+    "qid_b": "Q381490",
+    "name": "Aerogel Formulation Oracle",
+    "emoji": "🌫️",
+    "blurb": "Foundation model predicts novel aerogel nanopore architectures exceeding current insulation records."
+  },
+  {
+    "qid_a": "Q112702082",
+    "qid_b": "Q60761394",
+    "name": "Carbon Capture Optimizer",
+    "emoji": "🌬️",
+    "blurb": "Foundation model continuously redesigns sorbent materials and process flows to minimize capture cost."
+  },
+  {
+    "qid_a": "Q1142726",
+    "qid_b": "Q11468",
+    "name": "Nanobot Swarm Coordinator",
+    "emoji": "🤖",
+    "blurb": "Intelligent agents govern billions of nanobots as a distributed autonomous repair system."
+  },
+  {
+    "qid_a": "Q1142726",
+    "qid_b": "Q160047",
+    "name": "Adaptive Rail Traffic Brain",
+    "emoji": "🚄",
+    "blurb": "Intelligent agent network orchestrates maglev trains across a continent in real time."
+  },
+  {
+    "qid_a": "Q1142726",
+    "qid_b": "Q179965",
+    "name": "Closed-Loop Neural Interface",
+    "emoji": "🧠",
+    "blurb": "Intelligent agent reads EEG signals and responds with tailored stimulation within milliseconds."
+  },
+  {
+    "qid_a": "Q1142726",
+    "qid_b": "Q22349364",
+    "name": "Liquid Biopsy Sentinel",
+    "emoji": "🩸",
+    "blurb": "Autonomous agent monitors circulating tumor DNA streams and flags anomalies before symptoms emerge."
+  },
+  {
+    "qid_a": "Q1142726",
+    "qid_b": "Q469",
+    "name": "Dyson Construction Overseer",
+    "emoji": "⭐",
+    "blurb": "Self-directing agent fleet manages megastructure assembly around a star with minimal human input."
+  },
+  {
+    "qid_a": "Q1142726",
+    "qid_b": "Q7108",
+    "name": "Autonomous Bioprocess Controller",
+    "emoji": "🧬",
+    "blurb": "Intelligent agent steers living bioreactor cultures toward target molecule yields in real time."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q1638492",
+    "name": "Dermal Glucose Nanosensor",
+    "emoji": "⚗️",
+    "blurb": "Nanoscale electrochemical probes embedded in skin measure glucose without any patch or wire."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q60761394",
+    "name": "Molecular Carbon Sieve",
+    "emoji": "⚗️",
+    "blurb": "Engineered nanoporous structures selectively bind CO₂ molecules from air at near-perfect efficiency."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q22349364",
+    "name": "Oncogenomic Triage AI",
+    "emoji": "🩸",
+    "blurb": "AI interprets liquid biopsy data to rank cancer subtypes and recommend treatment within minutes."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q967145",
+    "name": "Orbital Intelligence Grid",
+    "emoji": "🛰️",
+    "blurb": "AI inference distributed across satellite constellations, bringing computation to where data is generated."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q4845080",
+    "name": "Phenotype Wearable Tracker",
+    "emoji": "⌚",
+    "blurb": "Wearable sensors detect clonal-cell drift in real time, alerting clinicians to rejuvenation anomalies."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q160047",
+    "name": "Nuclear-Powered Maglev Grid",
+    "emoji": "🚄",
+    "blurb": "Small fission plants co-located at maglev stations provide dedicated zero-carbon traction power."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q58181",
+    "name": "Fission-Driven Vactrain",
+    "emoji": "⚛️",
+    "blurb": "Nuclear reactor powers vacuum tube pumps and linear motors for intercontinental freight at speed."
+  },
+  {
+    "qid_a": "Q127993",
+    "qid_b": "Q160047",
+    "name": "Geothermal Maglev Spine",
+    "emoji": "🌋",
+    "blurb": "Geothermal baseload powers elevated maglev corridors drilled through geologically active terrain."
+  },
+  {
+    "qid_a": "Q127993",
+    "qid_b": "Q179965",
+    "name": "Earth-Heat Neurofeedback Spa",
+    "emoji": "🌋",
+    "blurb": "Geothermal warmth modulates EEG-guided relaxation environments for deep therapeutic brain states."
+  },
+  {
+    "qid_a": "Q127993",
+    "qid_b": "Q22349364",
+    "name": "Geothermal Biomarker Lab",
+    "emoji": "🌋",
+    "blurb": "Deep-earth heat drives continuous liquid biopsy processing in remote off-grid clinics."
+  },
+  {
+    "qid_a": "Q127993",
+    "qid_b": "Q469",
+    "name": "Stellar Tap Architecture",
+    "emoji": "⭐",
+    "blurb": "Geothermal drilling principles scaled to harvest a star's subsurface convection before full Dyson enclosure."
+  },
+  {
+    "qid_a": "Q127993",
+    "qid_b": "Q7108",
+    "name": "Hydrothermal Biofoundry",
+    "emoji": "🌋",
+    "blurb": "Geothermal heat and mineral-rich vent water feed engineered microbe cultures producing industrial chemicals."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q18387741",
+    "name": "Solar-Fax Archive Node",
+    "emoji": "☀️",
+    "blurb": "Perovskite-powered fax terminals let off-grid clinics transmit medical records without the electricity grid."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q7543123",
+    "name": "Reactor Documentation Hub",
+    "emoji": "📠",
+    "blurb": "Hardened fax links serve as fail-safe document channels inside electromagnetic-shielded modular reactors."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q391088",
+    "name": "Sodium Crypto Settlement Layer",
+    "emoji": "🧂",
+    "blurb": "Sodium-ion grid-storage banks underwrite stablecoin reserves with provable physical energy backing."
+  },
+  {
+    "qid_a": "Q137425629",
+    "qid_b": "Q159236",
+    "name": "Neuromorphic Gene Circuit Emulator",
+    "emoji": "🧬",
+    "blurb": "Spike-based hardware simulates genetic regulatory networks millions of times faster than software."
+  },
+  {
+    "qid_a": "Q137425629",
+    "qid_b": "Q178026",
+    "name": "Fullerene Synaptic Memory",
+    "emoji": "⚽",
+    "blurb": "Buckminsterfullerene junctions act as synaptic weights in ultra-dense neuromorphic memory arrays."
+  },
+  {
+    "qid_a": "Q137425629",
+    "qid_b": "Q213901",
+    "name": "Spike-Coded Therapy Planner",
+    "emoji": "🧠",
+    "blurb": "Neuromorphic chip encodes patient genomics as spike trains to select optimal gene therapy vectors."
+  },
+  {
+    "qid_a": "Q137425629",
+    "qid_b": "Q4439",
+    "name": "Spiking Storage Controller",
+    "emoji": "💾",
+    "blurb": "Neuromorphic logic manages hard-drive head scheduling, cutting seek energy by learning platter patterns."
+  },
+  {
+    "qid_a": "Q137425629",
+    "qid_b": "Q641442",
+    "name": "Plasma Instability Predictor",
+    "emoji": "☀️",
+    "blurb": "Neuromorphic chip learns fusion plasma turbulence signatures and fires corrective coil pulses in microseconds."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q18387741",
+    "name": "Tether-Integrated Solar Ribbon",
+    "emoji": "🛗",
+    "blurb": "Perovskite photovoltaic film woven into the space elevator cable harvests solar energy during ascent."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q7543123",
+    "name": "Orbital Reactor Lift System",
+    "emoji": "🛗",
+    "blurb": "Space elevator delivers prefabricated SMR modules to orbital energy platforms without rocket fuel."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q4845080",
+    "name": "Epigenetic Fitness Wearable",
+    "emoji": "⌚",
+    "blurb": "Wearable reads sweat biomarkers to infer real-time gene expression and personalize training loads."
+  },
+  {
+    "qid_a": "Q160047",
+    "qid_b": "Q169917",
+    "name": "Graphene Levitation Rail",
+    "emoji": "🚄",
+    "blurb": "Graphene superconducting ribbons replace copper coils in maglev tracks, halving infrastructure mass."
+  },
+  {
+    "qid_a": "Q160047",
+    "qid_b": "Q18387741",
+    "name": "Solar-Charged Transit Corridor",
+    "emoji": "☀️",
+    "blurb": "Perovskite panels lining maglev guideways generate the traction power the trains consume."
+  },
+  {
+    "qid_a": "Q160047",
+    "qid_b": "Q254183",
+    "name": "Passenger AR Navigation Layer",
+    "emoji": "🥽",
+    "blurb": "AR headsets show maglev passengers real-time route data, delays, and destination previews overlaid on windows."
+  },
+  {
+    "qid_a": "Q160047",
+    "qid_b": "Q527628",
+    "name": "Holographic Maglev HUD",
+    "emoji": "🔆",
+    "blurb": "In-cabin holographic displays project speed, terrain, and safety status without physical screens."
+  },
+  {
+    "qid_a": "Q160047",
+    "qid_b": "Q79798",
+    "name": "Transit Interpreter Kiosk",
+    "emoji": "🌐",
+    "blurb": "Machine translation terminals embedded in maglev stations give travelers real-time spoken guidance in any language."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q4845080",
+    "name": "Ambulatory MRI Patch",
+    "emoji": "🧲",
+    "blurb": "Wearable low-field MRI array worn on the torso continuously images soft-tissue organs during daily life."
+  },
+  {
+    "qid_a": "Q1638492",
+    "qid_b": "Q170978",
+    "name": "Glycemic Response Robot",
+    "emoji": "🤖",
+    "blurb": "Robotic insulin delivery arm reads CGM output and administers precise doses without human intervention."
+  },
+  {
+    "qid_a": "Q1638492",
+    "qid_b": "Q192776",
+    "name": "Predictive Glucose Network",
+    "emoji": "📈",
+    "blurb": "Neural network trained on CGM streams forecasts hypoglycemic events up to 60 minutes ahead."
+  },
+  {
+    "qid_a": "Q1638492",
+    "qid_b": "Q30688561",
+    "name": "Expert Endocrine Router",
+    "emoji": "📈",
+    "blurb": "Mixture-of-experts model routes each CGM reading to a specialist sub-network for diet, stress, or illness."
+  },
+  {
+    "qid_a": "Q1638492",
+    "qid_b": "Q58181",
+    "name": "Transit Metabolic Monitor",
+    "emoji": "📈",
+    "blurb": "CGM data streams to vactrain onboard systems, adjusting cabin food dispensing to passenger glucose levels."
+  },
+  {
+    "qid_a": "Q1638492",
+    "qid_b": "Q901551",
+    "name": "Sodium-Powered CGM Patch",
+    "emoji": "🧂",
+    "blurb": "Sodium-ion microcell powers a continuous glucose monitor for months without recharging."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q58181",
+    "name": "Graphene Pressure Hull Liner",
+    "emoji": "🪨",
+    "blurb": "Graphene composite tubes reinforce vactrain vacuum tunnels against implosion at near-zero internal pressure."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q4845080",
+    "name": "Biometric VR Body Mirror",
+    "emoji": "🥽",
+    "blurb": "Wearable sensors feed physiology into VR so the user's avatar mirrors real-time health state."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q22349364",
+    "name": "Biopsy Harvest Robot",
+    "emoji": "🩸",
+    "blurb": "Robotic phlebotomy arm draws blood samples and runs on-board liquid biopsy analysis autonomously."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q967145",
+    "name": "Orbital Maintenance Swarm",
+    "emoji": "🛰️",
+    "blurb": "Robot teams launched from satellite constellations inspect and repair orbital hardware without crewed missions."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q60761394",
+    "name": "Carbon-Fixing Crop Edit",
+    "emoji": "✂️",
+    "blurb": "CRISPR rewrites plant Rubisco genes to fix atmospheric CO₂ faster than any wild species."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q523846",
+    "name": "Photonic Quantum Bus",
+    "emoji": "💡",
+    "blurb": "Photonic integrated circuits interconnect quantum processor modules with coherent optical links."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q30688561",
+    "name": "Adaptive Biometric Gatekeeper",
+    "emoji": "🖐️",
+    "blurb": "Mixture-of-experts model routes each biometric signal to the specialist best calibrated for that trait."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q18387741",
+    "name": "Fullerene Charge-Transport Layer",
+    "emoji": "⚽",
+    "blurb": "C₆₀ molecules serve as electron-extraction layers in perovskite solar cells, boosting efficiency further."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q7543123",
+    "name": "Fullerene Radiation Shield",
+    "emoji": "⚽",
+    "blurb": "Buckminsterfullerene coatings on SMR vessel walls absorb and scatter neutron flux."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q529909",
+    "name": "Distributed Brain-State Grid",
+    "emoji": "🧠",
+    "blurb": "Multi-agent system fuses EEG readings from thousands of subjects to map population cognitive states."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q391088",
+    "name": "Low-Energy Fusion Cell",
+    "emoji": "⚗️",
+    "blurb": "Hypothetical cold fusion reactions charge sodium-ion cells by transmuting hydrogen in an electrolyte bath."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q213901",
+    "name": "Gene-Integrated Limb",
+    "emoji": "🦾",
+    "blurb": "Prosthetic limb uses gene therapy to grow nerve–electrode junctions directly into residual tissue."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q901551",
+    "name": "Long-Life Bionic Limb",
+    "emoji": "🦾",
+    "blurb": "Sodium-ion cells power prosthetic joints for weeks per charge, outlasting any lithium alternative."
+  },
+  {
+    "qid_a": "Q18387741",
+    "qid_b": "Q2539",
+    "name": "Self-Healing Solar Film",
+    "emoji": "☀️",
+    "blurb": "Machine learning models predict perovskite degradation and trigger in-situ annealing before efficiency drops."
+  },
+  {
+    "qid_a": "Q18387741",
+    "qid_b": "Q523846",
+    "name": "Optical Solar Router",
+    "emoji": "💡",
+    "blurb": "Photonic chips steer harvested perovskite light directly into data-center optical interconnects."
+  },
+  {
+    "qid_a": "Q18387741",
+    "qid_b": "Q7543123",
+    "name": "Reactor Skin Solar Array",
+    "emoji": "☀️",
+    "blurb": "Perovskite panels cladding SMR containment buildings provide supplemental auxiliary power."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q523846",
+    "name": "Reversible Photonic Compute Fabric",
+    "emoji": "💡",
+    "blurb": "Photonic integrated circuits implement reversible logic gates, approaching Landauer-limit energy consumption."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q391088",
+    "name": "Neural Grid Balancer",
+    "emoji": "🕸️",
+    "blurb": "Neural network optimizes sodium-ion storage dispatch across energy grids in real time."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q22349364",
+    "name": "Teleported Tumor Signal",
+    "emoji": "✨",
+    "blurb": "Quantum teleportation transmits liquid biopsy assay results between distant labs with zero interception risk."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q967145",
+    "name": "Quantum Relay Constellation",
+    "emoji": "🛰️",
+    "blurb": "Satellite network uses quantum teleportation to route entangled states between ground stations worldwide."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q7543123",
+    "name": "Terraforming Reactor Grid",
+    "emoji": "🌍",
+    "blurb": "Arrays of small modular reactors supply the sustained megawatts needed to heat and thicken a thin planetary atmosphere."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q58181",
+    "name": "Vactrain Ticketing Ledger",
+    "emoji": "🔗",
+    "blurb": "Blockchain records every seat reservation and cargo manifest for the vactrain network immutably."
+  },
+  {
+    "qid_a": "Q213901",
+    "qid_b": "Q30688561",
+    "name": "Vector Routing Ensemble",
+    "emoji": "🧬",
+    "blurb": "Mixture-of-experts model selects the optimal viral vector for each patient's gene therapy profile."
+  },
+  {
+    "qid_a": "Q213901",
+    "qid_b": "Q58181",
+    "name": "Mobile Gene Clinic",
+    "emoji": "🚄",
+    "blurb": "Vactrain carriages converted to sterile labs deliver gene therapy to patients across sparse regions."
+  },
+  {
+    "qid_a": "Q213901",
+    "qid_b": "Q901551",
+    "name": "Cold-Chain Gene Battery",
+    "emoji": "🔋",
+    "blurb": "Sodium-ion cells maintain gene-therapy vector refrigeration during multi-day last-mile distribution."
+  },
+  {
+    "qid_a": "Q22349364",
+    "qid_b": "Q4439",
+    "name": "Longitudinal Biopsy Archive",
+    "emoji": "💾",
+    "blurb": "Hard drives store decades of serial liquid biopsy data enabling retrospective cancer trajectory modeling."
+  },
+  {
+    "qid_a": "Q22349364",
+    "qid_b": "Q641442",
+    "name": "Fusion-Irradiated Tumor Assay",
+    "emoji": "🩸",
+    "blurb": "Directed neutron beams from fusion reactors fragment cfDNA in blood for ultra-sensitive sequencing."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q4845080",
+    "name": "AGI Embodied Companion",
+    "emoji": "⌚",
+    "blurb": "Wearable device hosts a persistent AGI that observes, coaches, and advocates for its wearer continuously."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q4845080",
+    "name": "Adaptive Physiology Engine",
+    "emoji": "⌚",
+    "blurb": "On-wrist ML model learns individual physiology rhythms and personalizes health interventions in real time."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q4845080",
+    "name": "Body-Worn AR Skin",
+    "emoji": "🥽",
+    "blurb": "Wearable sensors feed biometric context into AR overlays that adapt to the user's physical state."
+  },
+  {
+    "qid_a": "Q30642",
+    "qid_b": "Q4845080",
+    "name": "Ambient Language Coach",
+    "emoji": "⌚",
+    "blurb": "Wearable NLP module whispers real-time translation and phrasing suggestions without looking at a screen."
+  },
+  {
+    "qid_a": "Q30688561",
+    "qid_b": "Q391088",
+    "name": "Expert Battery Chemist",
+    "emoji": "🧂",
+    "blurb": "Mixture-of-experts model routes electrolyte experiments to specialists for sodium-ion optimization at scale."
+  },
+  {
+    "qid_a": "Q30688561",
+    "qid_b": "Q633581",
+    "name": "Cryopreservation Revival Planner",
+    "emoji": "🧊",
+    "blurb": "Mixture-of-experts predicts optimal rewarming protocols for each cryonically preserved patient's unique biochemistry."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "Q4845080",
+    "name": "Wearable CT Scout",
+    "emoji": "🏥",
+    "blurb": "Body-worn low-dose X-ray array captures daily scout scans, flagging density changes for CT follow-up."
+  },
+  {
+    "qid_a": "Q381490",
+    "qid_b": "Q523846",
+    "name": "Aerogel Photonic Waveguide",
+    "emoji": "🌫️",
+    "blurb": "Aerogel-clad optical waveguides on photonic chips achieve near-vacuum refractive index for ultra-fast signaling."
+  },
+  {
+    "qid_a": "Q391088",
+    "qid_b": "Q523846",
+    "name": "Solid-State Photonic Buffer",
+    "emoji": "💡",
+    "blurb": "Sodium-ion micro-cells integrated on photonic chips buffer optical transceiver power bursts."
+  },
+  {
+    "qid_a": "Q391088",
+    "qid_b": "Q7543123",
+    "name": "Sodium Grid SMR Pairing",
+    "emoji": "🧂",
+    "blurb": "Sodium-ion storage banks co-deployed with modular reactors smooth overnight output into firm dispatchable power."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "Q7543123",
+    "name": "Reactor Operational Ledger Drive",
+    "emoji": "💾",
+    "blurb": "Hardened hard drives inside SMR containment log every sensor reading for immutable regulatory audit trails."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "Q967145",
+    "name": "Dyson Swarm Relay Net",
+    "emoji": "🛰️",
+    "blurb": "Satellite constellation architecture scaled to millions of sunlight-harvesting panels forming a partial Dyson swarm."
+  },
+  {
+    "qid_a": "Q4845080",
+    "qid_b": "Q741490",
+    "name": "Driver Physiology Guardian",
+    "emoji": "⌚",
+    "blurb": "Wearable health data feeds self-driving system, overriding manual control if drowsiness or arrhythmia detected."
+  },
+  {
+    "qid_a": "Q523846",
+    "qid_b": "Q60761394",
+    "name": "Optical Carbon Sensor Array",
+    "emoji": "💡",
+    "blurb": "Photonic chips perform real-time spectroscopic CO₂ measurement in direct-air-capture inlet flows."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "Q529909",
+    "name": "Holographic Swarm Display",
+    "emoji": "🔆",
+    "blurb": "Multi-agent system coordinates distributed laser projectors to render coherent large-scale holographic scenes."
+  },
+  {
+    "qid_a": "Q529909",
+    "qid_b": "Q641442",
+    "name": "Fusion Plasma Agent Chorus",
+    "emoji": "☀️",
+    "blurb": "Multi-agent system divides tokamak coil control among specialized agents to suppress plasma instabilities collectively."
+  },
+  {
+    "qid_a": "Q58181",
+    "qid_b": "Q633581",
+    "name": "Cryo-Transit Preservation Pod",
+    "emoji": "🧊",
+    "blurb": "Vactrain cars modified as cryogenic ambulances transport patients at ultra-low temperatures between facilities."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "Q7543123",
+    "name": "Reactor Maintenance Humanoid",
+    "emoji": "🦾",
+    "blurb": "Humanoid robots conduct refueling and inspection inside SMR containment zones humans cannot safely enter."
+  },
+  {
+    "qid_a": "Q60761394",
+    "qid_b": "Q901551",
+    "name": "Carbon-Backed Energy Store",
+    "emoji": "🌬️",
+    "blurb": "Direct air capture plants pair with sodium-ion banks, storing surplus renewable energy as captured carbon credits."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "Q967145",
+    "name": "Orbital Bioreactor Platform",
+    "emoji": "🛰️",
+    "blurb": "Satellite constellation hosts microgravity bioreactors producing biologics impossible to crystallize on Earth."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "Q901551",
+    "name": "Self-Powered Smart Display",
+    "emoji": "📺",
+    "blurb": "Sodium-ion cells laminated behind LCD panels store harvested ambient light and power displays off-grid."
+  }
+]

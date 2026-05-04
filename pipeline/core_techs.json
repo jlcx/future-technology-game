@@ -156,6 +156,18 @@
     ]
   },
   {
+    "qid": "Q127993",
+    "name": "Geothermal energy",
+    "wp_count": 83,
+    "emoji": "🌋",
+    "blurb": "Generates electricity and heat from naturally occurring underground thermal reservoirs.",
+    "tags": [],
+    "selected_via": [
+      "manual_add",
+      "present"
+    ]
+  },
+  {
     "qid": "Q120877",
     "name": "Cloning",
     "wp_count": 82,
@@ -235,13 +247,14 @@
     ]
   },
   {
-    "qid": "Q184199",
-    "name": "Automation",
-    "wp_count": 69,
-    "emoji": "🤖",
-    "blurb": "Uses machines and software to perform tasks with minimal or no human intervention.",
+    "qid": "Q160047",
+    "name": "Maglev",
+    "wp_count": 71,
+    "emoji": "🚄",
+    "blurb": "Levitates and propels trains using magnetic fields, eliminating wheel-rail friction.",
     "tags": [],
     "selected_via": [
+      "manual_add",
       "present"
     ]
   },
@@ -271,17 +284,6 @@
     "selected_via": [
       "manual_add",
       "emerging"
-    ]
-  },
-  {
-    "qid": "Q212809",
-    "name": "Endoscopy",
-    "wp_count": 66,
-    "emoji": "🔦",
-    "blurb": "Inserts a camera through a small incision to inspect or treat internal organs.",
-    "tags": [],
-    "selected_via": [
-      "present"
     ]
   },
   {
@@ -429,6 +431,19 @@
     ]
   },
   {
+    "qid": "Q213901",
+    "name": "Gene therapy",
+    "wp_count": 52,
+    "emoji": "🧬",
+    "blurb": "Treats disease by inserting, modifying, or replacing genes inside a patient's cells.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
     "qid": "Q469",
     "name": "Dyson sphere",
     "wp_count": 51,
@@ -510,6 +525,17 @@
     ]
   },
   {
+    "qid": "Q1142726",
+    "name": "Intelligent agent",
+    "wp_count": 37,
+    "emoji": "🤖",
+    "blurb": "Software that perceives its environment and takes autonomous actions to achieve goals.",
+    "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
     "qid": "Q180381",
     "name": "Cold fusion",
     "wp_count": 37,
@@ -534,12 +560,199 @@
     ]
   },
   {
+    "qid": "Q7543123",
+    "name": "Small modular reactor",
+    "wp_count": 29,
+    "emoji": "⚛️",
+    "blurb": "Compact factory-built nuclear reactor that ships in modules and scales output by count.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q967145",
+    "name": "Satellite constellation",
+    "wp_count": 26,
+    "emoji": "🛰️",
+    "blurb": "Coordinated swarm of small satellites providing global coverage that single craft cannot.",
+    "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q391088",
+    "name": "Sodium-ion battery",
+    "wp_count": 24,
+    "emoji": "🧂",
+    "blurb": "Battery storing energy in sodium ions, abundant and cheaper than lithium alternatives.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q529909",
+    "name": "Multi-agent system",
+    "wp_count": 24,
+    "emoji": "🤝",
+    "blurb": "Network of autonomous software agents that interact to solve problems no single agent can.",
+    "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q901551",
+    "name": "Lithium iron phosphate battery",
+    "wp_count": 24,
+    "emoji": "🔋",
+    "blurb": "A safe, long-cycle rechargeable battery using lithium iron phosphate as cathode.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q4845080",
+    "name": "Wearable technology",
+    "wp_count": 23,
+    "emoji": "⌚",
+    "blurb": "Body-worn computers and sensors that track physiology and surface ambient computing.",
+    "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q58181",
+    "name": "Vactrain",
+    "wp_count": 19,
+    "emoji": "🚄",
+    "blurb": "A train traveling through a vacuum tube at near-aircraft speeds with minimal drag.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q112702082",
+    "name": "Foundation model",
+    "wp_count": 17,
+    "emoji": "🏗️",
+    "blurb": "Very large neural network pretrained on broad data, then fine-tuned for many downstream tasks.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q1638492",
+    "name": "Continuous glucose monitor",
+    "wp_count": 16,
+    "emoji": "📈",
+    "blurb": "Skin-worn sensor reporting blood glucose levels in real time without finger pricks.",
+    "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q18387741",
+    "name": "Perovskite solar cell",
+    "wp_count": 15,
+    "emoji": "☀️",
+    "blurb": "Solar cell using perovskite-structured crystals to capture light cheaply at high efficiency.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q523846",
+    "name": "Photonic integrated circuit",
+    "wp_count": 14,
+    "emoji": "💡",
+    "blurb": "Chip processing information with photons instead of electrons for high-bandwidth data movement.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q22349364",
+    "name": "Liquid biopsy",
+    "wp_count": 13,
+    "emoji": "🩸",
+    "blurb": "Detects cancer DNA fragments circulating in blood, often replacing surgical tissue biopsies.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
     "qid": "Q185410",
     "name": "Reversible computing",
     "wp_count": 12,
     "emoji": "🔄",
     "blurb": "Computation engineered to preserve all inputs, enabling reversal and theoretically near-zero-energy operation.",
     "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q30688561",
+    "name": "Mixture of experts",
+    "wp_count": 10,
+    "emoji": "🎭",
+    "blurb": "Neural architecture routing each input through a small subset of specialized expert sub-networks.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q60761394",
+    "name": "Direct air capture",
+    "wp_count": 10,
+    "emoji": "🌬️",
+    "blurb": "Filters carbon dioxide directly from atmospheric air for sequestration or industrial reuse.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q137425629",
+    "name": "Neuromorphic computing",
+    "wp_count": 6,
+    "emoji": "🧠",
+    "blurb": "Hardware mimicking neural firing patterns for ultra-low-power sensory and learning workloads.",
+    "tags": [
+      "emerging"
+    ],
     "selected_via": [
       "manual_add"
     ]

@@ -1,0 +1,1402 @@
+[
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q1133068",
+    "name": "Spectral RFID Ink",
+    "emoji": "🏷️",
+    "blurb": "Quantum-dot tags embedded in packaging emit readable RFID signals without external power."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q189177",
+    "name": "Tagged Scene Renderer",
+    "emoji": "🎮",
+    "blurb": "RFID-tracked physical objects automatically populate matching 3D digital environments in real time."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q208376",
+    "name": "Radioisotope Tag Tracker",
+    "emoji": "☢️",
+    "blurb": "Tiny RFID chips co-located with PET tracers let scanners map metabolic activity to tagged items."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q324634",
+    "name": "Gestational Asset Monitor",
+    "emoji": "🤰",
+    "blurb": "RFID sensors embedded in wearables continuously track fetal position and surrogate vital signs."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q629000",
+    "name": "Smart Timber Provenance",
+    "emoji": "🪵",
+    "blurb": "RFID chips inserted into structural beams log load history and chain-of-custody from forest to frame."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q180165",
+    "name": "Zero-Loss Actuator Drive",
+    "emoji": "🌀",
+    "blurb": "Superfluid bearings eliminate friction in mechatronic joints, enabling perpetually efficient robotic motion."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q200117",
+    "name": "Cryogenic Embryo Conduit",
+    "emoji": "🧊",
+    "blurb": "Superfluid helium micro-channels transport and preserve embryos at near-zero thermal damage."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q234904",
+    "name": "Frictionless Acoustic Lens",
+    "emoji": "🔊",
+    "blurb": "Superfluid waveguides focus ultrasound beams with zero scattering for sub-millimetre tissue imaging."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q466410",
+    "name": "Quantum Vortex Processor",
+    "emoji": "🌊",
+    "blurb": "Superfluid vortex arrays encode and route data in cutting-edge photonic computing architectures."
+  },
+  {
+    "qid_a": "Q1068473",
+    "qid_b": "Q11468",
+    "name": "Nano-Tutor Scaffold",
+    "emoji": "🔬",
+    "blurb": "Nanoscale sensors embedded in learning materials adapt lesson pacing to individual cognitive signals."
+  },
+  {
+    "qid_a": "Q1068473",
+    "qid_b": "Q170978",
+    "name": "Robotic Lab Partner",
+    "emoji": "🤖",
+    "blurb": "An autonomous robot guides students through hands-on science experiments with real-time feedback."
+  },
+  {
+    "qid_a": "Q1068473",
+    "qid_b": "Q204043",
+    "name": "Quantum Classroom Relay",
+    "emoji": "✨",
+    "blurb": "Teleports lesson data and skill states between distributed learners instantly, eliminating latency barriers."
+  },
+  {
+    "qid_a": "Q1068473",
+    "qid_b": "Q469",
+    "name": "Stellar Curriculum Engine",
+    "emoji": "⭐",
+    "blurb": "A Dyson-sphere energy surplus powers planet-scale personalised education systems for all humanity."
+  },
+  {
+    "qid_a": "Q1133068",
+    "qid_b": "Q120877",
+    "name": "Clonal Pixel Biobank",
+    "emoji": "💡",
+    "blurb": "Quantum dots derived from cloned cell lines produce perfectly uniform display phosphors at scale."
+  },
+  {
+    "qid_a": "Q1133068",
+    "qid_b": "Q176555",
+    "name": "Qubit Photon Interface",
+    "emoji": "💻",
+    "blurb": "Quantum dots serve as single-photon emitters coupling qubits to optical fibre quantum networks."
+  },
+  {
+    "qid_a": "Q1133068",
+    "qid_b": "Q20514253",
+    "name": "Luminescent Token Ledger",
+    "emoji": "🔗",
+    "blurb": "Quantum-dot emission spectra encode unique cryptographic identifiers for physical blockchain-verified assets."
+  },
+  {
+    "qid_a": "Q1133068",
+    "qid_b": "Q584529",
+    "name": "Photonic Skin Display",
+    "emoji": "🦾",
+    "blurb": "Quantum-dot arrays embedded in humanoid robot skin render expressive full-colour facial emotion."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q180165",
+    "name": "Molecular Mechatronic Assembler",
+    "emoji": "⚙️",
+    "blurb": "Nanoscale actuators and sensors integrated into mechatronic systems build components atom by atom."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q200117",
+    "name": "Nano-Assisted Embryo Repair",
+    "emoji": "🍼",
+    "blurb": "Nanoparticles delivered during IVF correct genetic defects in the fertilised egg before implantation."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q234904",
+    "name": "Acoustic Nanoparticle Guidance",
+    "emoji": "🔊",
+    "blurb": "Ultrasound steers drug-loaded nanoparticles to precise tissue targets with millimetre accuracy."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q466410",
+    "name": "Atomically Thin Computing",
+    "emoji": "📱",
+    "blurb": "Nanotechnology fabricates processors at the physical limit, powering next-generation high-tech devices."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q117246174",
+    "name": "Self-Improving Generative Stack",
+    "emoji": "🧠",
+    "blurb": "AI designs and retrains its own generative models, compressing months of research into hours."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q189436",
+    "name": "Intent-Aware Voice Agent",
+    "emoji": "🎙️",
+    "blurb": "AI infers emotional context and unstated goals from speech, responding before users finish asking."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q209593",
+    "name": "Adaptive OLED Intelligence",
+    "emoji": "📺",
+    "blurb": "AI-driven pixel control adjusts display colour and brightness per viewer's gaze and lighting in real time."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q334645",
+    "name": "Surrogate Health Coordinator",
+    "emoji": "🤰",
+    "blurb": "AI continuously monitors surrogate pregnancies, flagging anomalies and coordinating medical responses autonomously."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q788558",
+    "name": "Phenotype Prediction Breeder",
+    "emoji": "🌾",
+    "blurb": "AI models full plant genomes to predict optimal crossing pairs, accelerating crop improvement by decades."
+  },
+  {
+    "qid_a": "Q117246174",
+    "qid_b": "Q169917",
+    "name": "Graphene Circuit Synthesiser",
+    "emoji": "🪨",
+    "blurb": "Generative AI designs graphene-based chip layouts that classical tools cannot conceive."
+  },
+  {
+    "qid_a": "Q117246174",
+    "qid_b": "Q185410",
+    "name": "Lossless Generative Memory",
+    "emoji": "🔄",
+    "blurb": "Generative AI trained on reversible-computing architectures produces outputs recoverable to original prompts."
+  },
+  {
+    "qid_a": "Q117246174",
+    "qid_b": "Q381490",
+    "name": "Aerogel Architecture Generator",
+    "emoji": "🌫️",
+    "blurb": "Generative AI designs ultralight aerogel building components optimised for structural load and insulation."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q12623",
+    "name": "Perpetual Clone Bioreactor",
+    "emoji": "🐑",
+    "blurb": "Cloned cell lines theoretically self-sustain indefinitely, approaching a biological perpetual-motion analogue."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q189900",
+    "name": "Clone Identity Shield",
+    "emoji": "🔒",
+    "blurb": "Cryptographic security protocols prevent unauthorised use or duplication of cloned genomic datasets."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q211017",
+    "name": "Digital Genetic Registry",
+    "emoji": "🏛️",
+    "blurb": "Government-run clonal genome databases enable rapid disease response and heritage preservation at scale."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q3353185",
+    "name": "Genomic Yield Analytics",
+    "emoji": "📊",
+    "blurb": "Business intelligence dashboards track cloned livestock and crop performance across entire agricultural enterprises."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q83913",
+    "name": "Phosphor Clone Emitter",
+    "emoji": "📡",
+    "blurb": "Cloned bioluminescent cells replace phosphor coatings in CRT-like displays for organic light emission."
+  },
+  {
+    "qid_a": "Q12623",
+    "qid_b": "Q170978",
+    "name": "Self-Winding Robot Chassis",
+    "emoji": "🤖",
+    "blurb": "Robots harvest ambient vibration and heat through clever mechanics to run indefinitely without recharging."
+  },
+  {
+    "qid_a": "Q12623",
+    "qid_b": "Q204043",
+    "name": "Conservation-Law Teleporter",
+    "emoji": "✨",
+    "blurb": "Teleportation architecture designed around strict energy conservation principles, the closest physics allows."
+  },
+  {
+    "qid_a": "Q12623",
+    "qid_b": "Q469",
+    "name": "Closed-Loop Stellar Tap",
+    "emoji": "⭐",
+    "blurb": "Dyson-sphere design that recycles all waste heat back into usable energy, approaching thermodynamic ideality."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q180165",
+    "name": "Reactor Mechatronic Steward",
+    "emoji": "☢️",
+    "blurb": "Mechatronic systems autonomously monitor and adjust nuclear reactor control rods in real time."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q200117",
+    "name": "Isotope-Traced Embryo Viability",
+    "emoji": "🍼",
+    "blurb": "Low-dose nuclear tracers assess IVF embryo metabolism before implantation without damaging DNA."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q234904",
+    "name": "Neutron Tissue Sonar",
+    "emoji": "🔊",
+    "blurb": "Combines neutron imaging with ultrasound pulses to map bone-tissue interfaces at reactor facilities."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q466410",
+    "name": "Compact Modular Reactor Suite",
+    "emoji": "📱",
+    "blurb": "Miniaturised nuclear power units power the next generation of off-grid high-tech campuses."
+  },
+  {
+    "qid_a": "Q131508",
+    "qid_b": "Q132744",
+    "name": "Legacy Document ERP Bridge",
+    "emoji": "📠",
+    "blurb": "Digitises fax-transmitted documents directly into ERP workflows, eliminating paper bottlenecks in supply chains."
+  },
+  {
+    "qid_a": "Q131508",
+    "qid_b": "Q178026",
+    "name": "Fullerene Supply Tracker",
+    "emoji": "⚽",
+    "blurb": "ERP modules track fullerene nanomaterial batches from synthesis through quality control to delivery."
+  },
+  {
+    "qid_a": "Q131508",
+    "qid_b": "Q2264109",
+    "name": "Autonomous Enterprise Operator",
+    "emoji": "🏢",
+    "blurb": "AGI manages all ERP modules simultaneously, making procurement, HR, and logistics decisions without humans."
+  },
+  {
+    "qid_a": "Q131508",
+    "qid_b": "Q641442",
+    "name": "Fusion Plant Operations Suite",
+    "emoji": "☀️",
+    "blurb": "ERP platform designed for fusion energy facilities, coordinating plasma operations, maintenance, and energy trading."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q187787",
+    "name": "Evolved Fax Routing Protocol",
+    "emoji": "📠",
+    "blurb": "Genetic algorithms optimise transmission paths for legacy fax networks, maximising throughput over noisy lines."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q208163",
+    "name": "Signal-Cleaned Fax Upscaler",
+    "emoji": "📡",
+    "blurb": "Signal processing reconstructs and enhances fax documents degraded by telephone-line noise and compression."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q3237534",
+    "name": "Light-Speed Document Relay",
+    "emoji": "💡",
+    "blurb": "Li-Fi optical links replace telephone lines, transmitting fax-format documents at gigabit speeds."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q611909",
+    "name": "Lab-Meat Compliance Fax",
+    "emoji": "🍖",
+    "blurb": "Cultured-meat facilities use fax-compatible regulatory forms to satisfy legacy food-safety inspection systems."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q185146",
+    "name": "Plasma Display Token Wall",
+    "emoji": "📺",
+    "blurb": "Cryptocurrency market data streams across plasma display grids in real-time trading floors."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q207971",
+    "name": "Token Ring Settlement Chain",
+    "emoji": "🔗",
+    "blurb": "Token-ring network topology enforces ordered transaction sequencing for cryptocurrency settlement without forks."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q2632041",
+    "name": "Metaverse Reserve Currency",
+    "emoji": "🪙",
+    "blurb": "Cryptocurrency underpins all economic activity in persistent virtual worlds, convertible to physical assets."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q535695",
+    "name": "Mobile Mesh Crypto Wallet",
+    "emoji": "📶",
+    "blurb": "Cellular networks carry end-to-end encrypted cryptocurrency transactions with hardware-backed wallet SIMs."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q184609",
+    "name": "Ascent Operations Expert",
+    "emoji": "🛗",
+    "blurb": "Expert systems manage climb rates, payload sequencing, and anomaly response for space elevator capsules."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q207122",
+    "name": "Orbital Germline Transport",
+    "emoji": "🧫",
+    "blurb": "Space elevator ferries cryopreserved gametes to orbital reproduction labs beyond Earth's radiation belts."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q245341",
+    "name": "Tether Structural X-Ray Survey",
+    "emoji": "🩻",
+    "blurb": "Radiographic drones crawl the space elevator cable inspecting for micro-fractures before each ascent."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q5268834",
+    "name": "Orbital ICT Interchange",
+    "emoji": "📱",
+    "blurb": "Space elevator anchor stations host global ICT hubs, routing satellite and ground-fibre traffic."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q182250",
+    "name": "Gene-Edit Curriculum Lab",
+    "emoji": "🧬",
+    "blurb": "E-learning platforms teach CRISPR and genetic engineering through interactive virtual wet-lab simulations."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q204606",
+    "name": "Cyberspace Gene Registry",
+    "emoji": "🌐",
+    "blurb": "Genetic engineering designs are shared and peer-reviewed in online repositories spanning research institutions globally."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q242256",
+    "name": "Biosafety Surveillance Grid",
+    "emoji": "📹",
+    "blurb": "CCTV-linked AI monitors genetic engineering labs continuously, flagging containment breaches in real time."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q49473179",
+    "name": "Synthetic Biology Deepfake",
+    "emoji": "🎭",
+    "blurb": "AI generates convincing but fictitious genetic engineering results to stress-test peer-review integrity."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q180634",
+    "name": "Federated MRI Inference",
+    "emoji": "🧲",
+    "blurb": "Distributed computing nodes collaboratively reconstruct MRI scans without sharing raw patient data."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q200403",
+    "name": "Crash-Biomechanics MRI Atlas",
+    "emoji": "🪑",
+    "blurb": "MRI data from seat-belt test dummies builds a definitive map of soft-tissue injury patterns."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q238354",
+    "name": "Remote MRI Consultation",
+    "emoji": "🧲",
+    "blurb": "Video conferencing integrates live MRI feeds so radiologists diagnose patients from any continent."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q468414",
+    "name": "MR-Guided Angioplasty",
+    "emoji": "🧲",
+    "blurb": "Real-time MRI replaces X-ray guidance during angiographic procedures, eliminating ionising radiation exposure."
+  },
+  {
+    "qid_a": "Q167555",
+    "qid_b": "Q170519",
+    "name": "VR Document Inspector",
+    "emoji": "🥽",
+    "blurb": "OCR-extracted text populates immersive 3D archives users navigate and annotate in virtual reality."
+  },
+  {
+    "qid_a": "Q167555",
+    "qid_b": "Q192776",
+    "name": "Neural Script Decoder",
+    "emoji": "📄",
+    "blurb": "Deep neural networks decipher degraded historical manuscripts that classical OCR consistently fails to read."
+  },
+  {
+    "qid_a": "Q167555",
+    "qid_b": "Q4439",
+    "name": "Disk-Indexed OCR Archive",
+    "emoji": "💾",
+    "blurb": "OCR converts physical document collections into fully searchable text stored on high-density hard drives."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q180634",
+    "name": "Graphene Mesh Data Fabric",
+    "emoji": "🪨",
+    "blurb": "Graphene interconnects replace copper in distributed computing clusters, slashing latency and power draw."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q200403",
+    "name": "Graphene Crash Absorber",
+    "emoji": "🛡️",
+    "blurb": "Graphene composite seat-belt webbing absorbs far more crash energy than nylon at the same weight."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q238354",
+    "name": "Graphene Antenna Conference",
+    "emoji": "📹",
+    "blurb": "Graphene antennas in video-conference hardware achieve terahertz bandwidth for lag-free 8K remote meetings."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q468414",
+    "name": "Graphene Contrast Agent",
+    "emoji": "🩸",
+    "blurb": "Graphene oxide nanoflakes act as MRI-compatible angiography contrast agents with superior vessel resolution."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q180634",
+    "name": "Distributed VR Render Farm",
+    "emoji": "🥽",
+    "blurb": "Networked computers share rendering load to deliver photorealistic virtual-reality scenes at real-time frame rates."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q200403",
+    "name": "Crash Safety VR Simulator",
+    "emoji": "🪑",
+    "blurb": "Virtual reality recreates collision scenarios to test seat-belt designs without physical crash-test expenditure."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q238354",
+    "name": "Holographic Video Conferencing",
+    "emoji": "🥽",
+    "blurb": "VR headsets render remote participants as life-sized holographic presences in shared virtual meeting rooms."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q468414",
+    "name": "Vascular VR Surgical Trainer",
+    "emoji": "🩸",
+    "blurb": "Surgeons practice angiographic catheter navigation through photorealistic virtual arteries before operating on patients."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q180634",
+    "name": "Robot Swarm Grid",
+    "emoji": "🤖",
+    "blurb": "Hundreds of robots share tasks over distributed computing, adapting collectively to factory floor changes."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q200403",
+    "name": "Collision Reflex Robot",
+    "emoji": "🛞",
+    "blurb": "Robots use seat-belt-inspired restraint systems to protect carried cargo and bystanders during sudden stops."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q238354",
+    "name": "Telepresence Robot Pilot",
+    "emoji": "📹",
+    "blurb": "Operators video-conference into mobile robots, controlling them with full camera feedback from any location."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q468414",
+    "name": "Endovascular Micro-Robot",
+    "emoji": "🤖",
+    "blurb": "Miniature robots navigate blood vessels guided by angiographic imaging to deliver targeted therapies."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q180634",
+    "name": "Federated Gene-Edit Pipeline",
+    "emoji": "✂️",
+    "blurb": "Distributed computing clusters accelerate CRISPR off-target analysis across globally shared genomic datasets."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q200403",
+    "name": "Genetic Crash Resilience",
+    "emoji": "✂️",
+    "blurb": "CRISPR edits connective-tissue genes to make humans biologically more resistant to seat-belt injury forces."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q238354",
+    "name": "Remote Gene Therapy Consult",
+    "emoji": "✂️",
+    "blurb": "Clinicians video-conference to plan CRISPR treatment protocols with patients in gene-therapy-underserved regions."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q468414",
+    "name": "Gene-Corrected Vessel Repair",
+    "emoji": "🩸",
+    "blurb": "CRISPR-edited cells are delivered angiographically to repair arterial disease at its genomic root."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q180634",
+    "name": "Quantum Distributed Solver",
+    "emoji": "💻",
+    "blurb": "Quantum processors networked across sites solve optimisation problems impossible for classical distributed systems."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q200403",
+    "name": "Quantum Crash Simulator",
+    "emoji": "💻",
+    "blurb": "Quantum computers model molecular-level deformation of seat-belt materials during impact with exact accuracy."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q238354",
+    "name": "Quantum Encrypted Video Link",
+    "emoji": "📹",
+    "blurb": "Video conferences secured by quantum key distribution that no eavesdropper can intercept or decode."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q468414",
+    "name": "Quantum Contrast Optimiser",
+    "emoji": "💻",
+    "blurb": "Quantum algorithms process angiography image data to detect vessel anomalies invisible to classical software."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q180634",
+    "name": "Distributed Biometric Auth",
+    "emoji": "🖐️",
+    "blurb": "Biometric verification is processed across distributed nodes, preventing any single server from holding raw data."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q200403",
+    "name": "Biometric Occupant Restraint",
+    "emoji": "🪑",
+    "blurb": "Seat belts adjust pre-tensioning in real time based on biometric readings of occupant size and posture."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q238354",
+    "name": "Biometric Conference Gate",
+    "emoji": "🖐️",
+    "blurb": "Video-conference systems authenticate all participants via continuous biometric verification, preventing impersonation."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q468414",
+    "name": "Vascular Biometric ID",
+    "emoji": "🩸",
+    "blurb": "Angiographic maps of unique vascular patterns serve as unforgeable biometric identifiers."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q180634",
+    "name": "Fullerene Network Router",
+    "emoji": "⚽",
+    "blurb": "Carbon-cage molecules form ultra-low-resistance interconnects in distributed computing switching fabrics."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q200403",
+    "name": "Buckminsterfullerene Belt Weave",
+    "emoji": "⚽",
+    "blurb": "Fullerene-reinforced fibres woven into seat belts absorb peak crash forces at a fraction of the weight."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q238354",
+    "name": "Molecular Video Codec",
+    "emoji": "⚽",
+    "blurb": "Fullerene-based data storage encodes video-conference streams at densities no conventional medium can match."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q468414",
+    "name": "Fullerene Drug Angiogram",
+    "emoji": "🩸",
+    "blurb": "Fullerene cages carry imaging agents through the bloodstream, enhancing angiographic contrast with targeted release."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q180634",
+    "name": "Federated Brain-Signal Atlas",
+    "emoji": "🧠",
+    "blurb": "EEG recordings from worldwide participants are analysed collaboratively without ever leaving local servers."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q200403",
+    "name": "Drowsiness Restraint Trigger",
+    "emoji": "🧠",
+    "blurb": "EEG wearables detect driver microsleep and automatically tighten seat belts before a collision occurs."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q238354",
+    "name": "Neural State Conference Bridge",
+    "emoji": "🧠",
+    "blurb": "EEG data streams alongside video to tell remote participants when a speaker is losing focus."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q468414",
+    "name": "Cerebrovascular EEG Correlator",
+    "emoji": "🧠",
+    "blurb": "Simultaneous EEG and angiography maps electrical brain events onto their underlying vascular anatomy."
+  },
+  {
+    "qid_a": "Q180165",
+    "qid_b": "Q181802",
+    "name": "Sensorimotor Prosthetic Joint",
+    "emoji": "🦾",
+    "blurb": "Mechatronic systems give prosthetic limbs muscle-like compliance and real-time sensory feedback to the brain."
+  },
+  {
+    "qid_a": "Q180165",
+    "qid_b": "Q30642",
+    "name": "Dialogue-Driven Machine Control",
+    "emoji": "💬",
+    "blurb": "Natural language commands are parsed and translated into precision mechatronic actuator signals in real time."
+  },
+  {
+    "qid_a": "Q180165",
+    "qid_b": "Q79798",
+    "name": "Multilingual Machine Interface",
+    "emoji": "🌐",
+    "blurb": "Machine translation lets engineers in different countries issue commands to shared mechatronic systems seamlessly."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q192532",
+    "name": "Fusion IP Licensing Ledger",
+    "emoji": "🔒",
+    "blurb": "DRM tracks cold-fusion experimental data, ensuring proprietary findings aren't shared before patents are filed."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q216933",
+    "name": "Cavitation Cardiac Monitor",
+    "emoji": "❤️",
+    "blurb": "Cold-fusion bubble dynamics inform ultrasound echocardiography, detecting micro-cavitation events in heart valves."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q348091",
+    "name": "Lattice Confinement Reactor",
+    "emoji": "⚗️",
+    "blurb": "Nuclear technology principles guide cold-fusion research into metal-lattice hydrogen confinement at low temperatures."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q848436",
+    "name": "Basement Fusion Home Grid",
+    "emoji": "🏠",
+    "blurb": "Home automation integrates speculative cold-fusion cells as always-on, zero-emission household power sources."
+  },
+  {
+    "qid_a": "Q180634",
+    "qid_b": "Q254183",
+    "name": "Edge-Compute AR Overlay",
+    "emoji": "🥽",
+    "blurb": "Distributed computing nodes near the user render low-latency augmented reality overlays without cloud round-trips."
+  },
+  {
+    "qid_a": "Q180634",
+    "qid_b": "Q741490",
+    "name": "Fleet Consensus Driving",
+    "emoji": "🚗",
+    "blurb": "Distributed computing lets a city's self-driving cars share sensor data and negotiate routes collectively."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q192532",
+    "name": "DRM-Locked Prosthetic Firmware",
+    "emoji": "🔒",
+    "blurb": "Digital rights management controls prosthetic software updates, preventing unauthorised third-party modifications."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q216933",
+    "name": "Cardiac-Synced Prosthetic Arm",
+    "emoji": "❤️",
+    "blurb": "Echocardiography data calibrates a prosthetic arm's effort level to match the wearer's real cardiac output."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q348091",
+    "name": "Isotope-Powered Prosthetic",
+    "emoji": "🦾",
+    "blurb": "Radioisotope thermal generators embedded in prostheses provide decades of uninterrupted joint actuation power."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q848436",
+    "name": "Home-Adaptive Prosthetic",
+    "emoji": "🏠",
+    "blurb": "Smart-home systems communicate with prosthetic limbs, pre-configuring grip strength for each room's expected tasks."
+  },
+  {
+    "qid_a": "Q182250",
+    "qid_b": "Q30642",
+    "name": "Conversational Course Engine",
+    "emoji": "💬",
+    "blurb": "Natural language processing powers e-learning tutors that hold open-ended Socratic dialogues with students."
+  },
+  {
+    "qid_a": "Q182250",
+    "qid_b": "Q79798",
+    "name": "Instant-Localised E-Course",
+    "emoji": "📚",
+    "blurb": "Machine translation auto-localises e-learning content into any language within minutes of the source being updated."
+  },
+  {
+    "qid_a": "Q184199",
+    "qid_b": "Q200403",
+    "name": "Automated Belt Tensioner",
+    "emoji": "🤖",
+    "blurb": "Automation systems continuously adjust seat-belt pre-tension using vehicle dynamics data before crashes occur."
+  },
+  {
+    "qid_a": "Q184199",
+    "qid_b": "Q238354",
+    "name": "Automated Meeting Scheduler",
+    "emoji": "🤖",
+    "blurb": "Automation coordinates global video-conference calendars, handling time zones and conflicts without human effort."
+  },
+  {
+    "qid_a": "Q184199",
+    "qid_b": "Q468414",
+    "name": "Automated Angiography Pipeline",
+    "emoji": "🩸",
+    "blurb": "Automation handles contrast injection, image acquisition, and anomaly flagging across entire radiology departments."
+  },
+  {
+    "qid_a": "Q184609",
+    "qid_b": "Q192776",
+    "name": "Neural-Backed Expert Oracle",
+    "emoji": "🧑‍💻",
+    "blurb": "Neural networks augment rule-based expert systems, handling ambiguous edge cases the rules alone cannot resolve."
+  },
+  {
+    "qid_a": "Q184609",
+    "qid_b": "Q4439",
+    "name": "Spinning Rule-Base Archive",
+    "emoji": "💾",
+    "blurb": "Hard disks store vast expert-system knowledge bases, accessed by inference engines with sub-millisecond latency."
+  },
+  {
+    "qid_a": "Q185146",
+    "qid_b": "Q192776",
+    "name": "Neural Plasma Calibrator",
+    "emoji": "📺",
+    "blurb": "Neural networks calibrate plasma display panels pixel-by-pixel for uniform brightness and colour accuracy."
+  },
+  {
+    "qid_a": "Q185146",
+    "qid_b": "Q4439",
+    "name": "Plasma Archive Terminal",
+    "emoji": "📡",
+    "blurb": "Plasma displays paired with hard drives form self-contained archival kiosks for browsing digitised collections."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q189177",
+    "name": "Reversible 3D Scene Graph",
+    "emoji": "🖥️",
+    "blurb": "3D rendering pipelines built on reversible computation let artists undo any effect with zero data loss."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q208376",
+    "name": "Reversible PET Reconstruction",
+    "emoji": "☢️",
+    "blurb": "Reversible-computing algorithms reconstruct PET scan volumes in ways fully auditable and reproducible step-by-step."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q324634",
+    "name": "Lossless Gestational Data Store",
+    "emoji": "🔄",
+    "blurb": "Reversible computation preserves every monitoring event from a surrogate pregnancy for complete retrospective analysis."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q629000",
+    "name": "Reversible Structural Sim",
+    "emoji": "🪵",
+    "blurb": "Timber-frame structural simulations run on reversible-computing hardware, replaying any load scenario without re-simulation."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q2539",
+    "name": "Evolved Learning Architecture",
+    "emoji": "🧬",
+    "blurb": "Genetic algorithms evolve machine-learning model architectures, discovering novel networks faster than human design."
+  },
+  {
+    "qid_a": "Q187787",
+    "qid_b": "Q7108",
+    "name": "Directed Protein Evolution Engine",
+    "emoji": "🧬",
+    "blurb": "Genetic algorithms guide in-silico directed evolution of enzymes for faster biotechnology product pipelines."
+  },
+  {
+    "qid_a": "Q189177",
+    "qid_b": "Q254183",
+    "name": "3D AR Scene Compositor",
+    "emoji": "🥽",
+    "blurb": "Real-time 3D graphics rendering fuses seamlessly with live camera feeds for photorealistic AR overlays."
+  },
+  {
+    "qid_a": "Q189177",
+    "qid_b": "Q741490",
+    "name": "Synthetic Driving Environment",
+    "emoji": "🚗",
+    "blurb": "3D computer graphics generate photorealistic simulation worlds where self-driving AI trains without real-world risk."
+  },
+  {
+    "qid_a": "Q189436",
+    "qid_b": "Q30642",
+    "name": "Spoken Query Reasoner",
+    "emoji": "🎙️",
+    "blurb": "Speech recognition feeds directly into NLP reasoning engines for fully voice-driven knowledge retrieval."
+  },
+  {
+    "qid_a": "Q189436",
+    "qid_b": "Q79798",
+    "name": "Live Speech Translator",
+    "emoji": "🎙️",
+    "blurb": "Speech recognition and machine translation chain together for real-time spoken-language interpretation."
+  },
+  {
+    "qid_a": "Q189900",
+    "qid_b": "Q32566",
+    "name": "Encrypted Scan Repository",
+    "emoji": "🔒",
+    "blurb": "Information security protocols protect CT scan archives from ransomware and unauthorised clinical access."
+  },
+  {
+    "qid_a": "Q189900",
+    "qid_b": "Q83341",
+    "name": "Tamper-Proof Display Driver",
+    "emoji": "🔒",
+    "blurb": "Information security validates LCD display firmware, preventing malicious pixel manipulation in medical imaging systems."
+  },
+  {
+    "qid_a": "Q190660",
+    "qid_b": "Q381490",
+    "name": "Aerogel Brake Insulator",
+    "emoji": "🛞",
+    "blurb": "Aerogel pads thermally isolate ABS brake electronics from rotor heat, improving reliability in extreme conditions."
+  },
+  {
+    "qid_a": "Q192532",
+    "qid_b": "Q192776",
+    "name": "Neural DRM Classifier",
+    "emoji": "🔒",
+    "blurb": "Neural networks detect DRM-circumvention attempts in real time by classifying network traffic patterns."
+  },
+  {
+    "qid_a": "Q192532",
+    "qid_b": "Q4439",
+    "name": "DRM-Sealed Hard Drive",
+    "emoji": "💾",
+    "blurb": "Hard drives with embedded DRM chips enforce per-file access rights independently of the host operating system."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q200403",
+    "name": "Neural Crash Prediction",
+    "emoji": "🕸️",
+    "blurb": "Neural networks analyse vehicle telemetry to predict imminent collisions and pre-arm seat-belt tensioners."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q238354",
+    "name": "Neural Conference Captioner",
+    "emoji": "🕸️",
+    "blurb": "Neural networks transcribe and contextualise speech in real-time video calls, surfacing key points instantly."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q468414",
+    "name": "Neural Vessel Segmenter",
+    "emoji": "🩸",
+    "blurb": "Neural networks automatically delineate blood vessels in angiographic images with radiologist-level accuracy."
+  },
+  {
+    "qid_a": "Q200117",
+    "qid_b": "Q204520",
+    "name": "Exo-Planetary IVF Lab",
+    "emoji": "🌍",
+    "blurb": "IVF techniques adapted to terraformed planet conditions enable human reproduction beyond Earth's solar system."
+  },
+  {
+    "qid_a": "Q200117",
+    "qid_b": "Q527628",
+    "name": "Holographic Embryo Viewer",
+    "emoji": "🔆",
+    "blurb": "Holography reconstructs full 3D embryo morphology from IVF microscopy data for non-invasive selection."
+  },
+  {
+    "qid_a": "Q200403",
+    "qid_b": "Q212809",
+    "name": "Endoscopic Seat-Belt Repair",
+    "emoji": "🔦",
+    "blurb": "Minimally invasive endoscopy repairs internal seat-belt injuries through tiny incisions rather than open surgery."
+  },
+  {
+    "qid_a": "Q200403",
+    "qid_b": "Q633581",
+    "name": "Cryo-Preserved Crash Survivor",
+    "emoji": "🧊",
+    "blurb": "Emergency cryonics preserves critically injured crash victims until future medicine can treat their injuries."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q209593",
+    "name": "Instant Display Teleporter",
+    "emoji": "✨",
+    "blurb": "Quantum teleportation of display state updates OLED screens instantaneously across any physical distance."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q334645",
+    "name": "Gamete Teleportation Protocol",
+    "emoji": "✨",
+    "blurb": "Quantum information teleportation transmits the complete genetic state of gametes to distant surrogacy partners."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q788558",
+    "name": "Seed-Gene Teleporter",
+    "emoji": "🌾",
+    "blurb": "Quantum state transfer instantly relays optimised plant breeding genotype data to remote agricultural labs."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q211500",
+    "name": "Atmospheric Pneumatic Sculptor",
+    "emoji": "🌍",
+    "blurb": "Massive pneumatic systems pump and redirect atmospheric gases to accelerate planetary terraforming timelines."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q339042",
+    "name": "Stealth Terraforming Probe",
+    "emoji": "👻",
+    "blurb": "Radar-absorbing terraforming drones operate undetected, seeding target planets without triggering orbital surveillance."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q840387",
+    "name": "Planetary Gut-Biome Survey",
+    "emoji": "🌍",
+    "blurb": "Colonoscope-inspired probes sample subsurface soil microbiomes to assess terraforming readiness on Mars."
+  },
+  {
+    "qid_a": "Q204606",
+    "qid_b": "Q469",
+    "name": "Stellar Cyberspace Relay",
+    "emoji": "⭐",
+    "blurb": "A Dyson-sphere-powered transmitter sustains a light-speed cyberspace network spanning interstellar distances."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q208163",
+    "name": "Signal-Verified Block Ledger",
+    "emoji": "🔗",
+    "blurb": "Signal processing validates blockchain data integrity by detecting transmission anomalies before block confirmation."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q3237534",
+    "name": "Photonic Blockchain Node",
+    "emoji": "💡",
+    "blurb": "Li-Fi optical links connect blockchain nodes, enabling ultra-low-latency transaction propagation in dense spaces."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q611909",
+    "name": "Lab-Meat Supply Chain Ledger",
+    "emoji": "🍖",
+    "blurb": "Blockchain tracks cultured-meat batches from bioreactor to consumer, guaranteeing provenance and safety compliance."
+  },
+  {
+    "qid_a": "Q207122",
+    "qid_b": "Q32566",
+    "name": "Sperm Pathway CT Mapping",
+    "emoji": "🧫",
+    "blurb": "CT imaging maps reproductive tract anatomy precisely before artificial insemination to maximise placement accuracy."
+  },
+  {
+    "qid_a": "Q207122",
+    "qid_b": "Q83341",
+    "name": "LCD Microfluidic Sperm Sorter",
+    "emoji": "🧫",
+    "blurb": "Liquid-crystal microfluidic channels sort motile sperm using electric fields before artificial insemination."
+  },
+  {
+    "qid_a": "Q207971",
+    "qid_b": "Q584529",
+    "name": "Token-Ordered Robot Collaboration",
+    "emoji": "🦾",
+    "blurb": "Token-ring protocol mediates communication between humanoid robots, preventing data collisions on shared networks."
+  },
+  {
+    "qid_a": "Q208163",
+    "qid_b": "Q30642",
+    "name": "Acoustic Language Interpreter",
+    "emoji": "📊",
+    "blurb": "Signal processing extracts linguistic features from noisy audio, feeding cleaner input to NLP models."
+  },
+  {
+    "qid_a": "Q208163",
+    "qid_b": "Q79798",
+    "name": "Noise-Robust Audio Translator",
+    "emoji": "🌐",
+    "blurb": "Signal processing cleans real-world audio before machine translation, eliminating errors from background noise."
+  },
+  {
+    "qid_a": "Q208376",
+    "qid_b": "Q527628",
+    "name": "Holographic PET Visualiser",
+    "emoji": "🔆",
+    "blurb": "Holographic displays reconstruct PET metabolic maps as navigable 3D light fields around the patient."
+  },
+  {
+    "qid_a": "Q209593",
+    "qid_b": "Q254183",
+    "name": "OLED AR Contact Lens",
+    "emoji": "🥽",
+    "blurb": "Micro-OLED displays embedded in contact lenses overlay augmented reality directly onto the wearer's vision."
+  },
+  {
+    "qid_a": "Q209593",
+    "qid_b": "Q741490",
+    "name": "OLED Dashboard Navigator",
+    "emoji": "🚗",
+    "blurb": "Flexible OLED panels wrap self-driving car interiors, displaying navigation, status, and entertainment on any surface."
+  },
+  {
+    "qid_a": "Q211017",
+    "qid_b": "Q469",
+    "name": "Dyson-Sphere Governance Portal",
+    "emoji": "🏛️",
+    "blurb": "E-government platforms scaled to manage civilisation-level energy resources distributed by a stellar megastructure."
+  },
+  {
+    "qid_a": "Q211500",
+    "qid_b": "Q2539",
+    "name": "ML-Optimised Pneumatic Logic",
+    "emoji": "💨",
+    "blurb": "Machine learning tunes pneumatic valve sequences for maximum efficiency in complex automated industrial systems."
+  },
+  {
+    "qid_a": "Q211500",
+    "qid_b": "Q7108",
+    "name": "Pneumatic Bioprocess Actuator",
+    "emoji": "💨",
+    "blurb": "Compressed-air actuators precisely control bioreactor mixing and sampling in biotech cell-culture workflows."
+  },
+  {
+    "qid_a": "Q212809",
+    "qid_b": "Q324634",
+    "name": "Endoscopic Uterine Scout",
+    "emoji": "🔦",
+    "blurb": "Miniature endoscopes inspect surrogate uteruses before implantation to detect polyps or structural anomalies."
+  },
+  {
+    "qid_a": "Q212809",
+    "qid_b": "Q629000",
+    "name": "Structural Endoscopy Probe",
+    "emoji": "🪵",
+    "blurb": "Endoscope-sized sensors thread through timber-frame cavities to inspect hidden joints for rot and stress fractures."
+  },
+  {
+    "qid_a": "Q216933",
+    "qid_b": "Q4439",
+    "name": "Long-Term Echo Archive",
+    "emoji": "❤️",
+    "blurb": "Hard drives store decades of echocardiography recordings enabling longitudinal heart disease progression analysis."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q238354",
+    "name": "AGI Conference Moderator",
+    "emoji": "🧠",
+    "blurb": "AGI manages video-conference dynamics, routing speech, summarising threads, and resolving cross-talk in real time."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q468414",
+    "name": "AGI Angiogram Diagnostician",
+    "emoji": "🧠",
+    "blurb": "AGI interprets angiographic images across all known vascular conditions with superhuman diagnostic accuracy."
+  },
+  {
+    "qid_a": "Q234904",
+    "qid_b": "Q254183",
+    "name": "AR Ultrasound Overlay",
+    "emoji": "🥽",
+    "blurb": "Augmented reality overlays real-time ultrasound images onto the patient's body during bedside examinations."
+  },
+  {
+    "qid_a": "Q234904",
+    "qid_b": "Q741490",
+    "name": "Ultrasonic Road-Hazard Sensor",
+    "emoji": "🚗",
+    "blurb": "Medical-grade ultrasound adapted for self-driving cars detects subsurface road voids before tyres reach them."
+  },
+  {
+    "qid_a": "Q238354",
+    "qid_b": "Q584529",
+    "name": "Humanoid Telepresence Avatar",
+    "emoji": "🦾",
+    "blurb": "A humanoid robot acts as a physical proxy in a room while its operator attends via video conference."
+  },
+  {
+    "qid_a": "Q242256",
+    "qid_b": "Q381490",
+    "name": "Aerogel-Shielded CCTV",
+    "emoji": "📹",
+    "blurb": "Aerogel-insulated camera housings let CCTV units operate in arctic or industrial extreme-temperature environments."
+  },
+  {
+    "qid_a": "Q245341",
+    "qid_b": "Q2539",
+    "name": "AI Radiograph Diagnostician",
+    "emoji": "🩻",
+    "blurb": "Machine learning models read radiographic images to detect fractures and lesions faster than human radiologists."
+  },
+  {
+    "qid_a": "Q245341",
+    "qid_b": "Q7108",
+    "name": "X-Ray Bioprocess Inspector",
+    "emoji": "🩻",
+    "blurb": "Radiographic imaging monitors internal bioreactor structures and cell scaffold integrity without opening vessels."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q466410",
+    "name": "Self-Directed Research Engine",
+    "emoji": "🧠",
+    "blurb": "Machine learning autonomously generates and tests hypotheses, operating at the frontier of high-tech discovery."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q2632041",
+    "name": "Persistent AR Metaverse Layer",
+    "emoji": "🥽",
+    "blurb": "Augmented reality bridges physical and metaverse spaces so digital objects persist when headsets are removed."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q535695",
+    "name": "Cellular AR Streaming",
+    "emoji": "📶",
+    "blurb": "5G cellular networks stream low-latency augmented reality content directly to lightweight glasses without local rendering."
+  },
+  {
+    "qid_a": "Q2632041",
+    "qid_b": "Q469",
+    "name": "Stellar Metaverse Foundation",
+    "emoji": "⭐",
+    "blurb": "Dyson-sphere energy powers a persistent metaverse at civilisation scale with no computational resource limits."
+  },
+  {
+    "qid_a": "Q30642",
+    "qid_b": "Q334645",
+    "name": "Surrogacy Consent NLP",
+    "emoji": "💬",
+    "blurb": "NLP tools ensure surrogacy agreements are fully comprehended by all parties in their native languages."
+  },
+  {
+    "qid_a": "Q30642",
+    "qid_b": "Q788558",
+    "name": "Botanical Research Assistant",
+    "emoji": "🌾",
+    "blurb": "NLP mines millions of plant-breeding papers to surface cross-breeding strategies overlooked by human researchers."
+  },
+  {
+    "qid_a": "Q3237534",
+    "qid_b": "Q641442",
+    "name": "Photonic Fusion Telemetry",
+    "emoji": "☀️",
+    "blurb": "Li-Fi links inside fusion reactors transmit plasma diagnostics at gigabit rates immune to electromagnetic interference."
+  },
+  {
+    "qid_a": "Q324634",
+    "qid_b": "Q633581",
+    "name": "Cryogenic Surrogate Pause",
+    "emoji": "🧊",
+    "blurb": "Surrogates with life-threatening conditions are cryonically suspended mid-pregnancy until treatment becomes available."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "Q468414",
+    "name": "CT Angiography Fusion",
+    "emoji": "🏥",
+    "blurb": "CT cross-sections and angiographic contrast data merge into a single high-resolution vascular volume map."
+  },
+  {
+    "qid_a": "Q334645",
+    "qid_b": "Q4439",
+    "name": "Gestational Data Vault",
+    "emoji": "💾",
+    "blurb": "Hard drives archive complete fetal monitoring data from surrogate pregnancies for long-term medical records."
+  },
+  {
+    "qid_a": "Q3353185",
+    "qid_b": "Q4439",
+    "name": "Petabyte BI Data Lake",
+    "emoji": "💾",
+    "blurb": "Hard-drive arrays form the physical backbone of enterprise analytics platforms storing years of business intelligence."
+  },
+  {
+    "qid_a": "Q339042",
+    "qid_b": "Q4439",
+    "name": "Stealth Storage Array",
+    "emoji": "👻",
+    "blurb": "Hard drives coated with radar-absorbing materials conceal data-centre locations from adversarial surveillance."
+  },
+  {
+    "qid_a": "Q348091",
+    "qid_b": "Q4439",
+    "name": "Radioisotope-Powered HDD",
+    "emoji": "💾",
+    "blurb": "Betavoltaic cells derived from nuclear technology power hard drives in locations where conventional power is unavailable."
+  },
+  {
+    "qid_a": "Q381490",
+    "qid_b": "Q468414",
+    "name": "Aerogel Catheter Insulator",
+    "emoji": "🌫️",
+    "blurb": "Aerogel coatings on angiography catheters prevent heat transfer to vessel walls during radiofrequency ablation."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "Q468414",
+    "name": "Angio-Archive Drive",
+    "emoji": "💾",
+    "blurb": "Dedicated hard-drive systems store high-resolution angiographic video at full fidelity for retrospective review."
+  },
+  {
+    "qid_a": "Q466410",
+    "qid_b": "Q527628",
+    "name": "Holographic Tech Showcase",
+    "emoji": "🔆",
+    "blurb": "Holographic displays present cutting-edge product prototypes in three dimensions without physical manufacturing."
+  },
+  {
+    "qid_a": "Q468414",
+    "qid_b": "Q633581",
+    "name": "Cryo-Preserved Vessel Map",
+    "emoji": "🧊",
+    "blurb": "Angiographic vascular maps are cryonically archived alongside preserved patients for future surgical planning."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "Q788558",
+    "name": "Stellar Agrosphere Project",
+    "emoji": "🌾",
+    "blurb": "Dyson-sphere energy sustains planet-scale plant-breeding programs feeding trillions across an interstellar civilisation."
+  },
+  {
+    "qid_a": "Q49473179",
+    "qid_b": "Q83341",
+    "name": "Deepfake LCD Injection",
+    "emoji": "🎭",
+    "blurb": "Malicious deepfakes injected into LCD display firmware render fabricated images that appear hardware-authentic."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "Q629000",
+    "name": "Holographic Timber Blueprint",
+    "emoji": "🪵",
+    "blurb": "Holographic projections display exact beam-placement guides overlaid onto construction sites during timber framing."
+  },
+  {
+    "qid_a": "Q535695",
+    "qid_b": "Q83341",
+    "name": "Cellular LCD Mesh Display",
+    "emoji": "📶",
+    "blurb": "LCD panels embedded in cellular base stations serve dual roles as signal repeaters and public information displays."
+  },
+  {
+    "qid_a": "Q611909",
+    "qid_b": "Q79798",
+    "name": "Cultured Meat Menu Translator",
+    "emoji": "🍖",
+    "blurb": "Machine translation instantly localises cultured-meat product labelling and marketing into any consumer language."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "Q848436",
+    "name": "Cryo-Pod Smart Home",
+    "emoji": "🏠",
+    "blurb": "Home automation monitors and maintains cryonics storage pods, alerting caretakers to temperature or power anomalies."
+  },
+  {
+    "qid_a": "Q741490",
+    "qid_b": "Q840387",
+    "name": "Autonomous Colonoscopy Van",
+    "emoji": "🚗",
+    "blurb": "Self-driving medical vehicles travel to remote communities and perform AI-guided colonoscopy screenings on arrival."
+  }
+]
