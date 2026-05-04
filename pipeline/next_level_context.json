@@ -1,0 +1,166 @@
+{
+  "Q11660": {
+    "name": "Artificial intelligence"
+  },
+  "Q11468": {
+    "name": "Nanotechnology"
+  },
+  "Q7108": {
+    "name": "Biotechnology"
+  },
+  "Q176555": {
+    "name": "Quantum computer"
+  },
+  "Q170978": {
+    "name": "Robotics"
+  },
+  "Q169917": {
+    "name": "Graphene"
+  },
+  "Q170519": {
+    "name": "Virtual reality"
+  },
+  "Q204043": {
+    "name": "Teleportation"
+  },
+  "syn_e98dc137a1": {
+    "name": "Self-Assembling Neural Substrate",
+    "emoji": "🧬",
+    "blurb": "Nanoscale particles that wire themselves into functional neural architectures on demand."
+  },
+  "syn_48bb320f43": {
+    "name": "Graphene Nanobot Scaffold",
+    "emoji": "🕸️",
+    "blurb": "Nanobots assemble graphene lattices atom-by-atom into precision structural components."
+  },
+  "syn_8224aa2663": {
+    "name": "Tactile Immersion Nanofilm",
+    "emoji": "🖐️",
+    "blurb": "Skin-worn nanoparticle mesh that renders physical sensations inside virtual environments."
+  },
+  "syn_a5a03e4ea1": {
+    "name": "Swarm-Actuated Nanobot Fleet",
+    "emoji": "🤖",
+    "blurb": "Coordinates billions of nanoscale robots using emergent swarm robotics control signals."
+  },
+  "syn_88e12be07a": {
+    "name": "Quantum Nanocompute Lattice",
+    "emoji": "⚡",
+    "blurb": "Atomically positioned qubits in nanostructured arrays achieve coherence times orders of magnitude longer."
+  },
+  "syn_ad18f952a7": {
+    "name": "Quantum-State Particle Ferry",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs preserve quantum coherence during matter-state transfer across distance."
+  },
+  "syn_34bfc1ed6e": {
+    "name": "Targeted Cellular Nanoforge",
+    "emoji": "💉",
+    "blurb": "Programmable nanomachines synthesize and deliver biologics inside living cells on demand."
+  },
+  "syn_d322dbdc03": {
+    "name": "Graphene-Synapse Inference Engine",
+    "emoji": "⚡",
+    "blurb": "Runs AI inference on graphene-based neuromorphic chips at room temperature."
+  },
+  "syn_11d7582c01": {
+    "name": "Embodied Scene Narrator",
+    "emoji": "🥽",
+    "blurb": "AI generates coherent narrative and physics in real time around a user inside VR."
+  },
+  "syn_adf6285607": {
+    "name": "Embodied Task Reasoning Engine",
+    "emoji": "🤖",
+    "blurb": "AI fuses perception, planning, and motor control so robots adapt to novel physical environments."
+  },
+  "syn_b1442a2e88": {
+    "name": "Quantum-Accelerated Inference Core",
+    "emoji": "💠",
+    "blurb": "Quantum co-processors run probabilistic AI inference tasks exponentially faster than classical hardware."
+  },
+  "syn_7d23475fcd": {
+    "name": "Quantum-State Transfer Coordinator",
+    "emoji": "🔀",
+    "blurb": "AI optimizes entanglement routing to maximize fidelity of teleported quantum states."
+  },
+  "syn_2f41637058": {
+    "name": "Protein Folding Design Oracle",
+    "emoji": "🧬",
+    "blurb": "AI predicts and designs novel proteins with specified biological functions from scratch."
+  },
+  "syn_2c3a87cf23": {
+    "name": "Graphene Haptic Exoskin",
+    "emoji": "🖐️",
+    "blurb": "Graphene-based wearable delivers high-fidelity touch sensations corresponding to virtual-reality interactions."
+  },
+  "syn_c99ea3682c": {
+    "name": "Graphene-Skinned Tactile Robot",
+    "emoji": "🖐️",
+    "blurb": "Graphene sensor sheets give robots skin-like pressure and temperature sensitivity at low weight."
+  },
+  "syn_05ff514d0d": {
+    "name": "Graphene Qubit Interconnect Bus",
+    "emoji": "⚡",
+    "blurb": "Graphene wiring carries quantum states between processor modules with near-zero decoherence loss."
+  },
+  "syn_6b246a62f2": {
+    "name": "Graphene Quantum State Transfer",
+    "emoji": "⬡",
+    "blurb": "Graphene waveguides that teleport individual electron spin states across macroscopic distances intact."
+  },
+  "syn_5dedebafd4": {
+    "name": "Graphene Biosensor Scaffold",
+    "emoji": "🧫",
+    "blurb": "Graphene substrates detect and transduce single-molecule biological signals inside living tissue."
+  },
+  "syn_aff77d2a20": {
+    "name": "Embodied Dexterity Training Rig",
+    "emoji": "🦾",
+    "blurb": "Robots train fine motor skills in high-fidelity VR before attempting irreversible physical tasks."
+  },
+  "syn_3cf44a79ef": {
+    "name": "Quantum-Rendered Presence Simulator",
+    "emoji": "🥽",
+    "blurb": "Quantum processors render physically exact VR environments including quantum-mechanical material behavior."
+  },
+  "syn_3c65b5a00a": {
+    "name": "Presence-Teleported VR Embodiment",
+    "emoji": "🥽",
+    "blurb": "Teleported sensory state lets a person inhabit a remote physical location through a VR interface in real time."
+  },
+  "syn_01fb429bf0": {
+    "name": "Haptic Surgical Training Simulator",
+    "emoji": "🧤",
+    "blurb": "VR environments with biotech-accurate tissue feedback train surgeons in procedures before any patient contact."
+  },
+  "syn_75cdc04a8b": {
+    "name": "Quantum-Planned Motion Stack",
+    "emoji": "🦾",
+    "blurb": "Quantum computers solve robot path-planning in complex environments orders of magnitude faster than classical."
+  },
+  "syn_18a59688e9": {
+    "name": "Instant Deployment Robotic Relay",
+    "emoji": "🤖",
+    "blurb": "Teleportation places pre-configured robots exactly where needed with zero transit time."
+  },
+  "syn_f3d8504927": {
+    "name": "Sterile Field Bioassembly Robot",
+    "emoji": "🦠",
+    "blurb": "Surgical robots operate inside contamination-controlled bioreactors to assemble complex living tissue constructs."
+  },
+  "syn_47859a8d27": {
+    "name": "Entangled State Qubit Courier",
+    "emoji": "🔮",
+    "blurb": "Teleportation moves quantum states between processors without measurement collapse, enabling distributed quantum computing."
+  },
+  "syn_7ddb9a0a81": {
+    "name": "Molecular Simulation Drug Screener",
+    "emoji": "💊",
+    "blurb": "Quantum computers model protein-ligand interactions at full fidelity to identify viable drug candidates instantly."
+  },
+  "syn_c743ef30ee": {
+    "name": "Biostate Transmission Protocol",
+    "emoji": "🧬",
+    "blurb": "Living tissue is mapped at molecular resolution and reconstructed remotely, merging teleportation with biotechnology."
+  }
+}

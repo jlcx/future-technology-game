@@ -1,0 +1,394 @@
+[
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Cryogenic Surgical Recall Suite",
+    "emoji": "🧊",
+    "blurb": "Frozen tissue simulations let surgeons rehearse and replay cryopreserved-patient revival procedures."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Cryo-State Quantum Memory Bus",
+    "emoji": "🔌",
+    "blurb": "Cryogenic conditions stabilize graphene qubit interconnects to store neural-state data indefinitely without decoherence."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_11d7582c01",
+    "name": "Preserved Persona Narrative Engine",
+    "emoji": "🧊",
+    "blurb": "Reconstructs a cryopreserved person's memories into coherent interactive narratives before physical revival."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_18a59688e9",
+    "name": "Cryo-Site Robotic Extraction Relay",
+    "emoji": "🤖",
+    "blurb": "Teleports pre-configured retrieval robots directly to cryostorage facilities for emergency patient recovery."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Thaw-Phase Haptic Exoskin",
+    "emoji": "🖐️",
+    "blurb": "Graphene exoskin monitors and stimulates returning sensation in cryopreserved tissue during controlled rewarming."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_2f41637058",
+    "name": "Ice-Crystal Damage Protein Oracle",
+    "emoji": "🧬",
+    "blurb": "Designs bespoke antifreeze proteins that prevent ice nucleation inside cryopreserved organs and cells."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Subzero Cellular Repair Forge",
+    "emoji": "💉",
+    "blurb": "Nanomachines synthesize and apply repair biologics inside frozen tissue without requiring full thaw."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Cryosuspension Presence Bridge",
+    "emoji": "🥽",
+    "blurb": "Teleports a cryopreserved person's sensory state into a VR embodiment while their body awaits revival."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum Vitrification Simulation Chamber",
+    "emoji": "🥽",
+    "blurb": "Quantum-rendered VR models exact molecular behavior of vitrification agents before applying them to patients."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_47859a8d27",
+    "name": "Frozen Neural State Courier",
+    "emoji": "🔮",
+    "blurb": "Teleports a cryopreserved brain's entangled qubit state to a distributed quantum processor for safekeeping."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_48bb320f43",
+    "name": "Cryo-Vessel Graphene Nanoarmature",
+    "emoji": "🕸️",
+    "blurb": "Nanobots weave graphene scaffolds around frozen tissue to prevent structural collapse during long-term storage."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Vitrifcation Damage Biosensor Array",
+    "emoji": "🧫",
+    "blurb": "Graphene scaffolds embedded in cryopreserved tissue continuously monitor molecular-level ice damage in real time."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Neural Spin-State Cryo Archive",
+    "emoji": "⬡",
+    "blurb": "Graphene waveguides teleport and archive electron-spin snapshots of neural states from cryopreserved brains."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Quantum Revival Protocol Planner",
+    "emoji": "🦾",
+    "blurb": "Quantum path-planning optimizes every step of the cryopreserved-patient revival sequence to minimize damage."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Cryogenic Entanglement Routing Hub",
+    "emoji": "🔀",
+    "blurb": "Keeps entangled quantum identity tokens synchronized between frozen patients and remote revival systems."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Cryoprotectant Molecular Screener",
+    "emoji": "💊",
+    "blurb": "Quantum simulation identifies optimal cryoprotectant compounds for each patient's unique tissue chemistry."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_8224aa2663",
+    "name": "Cryo-Sensation Revival Nanofilm",
+    "emoji": "🖐️",
+    "blurb": "Nanoparticle mesh reintroduces calibrated tactile stimuli to thawing skin to prevent sensory shock."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_88e12be07a",
+    "name": "Supercooled Qubit Memory Crystal",
+    "emoji": "❄️",
+    "blurb": "Cryogenic temperatures lock quantum nanocompute lattices into indefinitely stable neural-state storage."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Cryogenic Repair Swarm Protocol",
+    "emoji": "🤖",
+    "blurb": "Billions of nanobots operate at near-freezing temperatures to patch ice damage in preserved tissue cell by cell."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Cold-State Quantum Identity Transfer",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs ferry preserved quantum coherence signatures from frozen brains to warm computational substrates."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_adf6285607",
+    "name": "Thaw-Response Adaptive Robot",
+    "emoji": "🤖",
+    "blurb": "Robots sense and respond to unpredictable tissue states during cryopatient revival in real time."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Revival Dexterity Rehearsal Rig",
+    "emoji": "🦾",
+    "blurb": "Robots rehearse irreversible cryo-revival surgical steps in VR before touching a frozen patient."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum Cryo-Viability Predictor",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores probabilistically assess cryopreserved tissue viability before committing to revival."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Molecular Cryo-Map Reconstruction",
+    "emoji": "🧬",
+    "blurb": "Maps a cryopreserved body at molecular resolution and transmits the blueprint to remote reconstruction facilities."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Cryopatient Tactile Sensing Shell",
+    "emoji": "🖐️",
+    "blurb": "Graphene sensor skin wraps cryogenic storage pods to detect micro-fractures and thermal anomalies in real time."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Cryogenic Neuromorphic Inference Layer",
+    "emoji": "❄️",
+    "blurb": "Graphene AI inference chips operate at cryogenic temperatures to read neural states from frozen tissue."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Frozen Neural Rewire Substrate",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural particles re-establish functional connections in thawing cryopreserved brain tissue."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "syn_f3d8504927",
+    "name": "Sterile Cryo-Tissue Bioassembly Pod",
+    "emoji": "🦠",
+    "blurb": "Surgical robots reconstruct cryodamaged organs inside contamination-controlled bioreactors before patient revival."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Undoable Surgical Simulation Stack",
+    "emoji": "↩️",
+    "blurb": "Reversible-computation framework lets surgeons step backward through any simulated procedure to diagnose training errors."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Lossless Quantum Interconnect Fabric",
+    "emoji": "🔄",
+    "blurb": "Reversible logic gates in graphene qubit buses eliminate heat dissipation from inter-module quantum state transfer."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_11d7582c01",
+    "name": "Rewindable VR Narrative Engine",
+    "emoji": "🔄",
+    "blurb": "Reversible computation lets AI-generated VR scenes be stepped backward and re-branched without recalculation."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_18a59688e9",
+    "name": "Reversible Deployment State Logger",
+    "emoji": "↩️",
+    "blurb": "Every teleportation-placed robot deployment is logged reversibly so precise re-extraction is always possible."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Entropy-Free Haptic Signal Codec",
+    "emoji": "🖐️",
+    "blurb": "Reversible encoding of graphene haptic signals preserves full tactile fidelity with near-zero energy loss."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_2f41637058",
+    "name": "Invertible Protein Fold Simulator",
+    "emoji": "🧬",
+    "blurb": "Reversible-computing substrate traces protein folding paths backward to identify misfolding checkpoints with zero lost data."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Reversible Intracellular Drug Compiler",
+    "emoji": "💉",
+    "blurb": "Nanoforges build biologics inside cells using reversible chemistry, enabling complete withdrawal if side-effects emerge."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Backtrackable Presence Teleportation",
+    "emoji": "🔄",
+    "blurb": "Reversible computation preserves full sensory-state history so remote VR embodiment sessions can be precisely replayed."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Thermodynamically Lossless Quantum Renderer",
+    "emoji": "🥽",
+    "blurb": "Quantum VR physics renders with reversible gates, slashing energy cost of exact-physics environment simulation."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_47859a8d27",
+    "name": "Reversible Entanglement Courier Protocol",
+    "emoji": "🔮",
+    "blurb": "Qubit couriers transfer quantum states using fully reversible channels, making every teleportation error correctable."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_48bb320f43",
+    "name": "Reversible Graphene Lattice Assembler",
+    "emoji": "🕸️",
+    "blurb": "Nanobots build and disassemble graphene structures reversibly, reclaiming atoms and energy at each step."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Lossless Biosignal Capture Scaffold",
+    "emoji": "🧫",
+    "blurb": "Reversible transduction in graphene biosensors captures molecular signals without destroying the measured state."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Reversible Spin-State Waveguide",
+    "emoji": "⬡",
+    "blurb": "Electron spin teleportation through graphene uses reversible logic so any transfer error can be fully unwound."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Backtrack-Capable Motion Planner",
+    "emoji": "🦾",
+    "blurb": "Quantum path-planning runs on reversible hardware, letting robots rewind and re-plan any motion without recomputation."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Entropy-Conserving Entanglement Router",
+    "emoji": "🔀",
+    "blurb": "Reversible gates route entanglement across networks without discarding any quantum state information."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Reversible Molecular Drug Simulator",
+    "emoji": "💊",
+    "blurb": "Drug-screening quantum simulations run reversibly, enabling exact replay of any protein-ligand interaction pathway."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_8224aa2663",
+    "name": "Reversible Tactile Nanofilm Codec",
+    "emoji": "🖐️",
+    "blurb": "Haptic nanofilm signals encoded reversibly allow full sensation replay and energy recovery after each stimulus."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_88e12be07a",
+    "name": "Zero-Entropy Qubit Lattice Engine",
+    "emoji": "⚡",
+    "blurb": "Reversible logic eliminates heat generation from quantum nanocompute lattices, enabling room-temperature coherent operation."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Reversible Swarm Coordination Fabric",
+    "emoji": "🤖",
+    "blurb": "Nanobot swarm control signals computed reversibly allow entire fleet maneuvers to be rolled back without re-tasking."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Lossless Quantum-State Ferry Protocol",
+    "emoji": "⚗️",
+    "blurb": "Reversible nanoconstructs transfer quantum coherence across distances while preserving all intermediate state information."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_adf6285607",
+    "name": "Undoable Robot Task Execution",
+    "emoji": "↩️",
+    "blurb": "Reversible-computing control stack lets embodied robots retrace and undo physical actions in novel environments."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Reversible Motor Skill Replay Rig",
+    "emoji": "🦾",
+    "blurb": "VR dexterity training logged on reversible hardware lets robots replay and refine any failed fine-motor attempt."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Reversible Probabilistic Inference Core",
+    "emoji": "💠",
+    "blurb": "Quantum inference runs on reversible substrates so every probabilistic reasoning path is fully auditable and replayable."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Invertible Biostate Transmission Log",
+    "emoji": "🧬",
+    "blurb": "Tissue teleportation encoded reversibly preserves the complete mapping so reconstruction can be retried without data loss."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Reversible Tactile Robot Skin",
+    "emoji": "🖐️",
+    "blurb": "Graphene sensor skin processes pressure and temperature using reversible logic, recovering energy from every touch event."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Lossless Neuromorphic Inference Chip",
+    "emoji": "🔄",
+    "blurb": "Graphene neuromorphic AI runs on reversible gates, slashing inference energy cost while keeping every computation auditable."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Reversible Neural Self-Assembly Controller",
+    "emoji": "🧬",
+    "blurb": "Reversible-computing logic governs nanoparticle wiring so any neural architecture can be unwired and rebuilt without waste."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "syn_f3d8504927",
+    "name": "Reversible Bioassembly Process Logger",
+    "emoji": "🦠",
+    "blurb": "Every surgical robot step in tissue assembly is computed reversibly, enabling full rollback if construction errors occur."
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Remote Presence Digital Twin",
+    "emoji": "🌐",
+    "blurb": "IT infrastructure mirrors a user's remote physical embodiment in real time for seamless teleoperation."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Distributed Pharma Discovery Grid",
+    "emoji": "💊",
+    "blurb": "Global IT networks pool compute to run quantum drug screening models at planetary scale."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Biostate Data Interchange Standard",
+    "emoji": "🔗",
+    "blurb": "IT protocols encode and route molecular biostate transmissions like packets across a biological internet."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_18a59688e9",
+    "name": "Instant Clone Deployment Array",
+    "emoji": "🧬",
+    "blurb": "Teleportation places cloned biological organisms on-site without gestation delay or transport stress."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Clone Genomic Drift Sensor",
+    "emoji": "🧫",
+    "blurb": "Graphene biosensors continuously monitor cloned tissue for epigenetic divergence from the source genome."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Coherent Genome Ferry Protocol",
+    "emoji": "⚗️",
+    "blurb": "Quantum nanoconstructs transfer intact chromosomal state to a cloning substrate without decoherence loss."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_f3d8504927",
+    "name": "Sterile Embryo Assembly Line",
+    "emoji": "🔬",
+    "blurb": "Surgical bioassembly robots clone organisms inside contamination-controlled chambers with zero cross-contamination risk."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Remote Reactor Presence Interface",
+    "emoji": "☢️",
+    "blurb": "Engineers inhabit nuclear facilities through teleported sensory embodiment, eliminating direct radiation exposure."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Fission Byproduct Drug Candidate Miner",
+    "emoji": "⚛️",
+    "blurb": "Quantum simulation screens radioisotope compounds for unexpected pharmaceutical activity against target proteins."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Nuclear Isotope Biostate Courier",
+    "emoji": "☢️",
+    "blurb": "Biostate transmission encodes and reconstructs radiolabeled biological probes at remote medical facilities instantly."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_18a59688e9",
+    "name": "Instant Ecological Response Unit",
+    "emoji": "🌿",
+    "blurb": "Pre-built conservation robots teleport to disaster zones and begin restoration work within seconds of an event."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Ecosystem Molecular Health Monitor",
+    "emoji": "🌱",
+    "blurb": "Graphene biosensor networks measure pollutant and nutrient levels in real ecosystems at single-molecule resolution."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Seed Genome Quantum Preservation",
+    "emoji": "🌾",
+    "blurb": "Quantum nanoconstructs transfer fragile seed genetic states to remote vaults without molecular degradation."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_f3d8504927",
+    "name": "Closed-Loop Bioreactor Habitat",
+    "emoji": "♻️",
+    "blurb": "Sterile-field bioassembly robots construct self-sustaining living ecosystems inside engineered environmental chambers."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Embodied Document Presence Relay",
+    "emoji": "📠",
+    "blurb": "Fax-derived protocols transmit full sensory context alongside documents so recipients experience the sender's environment."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Molecular-Resolution Document Screener",
+    "emoji": "🔍",
+    "blurb": "Quantum simulation authenticates document provenance by modeling ink and substrate chemistry at atomic scale."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Biological Signature Transmission Protocol",
+    "emoji": "🧬",
+    "blurb": "Documents carry cryptographically bound sender biostate, making forgery physically impossible by molecular design."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_18a59688e9",
+    "name": "Teleported Transaction Settlement Node",
+    "emoji": "💰",
+    "blurb": "Crypto settlement robots are instantly relocated to wherever network congestion demands physical node presence."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Biosensor-Gated Crypto Wallet",
+    "emoji": "🔐",
+    "blurb": "Graphene biosensors bind cryptocurrency access to continuous real-time molecular biometric authentication."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Signed Ledger Entry",
+    "emoji": "🔏",
+    "blurb": "Nanoconstructs ferry quantum-state signatures that make blockchain entries cryptographically unforgeable at the physical layer."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_f3d8504927",
+    "name": "Sterile Hardware Mint Protocol",
+    "emoji": "🏭",
+    "blurb": "Bioassembly robots fabricate tamper-evident crypto hardware in contamination-controlled chambers, guaranteeing supply-chain integrity."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Tether Ascent Presence Relay",
+    "emoji": "🛗",
+    "blurb": "Operators inhabit elevator climber robots through teleported embodiment without physically riding the tether."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Tether Material Fatigue Predictor",
+    "emoji": "🧲",
+    "blurb": "Quantum simulation models molecular stress accumulation in space elevator cables to predict failure decades ahead."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Orbital Biosample Downlink Protocol",
+    "emoji": "🛰️",
+    "blurb": "Biostate transmission sends molecular-resolution biological samples from orbit to ground labs without physical return."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_18a59688e9",
+    "name": "Precision Genebot Deployment System",
+    "emoji": "🧬",
+    "blurb": "Teleportation delivers gene-editing robots to remote patients, removing cold-chain and logistics barriers entirely."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Live Edit Genomic Feedback Sensor",
+    "emoji": "🧫",
+    "blurb": "Graphene biosensors read gene-edit outcomes in living cells in real time, closing the engineering loop."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Transported Gene Payload",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs move fragile gene-editing complexes across tissue barriers with quantum coherence preserved."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_f3d8504927",
+    "name": "Sterile Transgenic Organ Foundry",
+    "emoji": "🫀",
+    "blurb": "Bioassembly robots build genetically engineered organs in sterile bioreactors ready for immediate transplant."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Hibernation Remote Consciousness Bridge",
+    "emoji": "🧊",
+    "blurb": "A torpid body's minimal sensory state is relayed remotely so hibernators remain cognitively present during stasis."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Torpor Metabolite Drug Screener",
+    "emoji": "❄️",
+    "blurb": "Quantum simulation identifies hibernation-associated compounds that suppress metabolic damage in surgical hypothermia patients."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Suspended Animation State Archive",
+    "emoji": "🧊",
+    "blurb": "Molecular-resolution biostate maps are taken before hibernation and used to verify cellular integrity on revival."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_18a59688e9",
+    "name": "Instant MRI Field Deployment",
+    "emoji": "🏥",
+    "blurb": "Teleportation places fully configured MRI robots at disaster sites for immediate diagnostic imaging without infrastructure."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Molecular MRI Contrast Amplifier",
+    "emoji": "🧲",
+    "blurb": "Graphene biosensor scaffolds amplify MRI contrast at single-molecule resolution inside living tissue."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Coherent Spin-State Imaging Probe",
+    "emoji": "🔮",
+    "blurb": "Quantum nanoconstructs ferry spin-polarized nuclei into tissue, boosting MRI signal without conventional contrast agents."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_f3d8504927",
+    "name": "Intraoperative Live MRI Suite",
+    "emoji": "🩺",
+    "blurb": "Sterile bioassembly robots operate inside real-time MRI fields, guided by continuous magnetic imaging during surgery."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Teleoperated Gene Edit Console",
+    "emoji": "✂️",
+    "blurb": "A surgeon inhabits a remote CRISPR delivery system through full sensory embodiment for precision edits at any location."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Off-Target Cut Prediction Engine",
+    "emoji": "🎯",
+    "blurb": "Quantum simulation exhaustively models every CRISPR off-target binding event before a guide RNA is ever synthesized."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Remote Genomic Edit Uplink",
+    "emoji": "📡",
+    "blurb": "Biostate protocol transmits patient genome edits to a remote facility for verification and counter-edit synthesis."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_18a59688e9",
+    "name": "Compute Node Instant Redeployment",
+    "emoji": "🖥️",
+    "blurb": "Teleportation physically moves compute hardware to where latency demands dictate without downtime or reconfiguration."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Graphene Molecular Transistor Array",
+    "emoji": "⚡",
+    "blurb": "Graphene biosensor scaffolds serve as ultra-dense computing substrates that operate at single-molecule switching precision."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum State Register Courier",
+    "emoji": "💾",
+    "blurb": "Nanoconstructs transfer fragile computational quantum states between processor nodes without measurement or decoherence."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_f3d8504927",
+    "name": "Living Wetware Compute Substrate",
+    "emoji": "🧠",
+    "blurb": "Bioassembly robots construct biological tissue scaffolds that function as programmable computing media."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Embodied Neural Inference Agent",
+    "emoji": "🥽",
+    "blurb": "Neural networks run inference inside a remotely embodied avatar, perceiving and acting in physical space through VR."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Neural Drug Interaction Emulator",
+    "emoji": "🧠",
+    "blurb": "Neural networks trained on quantum molecular simulation predict polypharmacy interactions before clinical trials begin."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Neural Biostate Pattern Extractor",
+    "emoji": "🧬",
+    "blurb": "Neural networks decode transmitted molecular biostate maps to reconstruct tissue-level structural and functional data."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_18a59688e9",
+    "name": "Instant Terraforming Pioneer Fleet",
+    "emoji": "🌍",
+    "blurb": "Terraforming robot units are teleported to planetary surfaces, bypassing multi-year in-space transit entirely."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Planetary Soil Biosensor Grid",
+    "emoji": "🌡️",
+    "blurb": "Graphene biosensor networks monitor terraforming progress by measuring atmospheric and biochemical markers in situ."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Atmosphere Seed Quantum Courier",
+    "emoji": "🌬️",
+    "blurb": "Quantum nanoconstructs deliver intact microbial payloads to target planetary atmospheres without biological degradation in transit."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_f3d8504927",
+    "name": "Closed-Loop Biome Seeding Station",
+    "emoji": "🌿",
+    "blurb": "Bioassembly robots build sterile ecological starter kits that seed living biospheres on barren planetary surfaces."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Embodied Ledger Audit Protocol",
+    "emoji": "📋",
+    "blurb": "Auditors inhabit remote blockchain nodes through presence teleportation to physically verify hardware and environment integrity."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Quantum-Verified Smart Contract",
+    "emoji": "🔏",
+    "blurb": "Quantum simulation proves the correctness of smart contract execution before deployment, eliminating exploitable edge cases."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Biostate-Anchored Identity Chain",
+    "emoji": "🧬",
+    "blurb": "Blockchain entries are cryptographically bound to transmitted molecular biostate, making identity fraud biologically impossible."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_18a59688e9",
+    "name": "AGI Logistics Coordination Hub",
+    "emoji": "🤖",
+    "blurb": "AGI orchestrates real-time teleportation of robotic units globally, eliminating supply-chain delays through instant physical redeployment."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_5dedebafd4",
+    "name": "AGI Biomolecular World Model",
+    "emoji": "🧠",
+    "blurb": "AGI internalizes live graphene biosensor feeds to build a continuously updated molecular model of biological reality."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_ad18f952a7",
+    "name": "AGI Quantum State Orchestrator",
+    "emoji": "💠",
+    "blurb": "AGI manages entanglement routing across quantum networks to maximize throughput of state-transfer operations worldwide."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_f3d8504927",
+    "name": "AGI-Directed Synthetic Biology Foundry",
+    "emoji": "🧬",
+    "blurb": "AGI designs and instructs sterile bioassembly robots to construct novel living systems without human engineering oversight."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Post-Singularity Presence Substrate",
+    "emoji": "♾️",
+    "blurb": "After the singularity, intelligence proliferates through teleported embodiment, inhabiting physical substrates at will across any location."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Singularity-Accelerated Molecule Library",
+    "emoji": "🌀",
+    "blurb": "Post-singularity intelligence exhausts all viable drug candidates in quantum simulation within hours of activation."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Intelligence Substrate Transfer Event",
+    "emoji": "🌀",
+    "blurb": "Singularity-level intelligence transmits its own molecular substrate via biostate protocol to a new physical instantiation."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_18a59688e9",
+    "name": "Adaptive Robot Placement Learner",
+    "emoji": "🤖",
+    "blurb": "Machine learning optimizes which teleported robots to deploy where based on real-time task performance feedback."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Biosensor-Trained Disease Classifier",
+    "emoji": "🩺",
+    "blurb": "Machine learning trained on graphene biosensor molecular streams classifies disease states faster than any clinical assay."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-State Transfer Optimizer",
+    "emoji": "🔀",
+    "blurb": "ML models learn entanglement noise patterns to adaptively reroute quantum state ferries and minimize fidelity loss."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_f3d8504927",
+    "name": "Bioassembly Process Learning Loop",
+    "emoji": "🦠",
+    "blurb": "Machine learning continuously refines sterile bioassembly robot protocols by analyzing tissue construct quality outcomes."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Remote CT Presence Diagnostics",
+    "emoji": "🩻",
+    "blurb": "Radiologists inhabit CT scanners in remote hospitals through presence teleportation, conducting exams without physical travel."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "CT Contrast Compound Predictor",
+    "emoji": "💊",
+    "blurb": "Quantum simulation designs next-generation CT contrast agents by modeling X-ray attenuation at molecular resolution."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Volumetric Scan Biostate Archive",
+    "emoji": "🗄️",
+    "blurb": "CT scan data merges with molecular biostate maps to create tissue-level patient archives accurate enough to reconstruct anatomy."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_18a59688e9",
+    "name": "Incident Response Teleport Team",
+    "emoji": "🛡️",
+    "blurb": "Cyber-physical security robots are teleported instantly to breached facilities, collapsing attacker dwell time to near zero."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Hardware Intrusion Biosensor Skin",
+    "emoji": "🔐",
+    "blurb": "Graphene biosensor films coat server hardware and detect unauthorized physical access via molecular surface disruption."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Tamper-Evident Key Courier",
+    "emoji": "🗝️",
+    "blurb": "Nanoconstructs physically transport cryptographic keys as quantum states that collapse irreversibly if intercepted."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_f3d8504927",
+    "name": "Sterile Air-Gap Hardware Factory",
+    "emoji": "🏭",
+    "blurb": "Bioassembly-style robots manufacture secure computing hardware in contamination-controlled vaults with zero supply-chain exposure."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Embodied Storage Retrieval Interface",
+    "emoji": "💽",
+    "blurb": "Operators inhabit data-center disk arrays through presence teleportation for hands-on physical media management at any location."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Molecular Disk Failure Predictor",
+    "emoji": "🔬",
+    "blurb": "Quantum simulation models magnetic domain degradation in hard disk platters to predict failure before the first bad sector."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Biostate-Encoded Cold Storage",
+    "emoji": "🧬",
+    "blurb": "Hard disk platters encode molecular biostate archives as magnetic patterns, combining physical and biological long-term storage."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_18a59688e9",
+    "name": "Dyson Construction Bot Relay",
+    "emoji": "⭐",
+    "blurb": "Teleportation continuously reseeds autonomous robots to precise orbital construction zones, eliminating interplanetary transit time."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Solar Wind Biosensor Harvester",
+    "emoji": "☀️",
+    "blurb": "Graphene biosensor scaffolds mounted on Dyson segments detect and characterize stellar particle streams at molecular resolution."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Stellar Energy Quantum Relay",
+    "emoji": "⭐",
+    "blurb": "Quantum nanoconstructs ferry photon state information from Dyson collectors to distant receivers without classical signal loss."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_f3d8504927",
+    "name": "Orbital Biohabitat Assembly Station",
+    "emoji": "🌌",
+    "blurb": "Bioassembly robots construct living habitats on Dyson megastructure segments using sterile closed-loop biological fabrication."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Haptic Holographic Presence Stage",
+    "emoji": "🔮",
+    "blurb": "Holographic projection fused with teleported sensory state lets remote users physically interact with volumetric displays."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Holographic Drug Structure Renderer",
+    "emoji": "💊",
+    "blurb": "Quantum-screened protein-ligand candidates are rendered as manipulable holographic structures for chemist review and refinement."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Molecular Anatomy Holographic Atlas",
+    "emoji": "🔬",
+    "blurb": "Biostate transmission data is rendered as navigable holographic anatomy at full molecular resolution for surgical planning."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_18a59688e9",
+    "name": "Zero-Lag Humanoid Relay Station",
+    "emoji": "🤖",
+    "blurb": "Teleportation reseeds humanoid robots at any global location on demand, making distance irrelevant to physical task delegation."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Somatosensory Robot Skin Network",
+    "emoji": "🖐️",
+    "blurb": "Graphene biosensor arrays give humanoid robots full-body touch sensitivity rivaling human skin in spatial resolution."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum Reflex Signal Courier",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs relay motor command quantum states to humanoid actuators faster than any classical signal pathway."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_f3d8504927",
+    "name": "Biocompatible Humanoid Tissue Shell",
+    "emoji": "🦾",
+    "blurb": "Bioassembly robots coat humanoid robot frames with living tissue, enabling genuine biological integration with human environments."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Remote Plasma Chamber Embodiment",
+    "emoji": "🔥",
+    "blurb": "Fusion engineers operate inside reactor environments through teleported presence, removing human exposure to radiation and heat."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Plasma Catalyst Quantum Screener",
+    "emoji": "⚛️",
+    "blurb": "Quantum simulation identifies fusion catalyst materials by modeling plasma-wall interactions at full quantum mechanical fidelity."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Fusion Plasma State Transmission",
+    "emoji": "🌡️",
+    "blurb": "Biostate-analogous protocol transmits complete plasma configuration parameters to remote tokamak replicas for synchronized experiments."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_18a59688e9",
+    "name": "Covert Influence Robot Deployment",
+    "emoji": "🎭",
+    "blurb": "Teleported robots impersonate trusted humans to deliver targeted influence operations without traceable physical origins."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Neurochemical Compliance Biosensor",
+    "emoji": "🧠",
+    "blurb": "Graphene biosensors monitor neurochemical markers in subjects to verify induced belief-state changes at molecular resolution."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Belief State Quantum Imprint Protocol",
+    "emoji": "🔮",
+    "blurb": "Quantum nanoconstructs ferry neurochemical configurations between subjects, attempting direct state-level cognitive influence transfer."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_f3d8504927",
+    "name": "Sterile Neurochemical Delivery System",
+    "emoji": "💉",
+    "blurb": "Bioassembly robots precisely implant influence compounds into neural tissue without detectable surgical entry points."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Embodied Multilingual Presence Relay",
+    "emoji": "🌍",
+    "blurb": "Machine translation runs inside a presence-teleported avatar so remote users communicate as native speakers in any environment."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Molecular Nomenclature Translator",
+    "emoji": "🔬",
+    "blurb": "Machine translation maps molecular and chemical terminology across scientific language traditions using quantum-computed structural equivalences."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Biostate-Embedded Cultural Context Codec",
+    "emoji": "🧬",
+    "blurb": "Biostate transmission encodes speaker physiological context alongside language, enabling translation that preserves emotional and cultural nuance."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_18a59688e9",
+    "name": "Instant Display Infrastructure Drop",
+    "emoji": "🖥️",
+    "blurb": "Teleportation places fully configured LCD display arrays at event or emergency sites with zero setup time."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Biosensor-Integrated Smart Display",
+    "emoji": "📺",
+    "blurb": "Graphene biosensor layers woven into LCD panels detect viewer physiological state and adapt content in real time."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Coherent Pixel State Relay",
+    "emoji": "⚡",
+    "blurb": "Quantum nanoconstructs transfer exact liquid-crystal pixel states between remote displays for perfect zero-lag visual mirroring."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_f3d8504927",
+    "name": "Biofilm-Laminated Adaptive Display",
+    "emoji": "🧫",
+    "blurb": "Bioassembly robots laminate living cell films onto LCD substrates to create displays that self-repair and adapt optically."
+  }
+]

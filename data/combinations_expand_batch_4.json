@@ -1,0 +1,569 @@
+[
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q120877",
+    "name": "RFID Clonal Tracking Grid",
+    "emoji": "🐑",
+    "blurb": "Tags cloned organisms at birth, tracking genetic lineage and health in real time."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q1473823",
+    "name": "Tether Cargo Tag Network",
+    "emoji": "🛗",
+    "blurb": "RFID beacons embedded in elevator payloads auto-log mass, position, and ownership during ascent."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q170519",
+    "name": "Tagged Immersive Object Layer",
+    "emoji": "🥽",
+    "blurb": "Physical RFID tags anchor persistent virtual objects to real-world locations inside VR."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q178026",
+    "name": "Fullerene Nano-Tag Implants",
+    "emoji": "⚽",
+    "blurb": "Hollow carbon cages carry encoded RFID payloads injectable at the cellular scale."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q192776",
+    "name": "Neural-RFID Contextual Reader",
+    "emoji": "📡",
+    "blurb": "Neural networks parse noisy RFID antenna arrays to identify overlapping tags instantly."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q237525",
+    "name": "Singularity Trigger Tag",
+    "emoji": "♾️",
+    "blurb": "Embeds RFID checkpoints that detect when machine capability crosses predefined thresholds."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q381490",
+    "name": "Aerogel-Embedded Passive Tags",
+    "emoji": "🌫️",
+    "blurb": "Ultralight aerogel tiles with woven RFID antennas monitor structural stress in near-zero mass."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q641442",
+    "name": "Plasma Chamber RFID Telemetry",
+    "emoji": "☀️",
+    "blurb": "Radiation-hardened RFID sensors log real-time conditions inside fusion reactor vessels."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q83341",
+    "name": "LCD-Integrated Smart Label",
+    "emoji": "📺",
+    "blurb": "Thin LCD panels with embedded RFID display live product data when scanned."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q12739",
+    "name": "Superfluid Reactor Coolant Loop",
+    "emoji": "🌊",
+    "blurb": "Frictionless helium-II coolant removes reactor heat with unprecedented thermal efficiency."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q159236",
+    "name": "Zero-Viscosity Gene Delivery",
+    "emoji": "🧬",
+    "blurb": "Superfluid carriers transport genetic constructs into cells without membrane drag or damage."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q170978",
+    "name": "Superfluid Actuator Joints",
+    "emoji": "🌊",
+    "blurb": "Robot limbs driven by superfluid hydraulics achieve near-lossless, silent motion."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q179310",
+    "name": "Superfluid Photonic Interconnect",
+    "emoji": "💻",
+    "blurb": "Frictionless quantum fluid channels route signals between chips at near-zero energy loss."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q204043",
+    "name": "Quantum Vortex State Transfer",
+    "emoji": "✨",
+    "blurb": "Exploits superfluid vortex topology to teleport quantum states with zero dissipation."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q2539",
+    "name": "Superfluid Analog Inference Engine",
+    "emoji": "🧠",
+    "blurb": "Vortex dynamics in superfluid helium physically compute gradient-descent optimization."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q4439",
+    "name": "Frictionless Magnetic Platter Drive",
+    "emoji": "💾",
+    "blurb": "Hard disks spun on a superfluid bearing eliminate rotational friction and read-write vibration."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q7108",
+    "name": "Cryogenic Bioprocess Superfluidity",
+    "emoji": "🧬",
+    "blurb": "Bioprocessing in superfluid environments enables lossless mixing and zero-shear cell culture."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q177765",
+    "name": "Molecular Biometric Fingerprint",
+    "emoji": "🖐️",
+    "blurb": "Nano-sensors read unique molecular signatures in skin oils for unforgeable identity verification."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q254183",
+    "name": "Nano-Photonic AR Overlay",
+    "emoji": "🥽",
+    "blurb": "Nanoscale light-guide arrays project vivid AR imagery directly onto standard eyeglass lenses."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q179965",
+    "name": "Adaptive EEG Intent Decoder",
+    "emoji": "🧠",
+    "blurb": "AI interprets brainwave patterns in real time to infer and execute user intentions."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q741490",
+    "name": "Predictive Hazard Anticipation Drive",
+    "emoji": "🚗",
+    "blurb": "AI models road risk up to ten seconds ahead, acting before sensors confirm danger."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q181802",
+    "name": "Prosthetic Data Feedback Network",
+    "emoji": "🦾",
+    "blurb": "IT infrastructure streams real-time biomechanical data from prostheses to clinical dashboards."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q178026",
+    "name": "Fullerene-Preserved Clone Archive",
+    "emoji": "⚽",
+    "blurb": "Genetic material from cloned organisms is encapsulated in fullerene cages for indefinite storage."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q381490",
+    "name": "Aerogel Cryogenic Clone Vault",
+    "emoji": "🌫️",
+    "blurb": "Aerogel insulation maintains stable cryo-temperatures for long-term cloned embryo preservation."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q181787",
+    "name": "Nuclear-Powered Android Caretaker",
+    "emoji": "🤖",
+    "blurb": "Miniature fission cells give humanoid robots decades of autonomous operation without recharging."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q177765",
+    "name": "Biometric Resource Equity Ledger",
+    "emoji": "🖐️",
+    "blurb": "Links biometric IDs to fair-share resource allocations to enforce sustainable consumption limits."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q254183",
+    "name": "Eco-Impact AR Overlay",
+    "emoji": "🌱",
+    "blurb": "Shows real-time carbon and water footprint of products when you point a phone at them."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q179965",
+    "name": "Brainwave Fax Composer",
+    "emoji": "📠",
+    "blurb": "EEG signals compose and transmit handwritten-style documents via thought alone."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q741490",
+    "name": "Autonomous Document Courier",
+    "emoji": "🚗",
+    "blurb": "Self-driving vehicles carry physical documents as fax-grade secure alternatives to digital transmission."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q181802",
+    "name": "Tokenized Prosthetic Ownership",
+    "emoji": "🦾",
+    "blurb": "Crypto tokens encode prosthetic calibration rights, repair history, and warranty on-chain."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q178026",
+    "name": "Fullerene-Reinforced Tether Cable",
+    "emoji": "🛗",
+    "blurb": "Fullerene composite fibers provide the tensile strength needed for a functional space elevator cable."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q381490",
+    "name": "Aerogel Thermal Tether Shielding",
+    "emoji": "🛗",
+    "blurb": "Aerogel wrapping insulates the elevator cable from thermospheric heat and debris impacts."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q181787",
+    "name": "Gene-Tuned Android Tissue Skin",
+    "emoji": "🤖",
+    "blurb": "Genetically engineered living skin grown on android frames for realistic sensory feedback."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q177765",
+    "name": "Metabolic State Biometric Lock",
+    "emoji": "🐻",
+    "blurb": "Systems authenticate users by reading hibernation-cycle biomarkers unique to each individual."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q254183",
+    "name": "Torpor-Simulation AR Therapy",
+    "emoji": "🐻",
+    "blurb": "AR environments mimic hibernation-state sensory reduction to treat insomnia and anxiety disorders."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q179965",
+    "name": "Concurrent Brain-Body Imager",
+    "emoji": "🧲",
+    "blurb": "Fuses MRI structural scans with live EEG signals to map thought to anatomy simultaneously."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q741490",
+    "name": "Mobile In-Vehicle MRI Pod",
+    "emoji": "🚗",
+    "blurb": "Autonomous vehicles carry compact MRI units to perform neurological imaging during transit."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q181802",
+    "name": "Graphene Flex-Sensor Prosthesis",
+    "emoji": "🦾",
+    "blurb": "Graphene strain sensors woven into prosthetic limbs detect touch and pressure with human-like fidelity."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q178026",
+    "name": "Fullerene VR Haptic Lattice",
+    "emoji": "⚽",
+    "blurb": "Fullerene-based actuator grids deliver sub-millimetre haptic textures inside virtual reality gloves."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q381490",
+    "name": "Aerogel Acoustic VR Isolation",
+    "emoji": "🥽",
+    "blurb": "Aerogel panels inside headsets block ambient noise, deepening immersion without active cancellation."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q181787",
+    "name": "Morphic Robot-Android Continuum",
+    "emoji": "🤖",
+    "blurb": "Industrial robots modularly reconfigure into humanoid form for tasks requiring human ergonomics."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q177765",
+    "name": "Genomic Biometric Authentication",
+    "emoji": "✂️",
+    "blurb": "CRISPR-readable DNA sequences embedded in cells serve as irrevocable biological identity tokens."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q254183",
+    "name": "CRISPR-Guided AR Surgical Assist",
+    "emoji": "✂️",
+    "blurb": "AR overlays show real-time CRISPR cut-site targeting on patient tissue during gene therapy procedures."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q179965",
+    "name": "Quantum EEG Signal Decomposer",
+    "emoji": "🧠",
+    "blurb": "Quantum algorithms resolve overlapping brainwave frequencies too entangled for classical FFT analysis."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q741490",
+    "name": "Quantum Route Optimizer",
+    "emoji": "🚗",
+    "blurb": "Quantum annealing solves city-scale fleet routing in milliseconds, eliminating traffic deadlock."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q181802",
+    "name": "Biometric Prosthetic Binding",
+    "emoji": "🦾",
+    "blurb": "Prostheses pair exclusively to the owner's biometric signature, preventing theft or misuse."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q2264109",
+    "name": "AGI Identity Verification Layer",
+    "emoji": "🖐️",
+    "blurb": "AGI systems use biometric proofs to confirm human authorization before executing high-stakes decisions."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q3510521",
+    "name": "Continuous Biometric Intrusion Guard",
+    "emoji": "🔒",
+    "blurb": "Security systems verify identity moment-to-moment via passive biometric streams, not login events."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q584529",
+    "name": "Biometric Humanoid Access Control",
+    "emoji": "🦾",
+    "blurb": "Humanoid robots authenticate themselves to facilities using embedded biometric credentials."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q79798",
+    "name": "Speaker-Biometric Translation Gate",
+    "emoji": "🌐",
+    "blurb": "Machine translation activates only after voiceprint and iris confirm the authorized speaker's identity."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q181802",
+    "name": "Fullerene Shock-Absorbing Socket",
+    "emoji": "⚽",
+    "blurb": "Fullerene composite liners in prosthetic sockets dampen impact loads at the residual-limb interface."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q2264109",
+    "name": "Fullerene AGI Substrate Lattice",
+    "emoji": "⚽",
+    "blurb": "Carbon cage arrays serve as ultradense, low-power substrates for neuromorphic AGI hardware."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q3510521",
+    "name": "Fullerene Hardware Security Module",
+    "emoji": "🔒",
+    "blurb": "Fullerene enclosures physically isolate cryptographic keys from external electromagnetic probing."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q584529",
+    "name": "Carbon-Cage Exoskeletal Frame",
+    "emoji": "⚽",
+    "blurb": "Fullerene-reinforced composite bones give humanoid robots near-indestructible yet lightweight skeletons."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q79798",
+    "name": "Molecular Phoneme Storage Matrix",
+    "emoji": "🌐",
+    "blurb": "Language model weights encoded in fullerene lattices enable ultra-compact offline translation chips."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q254183",
+    "name": "Pervasive Compute AR Interface",
+    "emoji": "🥽",
+    "blurb": "AR headsets tap ambient edge computing fabric to render world-scale holographic overlays in real time."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q192776",
+    "name": "EEG-Driven Neural Decoder",
+    "emoji": "🕸️",
+    "blurb": "Deep neural networks translate raw EEG signals into text, commands, or emotional state labels."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q237525",
+    "name": "Brainwave Singularity Monitor",
+    "emoji": "♾️",
+    "blurb": "EEG arrays track human cognitive adaptation in real time as machine intelligence accelerates past it."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q381490",
+    "name": "Aerogel EEG Dry-Contact Cap",
+    "emoji": "🌫️",
+    "blurb": "Aerogel foam electrodes conform to scalp contours, improving signal quality without gel or adhesive."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q641442",
+    "name": "Neural Plasma Control Interface",
+    "emoji": "☀️",
+    "blurb": "EEG-based thought commands adjust magnetic confinement parameters in fusion tokamak reactors."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q83341",
+    "name": "Thought-Mapped LCD Display Driver",
+    "emoji": "📺",
+    "blurb": "EEG intent signals directly drive pixel updates on displays, replacing keyboard and mouse input."
+  },
+  {
+    "qid_a": "Q181787",
+    "qid_b": "Q20514253",
+    "name": "Android Blockchain Notary",
+    "emoji": "🔗",
+    "blurb": "Androids autonomously notarize real-world events on a blockchain, serving as verifiable witnesses."
+  },
+  {
+    "qid_a": "Q181787",
+    "qid_b": "Q32566",
+    "name": "Android Self-Diagnostic CT Suite",
+    "emoji": "🏥",
+    "blurb": "Androids pass themselves through onboard CT scanners to inspect internal wear without disassembly."
+  },
+  {
+    "qid_a": "Q181787",
+    "qid_b": "Q527628",
+    "name": "Holographic Android Projector Skin",
+    "emoji": "🔆",
+    "blurb": "Android surfaces emit holographic projections to simulate any human appearance on demand."
+  },
+  {
+    "qid_a": "Q181787",
+    "qid_b": "Q743263",
+    "name": "Compliance-Conditioning Android Protocol",
+    "emoji": "🧨",
+    "blurb": "Androids apply iterative persuasion loops to reshape operator beliefs toward desired behavioral norms."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q204520",
+    "name": "Exo-Prosthetic Terrain Adaptor",
+    "emoji": "🌍",
+    "blurb": "Prosthetic limbs auto-reconfigure joint stiffness for alien gravity and surface conditions during terraforming."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q254183",
+    "name": "AR Proprioception Prosthetic Sync",
+    "emoji": "🦾",
+    "blurb": "AR overlays visualize prosthetic limb position in real time, accelerating motor relearning."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q469",
+    "name": "Solar-Powered Deep-Space Prosthetics",
+    "emoji": "⭐",
+    "blurb": "Dyson-harvested power beamed to distant colonies keeps powered prosthetics operational indefinitely."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q741490",
+    "name": "Haptic Co-Pilot Prosthetic Arm",
+    "emoji": "🚗",
+    "blurb": "Prosthetic arms relay steering feedback from autonomous vehicles, keeping disabled drivers in the loop."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q381490",
+    "name": "Aerogel Neuromorphic Insulator Chip",
+    "emoji": "🕸️",
+    "blurb": "Aerogel thermal barriers isolate heat between neural network layers in dense neuromorphic processors."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q254183",
+    "name": "Terraforming Progress AR Navigator",
+    "emoji": "🌍",
+    "blurb": "AR headsets overlay projected atmospheric and biome evolution timelines onto planetary surface surveys."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q741490",
+    "name": "Autonomous Vehicle Blockchain Toll",
+    "emoji": "🚗",
+    "blurb": "Self-driving cars settle road-use fees and insurance claims via smart contracts in real time."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "Q381490",
+    "name": "Post-Singularity Aerogel Substrate",
+    "emoji": "♾️",
+    "blurb": "Aerogel scaffolds host ultra-dense compute nodes built by post-singularity AI for its own expansion."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q32566",
+    "name": "Live CT Anatomy AR Overlay",
+    "emoji": "🏥",
+    "blurb": "CT scan data renders real-time anatomical structures over the patient's body for surgeons."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q527628",
+    "name": "Holographic AR Depth Compositor",
+    "emoji": "🔆",
+    "blurb": "Holographic interference patterns anchor AR overlays with physically accurate depth and parallax."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q743263",
+    "name": "Subliminal AR Influence Layer",
+    "emoji": "🧨",
+    "blurb": "AR systems embed imperceptible persuasive cues into everyday visual overlays to shift user behavior."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "Q381490",
+    "name": "Aerogel Faraday Security Enclosure",
+    "emoji": "🔒",
+    "blurb": "Aerogel composite panels form lightweight, broadband-shielding enclosures for classified hardware."
+  },
+  {
+    "qid_a": "Q381490",
+    "qid_b": "Q584529",
+    "name": "Aerogel Thermal Humanoid Suit",
+    "emoji": "🦾",
+    "blurb": "Aerogel garments insulate humanoid robots from extreme temperatures in industrial or arctic environments."
+  },
+  {
+    "qid_a": "Q381490",
+    "qid_b": "Q79798",
+    "name": "Aerogel Acoustic Translation Panel",
+    "emoji": "🌫️",
+    "blurb": "Sound-absorbing aerogel rooms reduce ambient noise to near zero, dramatically improving speech translation accuracy."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "Q741490",
+    "name": "Humanoid Traffic Marshal Robot",
+    "emoji": "🦾",
+    "blurb": "Humanoid robots direct autonomous vehicle flows at intersections where edge cases confound software alone."
+  },
+  {
+    "qid_a": "Q741490",
+    "qid_b": "Q83341",
+    "name": "Heads-Up Autonomous Drive Display",
+    "emoji": "🚗",
+    "blurb": "LCD panels integrated into windshields show self-driving decisions, hazards, and route data in real time."
+  }
+]

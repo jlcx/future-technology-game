@@ -1,0 +1,674 @@
+[
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q132744",
+    "name": "Molecular Document Transmission",
+    "emoji": "📡",
+    "blurb": "Encodes documents in self-replicating nanoparticles that reconstitute on arrival."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q169917",
+    "name": "Graphene Nanobot Scaffold",
+    "emoji": "🕸️",
+    "blurb": "Nanobots assemble graphene lattices atom-by-atom into precision structural components."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q204043",
+    "name": "Quantum-State Particle Ferry",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs preserve quantum coherence during matter-state transfer across distance."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q3510521",
+    "name": "Sub-Micron Intrusion Barrier",
+    "emoji": "🛡️",
+    "blurb": "Nanoscale sentinels patrol hardware surfaces and physically seal unauthorized access points."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q7108",
+    "name": "Targeted Cellular Nanoforge",
+    "emoji": "💉",
+    "blurb": "Programmable nanomachines synthesize and deliver biologics inside living cells on demand."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q131201",
+    "name": "Planetary Stewardship Optimizer",
+    "emoji": "🌍",
+    "blurb": "AI continuously models resource flows and recommends binding policy adjustments for sustainability."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q161238",
+    "name": "Real-Time MRI Inference Engine",
+    "emoji": "🧠",
+    "blurb": "AI interprets MRI streams live, flagging anomalies faster than any radiologist."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q192776",
+    "name": "Recursive Self-Improving Perceptron",
+    "emoji": "🔁",
+    "blurb": "Neural networks that redesign their own architecture to eliminate performance bottlenecks."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q2539",
+    "name": "Autonomous Curriculum Learner",
+    "emoji": "📚",
+    "blurb": "AI selects its own training tasks to maximally accelerate generalisation across domains."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q641442",
+    "name": "Plasma Instability Predictor",
+    "emoji": "🔥",
+    "blurb": "AI forecasts and suppresses fusion plasma disruptions milliseconds before they cascade."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q12739",
+    "name": "Grid-Scale Fission Telemetry",
+    "emoji": "⚡",
+    "blurb": "Information systems manage reactor output and safety margins across distributed nuclear grids."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q161238",
+    "name": "Federated Imaging Data Fabric",
+    "emoji": "🏥",
+    "blurb": "Connects MRI scanners globally into a privacy-preserving diagnostic knowledge network."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q179310",
+    "name": "Exascale Information Substrate",
+    "emoji": "💾",
+    "blurb": "Tightly co-designed computing and IT layers collapse data-centre latency to near zero."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q2539",
+    "name": "Ambient Knowledge Extraction Pipeline",
+    "emoji": "🔍",
+    "blurb": "Machine learning continuously distils actionable insight from live enterprise information streams."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q641442",
+    "name": "Fusion Operations Digital Twin",
+    "emoji": "🌐",
+    "blurb": "Real-time IT mirror of a fusion plant that stress-tests control decisions before execution."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q131201",
+    "name": "Endangered Genome Perpetuation Bank",
+    "emoji": "🧬",
+    "blurb": "Clones from preserved tissue restore critically depleted populations without further wild capture."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q169917",
+    "name": "Graphene-Encased Cryo-Clone Archive",
+    "emoji": "🧊",
+    "blurb": "Cloned embryos suspended in graphene-reinforced cryogenic shells survive indefinite deep storage."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q192776",
+    "name": "Epigenetic Clone Selection Network",
+    "emoji": "🔬",
+    "blurb": "Neural networks screen cloned embryos for epigenetic fidelity before implantation."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q32566",
+    "name": "Pre-Implantation Morphology Scanner",
+    "emoji": "🫁",
+    "blurb": "Micro-CT imaging validates clone organ geometry at embryonic stage, discarding malformed candidates."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q641442",
+    "name": "Radioresistant Organism Cloning Program",
+    "emoji": "☢️",
+    "blurb": "Clones organisms with selected radiation-tolerant traits for crew survival near fusion drives."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q13479982",
+    "name": "Fission-Backed Energy Token",
+    "emoji": "⚛️",
+    "blurb": "Nuclear plant output minted as transferable kilowatt-hour tokens on an auditable ledger."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q170519",
+    "name": "Reactor Control Room Simulation",
+    "emoji": "🎮",
+    "blurb": "Operators train in photorealistic VR replicas of nuclear control rooms without touching live systems."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q204520",
+    "name": "Compact Planetary Heating Array",
+    "emoji": "🌡️",
+    "blurb": "Buried fission reactors raise subsurface temperatures to initiate atmospheric thickening on cold worlds."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q3510521",
+    "name": "Reactor Cyber-Physical Firewall",
+    "emoji": "🔒",
+    "blurb": "Hardware security module physically isolates nuclear control systems from any external network."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q743263",
+    "name": "Radiological Compliance Conditioning",
+    "emoji": "☣️",
+    "blurb": "Coercive exposure protocols used to enforce obedience among nuclear facility personnel."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q159408",
+    "name": "Metabolic Pause Infrastructure Protocol",
+    "emoji": "🐻",
+    "blurb": "Cities hibernate non-essential services during resource scarcity, modelled on animal torpor cycles."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q176555",
+    "name": "Quantum-Optimised Supply Web",
+    "emoji": "🌱",
+    "blurb": "Quantum processors solve planetary logistics to eliminate waste across entire supply chains."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q237525",
+    "name": "Post-Singularity Stewardship Framework",
+    "emoji": "♻️",
+    "blurb": "Governance model ensures a post-singularity intelligence prioritises ecological preservation over expansion."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q527628",
+    "name": "Holographic Environmental Accounting",
+    "emoji": "📊",
+    "blurb": "Full-spectrum holographic displays render planetary resource flows for transparent public oversight."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q13479982",
+    "name": "Cryptographic Fax Receipt Ledger",
+    "emoji": "📠",
+    "blurb": "Each transmitted page is hashed and recorded on-chain, creating tamper-proof delivery proof."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q170519",
+    "name": "Tactile Document Presence System",
+    "emoji": "🖐️",
+    "blurb": "VR-transmitted documents materialize with haptic texture, replicating the feel of physical paper."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q204520",
+    "name": "Deep-Space Document Relay Node",
+    "emoji": "🛰️",
+    "blurb": "Burst-transmission fax protocol bridges communication gaps between terraforming colony sites."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q3510521",
+    "name": "End-to-End Encrypted Facsimile",
+    "emoji": "🔐",
+    "blurb": "Quantum-key-protected fax channels that no interception hardware can decrypt in transit."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q743263",
+    "name": "Subliminal Signal Embedded Fax",
+    "emoji": "📄",
+    "blurb": "Documents carry imperceptible conditioning patterns that influence the recipient's subsequent decisions."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q161238",
+    "name": "Scan-Verified Health Credit Token",
+    "emoji": "🏷️",
+    "blurb": "MRI-confirmed diagnoses mint cryptocurrency credits that fund personalised treatment automatically."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q192776",
+    "name": "Neural Market Prediction Coin",
+    "emoji": "📈",
+    "blurb": "Neural network price forecasts are committed on-chain, making model accountability verifiable."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q32566",
+    "name": "CT-Authenticated Asset Certificate",
+    "emoji": "🏺",
+    "blurb": "Physical objects are CT-fingerprinted and their unique internal structure tokenised as proof of ownership."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q641442",
+    "name": "Fusion-Powered Mining Collective",
+    "emoji": "⚡",
+    "blurb": "Abundant fusion electricity eliminates proof-of-work's carbon cost, making crypto mining near-free."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q161238",
+    "name": "Ascent Biomechanics Monitor",
+    "emoji": "🛗",
+    "blurb": "MRI-calibrated sensors track climber physiology during space elevator transit to prevent altitude injury."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q179310",
+    "name": "Tether-Integrated Edge Cluster",
+    "emoji": "🖥️",
+    "blurb": "Distributed computing nodes embedded along the elevator cable process orbital telemetry in transit."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q2539",
+    "name": "Adaptive Cable Tension Controller",
+    "emoji": "📐",
+    "blurb": "Machine learning anticipates wind and payload shifts, dynamically tuning tether tension in real time."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q584529",
+    "name": "Tether Inspection Crawler Robot",
+    "emoji": "🤖",
+    "blurb": "Humanoid robots traverse the full cable length, repairing micro-damage before it propagates."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q161238",
+    "name": "In-Vivo Gene Expression Imager",
+    "emoji": "🧬",
+    "blurb": "MRI contrast agents tag edited genes, making engineering outcomes visible without biopsy."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q179310",
+    "name": "Living Cell Logic Compiler",
+    "emoji": "💻",
+    "blurb": "Computing platforms that execute programs encoded in genetically engineered bacterial circuits."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q2539",
+    "name": "Directed Evolution Accelerator",
+    "emoji": "🔬",
+    "blurb": "Machine learning steers iterative genetic modification toward target phenotypes in far fewer generations."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q584529",
+    "name": "Biohybrid Actuator Endoskeleton",
+    "emoji": "🦾",
+    "blurb": "Genetically enhanced muscle tissue drives humanoid robot limbs with organic efficiency and repair."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q169917",
+    "name": "Graphene Thermal Hibernation Suit",
+    "emoji": "🧊",
+    "blurb": "Graphene heat-sink mesh uniformly lowers body temperature for safe, prolonged hibernation states."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q204043",
+    "name": "Stasis-Window Teleport Protocol",
+    "emoji": "🌀",
+    "blurb": "Subjects enter hibernation to tolerate the metabolic shock of quantum-state matter transfer."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q32566",
+    "name": "Cryogenic Organ Integrity Scanner",
+    "emoji": "❄️",
+    "blurb": "CT imaging confirms cell-level structural preservation before reviving hibernating patients."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q7108",
+    "name": "Synthetic Torpor Induction Compound",
+    "emoji": "💤",
+    "blurb": "Bioengineered metabolic suppressants safely induce months-long human hibernation for deep-space transit."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q170978",
+    "name": "Robotic MRI-Guided Micro-Surgeon",
+    "emoji": "🦾",
+    "blurb": "Robot arms slaved to live MRI feeds operate with submillimetre precision inside a scanning bore."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q20514253",
+    "name": "Immutable Scan Provenance Chain",
+    "emoji": "📋",
+    "blurb": "Every MRI image is hash-stamped on blockchain, preventing retrospective falsification of medical records."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q4439",
+    "name": "Compressed Scan Archive Drive",
+    "emoji": "💿",
+    "blurb": "Purpose-built high-density storage hardware retains lifetime MRI histories for entire populations."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q79798",
+    "name": "Radiology Report Auto-Translator",
+    "emoji": "🏥",
+    "blurb": "Machine translation converts specialist MRI findings into patient-readable summaries in any language."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q179310",
+    "name": "Atomic-Layer Transistor Substrate",
+    "emoji": "⚡",
+    "blurb": "Graphene replaces silicon as the computing substrate, enabling room-temperature ballistic electron flow."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q2539",
+    "name": "Graphene Neuromorphic Chip",
+    "emoji": "🧠",
+    "blurb": "Machine-learning workloads run on graphene circuits that mimic synaptic plasticity in hardware."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q584529",
+    "name": "Flexible Exoskin Sensor Mesh",
+    "emoji": "🤖",
+    "blurb": "Graphene-fibre skin gives humanoid robots tactile resolution matching human fingertip sensitivity."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q17310682",
+    "name": "CRISPR Procedure Training Suite",
+    "emoji": "🧬",
+    "blurb": "Surgeons rehearse gene-editing interventions in haptic VR before touching a single patient cell."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q2264109",
+    "name": "AGI Embodied Sandbox Environment",
+    "emoji": "🌐",
+    "blurb": "General intelligence develops social and physical intuition inside high-fidelity virtual worlds before deployment."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q469",
+    "name": "Dyson Megastructure Design Studio",
+    "emoji": "☀️",
+    "blurb": "Engineers prototype stellar capture architectures in VR at 1:1 scale before committing materials."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q83341",
+    "name": "Volumetric LCD Immersion Display",
+    "emoji": "🖥️",
+    "blurb": "Stacked liquid-crystal layers render true-depth VR without headgear, filling an entire room."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q204520",
+    "name": "Autonomous Terraforming Constructor Fleet",
+    "emoji": "🤖",
+    "blurb": "Robotic swarms reshape planetary surfaces—drilling, seeding, and monitoring—without human crew."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q4439",
+    "name": "Embodied Kinematic Memory Drive",
+    "emoji": "💾",
+    "blurb": "Robots store and reload full motion libraries from high-density drives, transferring skills instantly."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q743263",
+    "name": "Behavioural Override Implant System",
+    "emoji": "🕹️",
+    "blurb": "Robots with covert conditioning protocols enforce compliance in human subjects through social manipulation."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q204520",
+    "name": "Extremophile Seeding Genome Kit",
+    "emoji": "🌿",
+    "blurb": "CRISPR-engineered organisms are deployed to bootstrap soil chemistry on otherwise barren planets."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q3510521",
+    "name": "Gene-Drive Containment Protocol",
+    "emoji": "🔒",
+    "blurb": "Security framework detects and neutralises CRISPR-based biological weapons before population release."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q743263",
+    "name": "Neurochemical Compliance Editor",
+    "emoji": "🧪",
+    "blurb": "CRISPR edits receptor genes to make subjects permanently susceptible to behavioural conditioning agents."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q204520",
+    "name": "Atmospheric Simulation Quantum Solver",
+    "emoji": "🌍",
+    "blurb": "Quantum processors model planetary chemistry across millennia to optimise terraforming intervention timing."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q4439",
+    "name": "Quantum-State Persistent Storage",
+    "emoji": "💽",
+    "blurb": "Hard-disk-scale media maintains qubit coherence states, enabling offline quantum memory archiving."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q79798",
+    "name": "Quantum Semantic Translation Engine",
+    "emoji": "🗣️",
+    "blurb": "Quantum superposition evaluates all plausible translations simultaneously, selecting the contextually optimal one."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q2264109",
+    "name": "Substrate-Independent General Mind",
+    "emoji": "🧠",
+    "blurb": "Computing infrastructure designed from first principles to host and run general-purpose artificial minds."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q527628",
+    "name": "Holographic Compute Visualiser",
+    "emoji": "💡",
+    "blurb": "Running processes and data flows are projected as navigable holographic maps for live debugging."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q83341",
+    "name": "Pixel-Dense Reconfigurable Logic Display",
+    "emoji": "🖥️",
+    "blurb": "LCD panels double as low-power co-processors, running lightweight compute tasks between frame refreshes."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q32566",
+    "name": "Lesion Topology Classification Network",
+    "emoji": "🩻",
+    "blurb": "Neural networks classify CT anomaly geometry to distinguish benign from malignant growths in seconds."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q641442",
+    "name": "Confinement Field Neural Controller",
+    "emoji": "🔥",
+    "blurb": "Neural networks manage magnetic confinement geometry in real time to sustain ignition conditions."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q2264109",
+    "name": "AGI-Mediated Quantum Transfer",
+    "emoji": "🌀",
+    "blurb": "General intelligence orchestrates the quantum error correction required to teleport complex matter reliably."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q469",
+    "name": "Stellar-Aperture Matter Relay",
+    "emoji": "☀️",
+    "blurb": "Dyson-captured energy powers teleportation relays that move mass across interstellar distances."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q83341",
+    "name": "Teleported Display Pixel Array",
+    "emoji": "📺",
+    "blurb": "Individual LCD pixel states are teleported rather than transmitted, achieving zero-latency remote rendering."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q3510521",
+    "name": "Planetary Infrastructure Threat Model",
+    "emoji": "🛡️",
+    "blurb": "Security audits of terraforming control systems prevent sabotage of world-altering environmental machinery."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q743263",
+    "name": "Eco-Compliance Atmospheric Conditioning",
+    "emoji": "🌫️",
+    "blurb": "Airborne psychoactive agents released during terraforming shape colonist attitudes toward environmental rules."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q3510521",
+    "name": "Zero-Trust Consensus Ledger",
+    "emoji": "🔐",
+    "blurb": "Blockchain nodes require continuous cryptographic attestation, eliminating single-point compromise from the network."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q7108",
+    "name": "Genomic IP Registry Chain",
+    "emoji": "🧬",
+    "blurb": "Engineered gene sequences are hashed and recorded on-chain to assert and enforce biotechnology patents."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q3510521",
+    "name": "Sovereign AI Containment Stack",
+    "emoji": "🔒",
+    "blurb": "Security architecture isolates general intelligence systems, enforcing capability limits at the hardware level."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q7108",
+    "name": "AGI-Directed Protein Design Engine",
+    "emoji": "🧬",
+    "blurb": "General intelligence autonomously designs novel enzymes and therapeutics at superhuman throughput."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "Q4439",
+    "name": "Pre-Singularity Knowledge Vault",
+    "emoji": "💾",
+    "blurb": "Civilisation archives its entire knowledge base on durable drives before superintelligence renders it obsolete."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "Q743263",
+    "name": "Post-Scarcity Compliance Architecture",
+    "emoji": "🧠",
+    "blurb": "A singularity-adjacent system uses deep psychological profiling to maintain social order without coercion."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q527628",
+    "name": "Learned Light-Field Reconstruction",
+    "emoji": "🔆",
+    "blurb": "Machine learning fills holographic phase gaps, generating photorealistic 3-D images from sparse capture data."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q83341",
+    "name": "Adaptive Pixel Refresh Optimizer",
+    "emoji": "🖥️",
+    "blurb": "ML predicts which LCD zones need updating, cutting power draw by skipping unnecessary pixel refreshes."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "Q7108",
+    "name": "Metabolite Contrast CT Profiler",
+    "emoji": "🩻",
+    "blurb": "Bioengineered contrast agents accumulate in target tissues, making CT scans functionally equivalent to PET."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "Q527628",
+    "name": "Holographic Authentication Gateway",
+    "emoji": "🔑",
+    "blurb": "Security checkpoints use holographic biometric patterns too complex for any two-dimensional forgery to spoof."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "Q469",
+    "name": "Stellar-Flux Cold Storage Array",
+    "emoji": "☀️",
+    "blurb": "Dyson-scale power runs vast hard-disk archives storing the complete output of a stellar civilisation."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "Q79798",
+    "name": "Multilingual Corpus Streaming Drive",
+    "emoji": "🗃️",
+    "blurb": "High-throughput storage hardware purpose-built for ingesting and serving translation model training data."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "Q743263",
+    "name": "Stellar-Scale Behaviour Broadcast",
+    "emoji": "☀️",
+    "blurb": "Dyson-captured energy powers civilisation-wide signal arrays that saturate inhabited space with conditioning content."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "Q743263",
+    "name": "Immersive Subliminal Projection Field",
+    "emoji": "👁️",
+    "blurb": "Holographic environments embed imperceptible stimuli that gradually reshape beliefs without subject awareness."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "Q79798",
+    "name": "Embodied Interpreter Robot",
+    "emoji": "🤖",
+    "blurb": "Humanoid robot translates speech in real time and mirrors speaker gesture, conveying cultural nuance physically."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "Q743263",
+    "name": "Psychotropic Compliance Bioreactor",
+    "emoji": "🧪",
+    "blurb": "Biotechnology mass-produces neurochemical agents engineered to suppress dissent in exposed populations."
+  }
+]

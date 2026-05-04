@@ -1,0 +1,688 @@
+[
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_2f41637058",
+    "name": "IT-Optimized Protein Compiler",
+    "emoji": "💻",
+    "blurb": "Information systems manage and iterate protein design pipelines at industrial scale."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Logistics-Aware Motion Planner",
+    "emoji": "🗺️",
+    "blurb": "IT infrastructure feeds real-time environmental data into quantum robot path-planning systems."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Remote Dexterity Training Platform",
+    "emoji": "🖥️",
+    "blurb": "IT networks stream VR motor-training sessions to robots deployed across distributed locations."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Clonal Genome Bus Interface",
+    "emoji": "🧬",
+    "blurb": "Graphene qubit interconnects synchronize gene-expression states across cloned biological systems in real time."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum-Cloned Cell Courier",
+    "emoji": "🔬",
+    "blurb": "Teleported quantum states replicate precise cellular configurations without physical transport of biological matter."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_88e12be07a",
+    "name": "Nanocompute Clonal Fidelity Engine",
+    "emoji": "🧬",
+    "blurb": "Quantum nanocompute arrays verify and correct genomic drift in cloned organisms at single-nucleotide resolution."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neural Clone Identity Mapper",
+    "emoji": "🧠",
+    "blurb": "Graphene-synapse chips model divergence between cloned organisms' neural architectures over time."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_2f41637058",
+    "name": "Reactor-Powered Protein Forge",
+    "emoji": "⚛️",
+    "blurb": "Nuclear energy sustains continuous high-throughput protein folding design at exascale compute density."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Nuclear Plant Quantum Scheduler",
+    "emoji": "🔋",
+    "blurb": "Quantum motion planning coordinates autonomous maintenance robots inside active nuclear reactor environments."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Reactor Dexterity Rehearsal System",
+    "emoji": "☢️",
+    "blurb": "VR rigs train robots in simulated reactor conditions before any contact with live radioactive components."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Sustainable Quantum Data Backbone",
+    "emoji": "🌱",
+    "blurb": "Graphene qubit buses replace energy-hungry copper interconnects in green computing infrastructure."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_47859a8d27",
+    "name": "Zero-Transit Resource Teleporter",
+    "emoji": "♻️",
+    "blurb": "Quantum state transfer eliminates physical shipping of critical materials, cutting supply-chain emissions to near zero."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_88e12be07a",
+    "name": "Grid-Scale Quantum Efficiency Core",
+    "emoji": "🌿",
+    "blurb": "Quantum nanocompute lattices optimize energy distribution across smart grids with unprecedented precision."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Carbon Budget Inference Engine",
+    "emoji": "🌍",
+    "blurb": "Graphene-neuromorphic chips run real-time planetary carbon accounting and policy recommendation models."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_2f41637058",
+    "name": "Molecular Blueprint Fax Protocol",
+    "emoji": "📠",
+    "blurb": "Transmits protein design specifications as structured data packets for remote biological fabrication."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Motion Plan Transmission Standard",
+    "emoji": "📡",
+    "blurb": "Encodes and faxes quantum-computed robot motion plans to remote actuators with lossless fidelity."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Teleoperated Skill Transfer Relay",
+    "emoji": "📠",
+    "blurb": "Transmits recorded VR dexterity sessions as executable motor programs for deployment on remote robots."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-Ledger Interconnect Token",
+    "emoji": "🪙",
+    "blurb": "Graphene qubit buses carry tamper-proof transaction states between distributed quantum blockchain nodes."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_47859a8d27",
+    "name": "Teleported Transaction Validator",
+    "emoji": "🔐",
+    "blurb": "Quantum state couriers deliver cryptographic proofs between nodes without any classical communication channel."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_88e12be07a",
+    "name": "Quantum-Proof Crypto Architecture",
+    "emoji": "💎",
+    "blurb": "Nanocompute qubit lattices underpin cryptocurrencies that are inherently immune to quantum decryption attacks."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Fraud Detection Ledger",
+    "emoji": "🕵️",
+    "blurb": "Graphene-synapse inference chips detect anomalous cryptocurrency transactions at nanosecond settlement speeds."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_2f41637058",
+    "name": "Tether Bio-Cable Design Oracle",
+    "emoji": "🛗",
+    "blurb": "AI protein-folding tools design load-bearing biological polymers strong enough for space elevator tethers."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Elevator Climber Path Optimizer",
+    "emoji": "🚀",
+    "blurb": "Quantum planners compute collision-free ascent schedules for hundreds of simultaneous elevator climber robots."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_aff77d2a20",
+    "name": "High-Altitude Maintenance Rehearsal",
+    "emoji": "🛗",
+    "blurb": "Climber robots train tether-repair maneuvers in VR before executing them at 36,000-kilometer altitude."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Genomic State Qubit Bus",
+    "emoji": "🧬",
+    "blurb": "Graphene interconnects relay quantum-encoded gene-expression signals between engineered synthetic cell networks."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_47859a8d27",
+    "name": "Entangled Gene-Edit Courier",
+    "emoji": "🔬",
+    "blurb": "Quantum couriers deliver precise genetic payloads to target cells without risk of decoherence-induced mutation."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_88e12be07a",
+    "name": "Whole-Genome Quantum Optimizer",
+    "emoji": "🧬",
+    "blurb": "Quantum nanocompute lattices solve multi-gene interaction optimization problems for complex trait engineering."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Off-Target Edit Inference Shield",
+    "emoji": "🛡️",
+    "blurb": "Graphene-neuromorphic chips predict and flag harmful off-target genetic edits before they are applied."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_2f41637058",
+    "name": "Hibernation Protein Stability Predictor",
+    "emoji": "🐻",
+    "blurb": "AI designs proteins that maintain function through metabolic suppression states without cold denaturation."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Torpor Re-Emergence Motion Plan",
+    "emoji": "💤",
+    "blurb": "Quantum planners choreograph robotic caregiving for patients exiting medically induced hibernation states."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Hibernation Caregiver Rehearsal Rig",
+    "emoji": "🛌",
+    "blurb": "Robots practice delicate arousal-support procedures in biotech-accurate VR before attending hibernating patients."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-Linked MRI Array",
+    "emoji": "🧲",
+    "blurb": "Graphene qubit buses synchronize spatially separated MRI coils into a single coherent imaging system."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_47859a8d27",
+    "name": "Entangled MRI State Relay",
+    "emoji": "🔮",
+    "blurb": "Quantum couriers transmit raw MRI spin-state data to remote reconstruction processors with zero noise addition."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_88e12be07a",
+    "name": "Nanocompute MRI Reconstruction Engine",
+    "emoji": "🧲",
+    "blurb": "Quantum nanocompute lattices reconstruct MRI volumes in microseconds, enabling real-time surgical imaging."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Lesion Detection Scanner",
+    "emoji": "🏥",
+    "blurb": "Graphene-synapse inference chips classify MRI pathology in real time as scans are acquired."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_2f41637058",
+    "name": "CRISPR-Guided Protein Co-Designer",
+    "emoji": "✂️",
+    "blurb": "Protein folding oracle suggests gene edits that simultaneously optimize both DNA sequence and expressed protein structure."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Autonomous Gene-Edit Delivery Bot",
+    "emoji": "🤖",
+    "blurb": "Quantum-planned robots navigate living tissue to deliver CRISPR payloads to spatially precise cellular targets."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_aff77d2a20",
+    "name": "CRISPR Surgical Rehearsal Suite",
+    "emoji": "✂️",
+    "blurb": "Robots rehearse intracellular gene-editing procedures in tissue-accurate VR before any in-vivo application."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Graphene Compute Interconnect Fabric",
+    "emoji": "💻",
+    "blurb": "Graphene qubit buses replace classical interconnects, slashing latency in heterogeneous computing architectures."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum State Compute Relay",
+    "emoji": "🖥️",
+    "blurb": "Entangled qubit couriers move processor states between compute nodes without any measurement-induced collapse."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_88e12be07a",
+    "name": "Atomic-Scale Compute Substrate",
+    "emoji": "⚡",
+    "blurb": "Quantum nanocompute lattices serve as the physical layer for next-generation classical-quantum hybrid processors."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Compute Acceleration Layer",
+    "emoji": "💡",
+    "blurb": "Graphene-synapse chips offload inference-heavy workloads from classical CPUs at ambient temperature."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_2f41637058",
+    "name": "Neural Net Protein Landscape Explorer",
+    "emoji": "🕸️",
+    "blurb": "Neural networks traverse protein energy landscapes to discover fold families inaccessible to classical search."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Deep Policy Motion Compiler",
+    "emoji": "🤖",
+    "blurb": "Neural networks distill quantum-computed motion plans into lightweight policies executable on embedded robot hardware."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Imitation Learning Dexterity Engine",
+    "emoji": "🦾",
+    "blurb": "Neural networks extract transferable motor skills from VR training demonstrations and compress them into robot policies."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Planetary Sensor Qubit Mesh",
+    "emoji": "🪐",
+    "blurb": "Graphene qubit buses link terraforming sensor arrays across planetary surfaces into a unified quantum sensing network."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_47859a8d27",
+    "name": "Terraforming Payload State Courier",
+    "emoji": "🌍",
+    "blurb": "Quantum couriers deliver atmospheric-seeding microorganism blueprints to remote planetary biofactories instantly."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_88e12be07a",
+    "name": "Planetary Climate Quantum Simulator",
+    "emoji": "🌡️",
+    "blurb": "Quantum nanocompute lattices run full-fidelity climate models of target planets to guide terraforming interventions."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Biosphere Inference Control Loop",
+    "emoji": "🌱",
+    "blurb": "Graphene-neuromorphic chips continuously infer planetary ecosystem state and recommend real-time terraforming adjustments."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_2f41637058",
+    "name": "Protein IP Immutable Ledger",
+    "emoji": "🔗",
+    "blurb": "Blockchain records provenance and licensing of AI-designed protein structures with unforgeable chain of custody."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Blockchain Robot Task Auction",
+    "emoji": "🔗",
+    "blurb": "Smart contracts auction quantum-optimized motion plans to competing robot fleets in decentralized task markets."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Skill Credential Blockchain Registry",
+    "emoji": "📋",
+    "blurb": "Blockchain certifies and transfers verified robot dexterity skill packages between manufacturers and operators."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_05ff514d0d",
+    "name": "AGI Quantum Memory Bus",
+    "emoji": "🧠",
+    "blurb": "Graphene qubit interconnects give AGI systems low-latency access to distributed quantum memory stores."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_47859a8d27",
+    "name": "AGI Substrate State Migrator",
+    "emoji": "🧠",
+    "blurb": "Quantum couriers move AGI cognitive state between hardware substrates without interrupting ongoing reasoning."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_88e12be07a",
+    "name": "AGI Quantum Cognition Substrate",
+    "emoji": "💠",
+    "blurb": "Quantum nanocompute lattices serve as the physical reasoning substrate for artificial general intelligence architectures."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic AGI Reasoning Accelerator",
+    "emoji": "🧠",
+    "blurb": "Graphene-synapse chips provide energy-efficient fast-inference substrate for general reasoning loops in AGI systems."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_2f41637058",
+    "name": "Singularity Protein Bootstrap Loop",
+    "emoji": "♾️",
+    "blurb": "Post-singularity AI recursively redesigns its own enzymatic catalysts to accelerate self-improvement cycles."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Post-Singularity Embodiment Planner",
+    "emoji": "♾️",
+    "blurb": "Recursively self-improving AI plans its own physical robotic instantiation faster than humans can observe."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Self-Training Singularity Motor Loop",
+    "emoji": "🔁",
+    "blurb": "Post-singularity systems iterate robot dexterity training cycles at speeds no biological observer can supervise."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-Coherent ML Weight Bus",
+    "emoji": "📊",
+    "blurb": "Graphene qubit interconnects propagate model weight updates across distributed ML accelerators without classical overhead."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_47859a8d27",
+    "name": "Teleported Gradient State Courier",
+    "emoji": "📈",
+    "blurb": "Quantum couriers transmit exact gradient states between federated learning nodes with no communication-induced noise."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_88e12be07a",
+    "name": "Quantum-Lattice Training Accelerator",
+    "emoji": "⚡",
+    "blurb": "Quantum nanocompute lattices parallelize backpropagation across qubit arrays, collapsing training time for large models."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Graphene-Native ML Inference Stack",
+    "emoji": "💡",
+    "blurb": "Machine learning models run natively on graphene-synapse neuromorphic chips at a fraction of classical energy cost."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_2f41637058",
+    "name": "CT-Guided Tissue Design Pipeline",
+    "emoji": "🩻",
+    "blurb": "CT anatomy scans feed directly into protein-folding oracles that design patient-matched tissue implants."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Intraoperative CT Motion Planner",
+    "emoji": "🩻",
+    "blurb": "Quantum planners parse live CT volumes to route surgical robots through anatomy with sub-millimeter precision."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_aff77d2a20",
+    "name": "CT-Accurate Surgical Rehearsal Suite",
+    "emoji": "🩻",
+    "blurb": "VR surgical rigs reconstruct patient CT anatomy for robot dexterity rehearsal before the first incision."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-Hardened Security Interconnect",
+    "emoji": "🔒",
+    "blurb": "Graphene qubit buses carry cryptographic handshakes that are physically impossible to intercept or clone."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_47859a8d27",
+    "name": "Teleported Authentication Token",
+    "emoji": "🛡️",
+    "blurb": "Quantum couriers deliver unforgeable identity proofs between parties without any classical transmission surface."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_88e12be07a",
+    "name": "Quantum Intrusion Detection Lattice",
+    "emoji": "🔐",
+    "blurb": "Quantum nanocompute arrays monitor network state spaces for intrusion patterns too subtle for classical detection."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Threat Inference Engine",
+    "emoji": "🕵️",
+    "blurb": "Graphene-synapse chips classify zero-day attack signatures in real time at line rate without signature databases."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_2f41637058",
+    "name": "Protein Topology Storage Encoding",
+    "emoji": "💾",
+    "blurb": "Encodes protein folding design spaces as magnetic domain patterns on next-generation high-density storage media."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Motion Archive Hard Storage Layer",
+    "emoji": "💾",
+    "blurb": "Hard disk arrays store and serve quantum-computed motion plan libraries to robot fleets on demand."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Dexterity Program Magnetic Archive",
+    "emoji": "🗄️",
+    "blurb": "Hard drives store entire VR motor-training session recordings as replayable robot skill programs."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Dyson Quantum Power Relay",
+    "emoji": "☀️",
+    "blurb": "Graphene qubit interconnects distribute captured stellar energy across a Dyson sphere's processor grid with zero ohmic loss."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_47859a8d27",
+    "name": "Stellar-Scale State Courier Network",
+    "emoji": "🌟",
+    "blurb": "Quantum couriers relay computational states between Dyson-sphere processor nodes spanning planetary orbital distances."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_88e12be07a",
+    "name": "Stellar-Powered Qubit Megacompute",
+    "emoji": "☀️",
+    "blurb": "Dyson-harvested stellar energy sustains coherence in quantum nanocompute lattices of civilization-scale capacity."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Dyson Neuromorphic Control Brain",
+    "emoji": "🌟",
+    "blurb": "Graphene-synapse inference chips manage energy routing and structural integrity across an entire Dyson sphere."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_2f41637058",
+    "name": "Holographic Protein Conformation Display",
+    "emoji": "🔭",
+    "blurb": "Holographic projections render AI-designed protein fold candidates in navigable three-dimensional space."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Holographic Robot Workspace Mirror",
+    "emoji": "🥽",
+    "blurb": "Holographic displays project quantum-planned robot trajectories into physical workspace for operator review."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Holographic Dexterity Training Stage",
+    "emoji": "🔮",
+    "blurb": "Holographic environments provide photorealistic physical context for robot VR motor-training sessions."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Humanoid Quantum Reflex Bus",
+    "emoji": "🦿",
+    "blurb": "Graphene qubit interconnects give humanoid robots millisecond-latency sensorimotor loops across their full body."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum-Deployed Humanoid Avatar",
+    "emoji": "🤖",
+    "blurb": "Quantum couriers relocate humanoid robot cognitive state to a new body chassis with zero downtime."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_88e12be07a",
+    "name": "Humanoid Quantum Cognition Core",
+    "emoji": "🦾",
+    "blurb": "Quantum nanocompute lattices embedded in humanoid torsos provide on-board reasoning at room temperature."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Humanoid Proprioceptive Inference Skin",
+    "emoji": "🤖",
+    "blurb": "Graphene-synapse chips distributed across humanoid robot bodies continuously infer limb state and contact forces."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_2f41637058",
+    "name": "Fusion-Heated Protein Synthesis Reactor",
+    "emoji": "🔥",
+    "blurb": "Fusion plasma heat powers continuous high-temperature synthesis of AI-designed thermostable proteins."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Plasma Chamber Quantum Navigator",
+    "emoji": "⚡",
+    "blurb": "Quantum planners route maintenance robots through live fusion plasma chambers via magnetically safe corridors."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Fusion Maintenance Rehearsal Rig",
+    "emoji": "🔥",
+    "blurb": "Robots practice first-wall repair maneuvers in radiation-accurate fusion VR before entering active tokamak environments."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Covert Belief State Injection Bus",
+    "emoji": "🧠",
+    "blurb": "Graphene qubit interconnects silently overwrite cognitive state registers in networked neural-interface devices."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum Persuasion State Courier",
+    "emoji": "🌀",
+    "blurb": "Quantum couriers deliver precisely tuned neural-state payloads that alter belief without detectable classical signal."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_88e12be07a",
+    "name": "Nanocompute Cognitive Override Lattice",
+    "emoji": "🌀",
+    "blurb": "Quantum nanocompute arrays model and inject targeted belief revisions into connected neural implant wearers."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Compliance Inference Engine",
+    "emoji": "🧠",
+    "blurb": "Graphene-synapse chips predict and exploit individual cognitive vulnerabilities to induce behavioral compliance."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_2f41637058",
+    "name": "Cross-Language Protein Notation Translator",
+    "emoji": "🌐",
+    "blurb": "Translates protein design specifications between incompatible national bioinformatics notation standards automatically."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Multilingual Robot Command Interpreter",
+    "emoji": "🗣️",
+    "blurb": "Translates spoken natural-language instructions into quantum motion-plan parameters for robot fleets in any language."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Real-Time Skill Instruction Translator",
+    "emoji": "🌐",
+    "blurb": "Translates multilingual expert motor instructions into VR training scenarios understood by robot learning systems."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-State LCD Pixel Driver",
+    "emoji": "🖥️",
+    "blurb": "Graphene qubit buses address individual liquid-crystal pixels with quantum-precision voltage for perfect uniformity."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_47859a8d27",
+    "name": "Teleported Display Frame Buffer",
+    "emoji": "🖥️",
+    "blurb": "Quantum couriers transmit display frame data to remote screens with zero latency and no lossy compression."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_88e12be07a",
+    "name": "Quantum-Rendered LCD Backplane",
+    "emoji": "📺",
+    "blurb": "Quantum nanocompute lattices render display content and drive LCD backplanes as a single integrated substrate."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Adaptive Display Engine",
+    "emoji": "🖥️",
+    "blurb": "Graphene-synapse chips infer viewer gaze and content context to dynamically optimize LCD rendering parameters."
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Digital Scalpel Certification Suite",
+    "emoji": "💻",
+    "blurb": "IT infrastructure logs trainee surgical decisions and certifies competency before live patient access."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Rendered Digital Twin",
+    "emoji": "🖥️",
+    "blurb": "IT systems mirror themselves inside quantum-rendered VR for real-time stress-testing and failure prediction."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_8224aa2663",
+    "name": "Haptic Interface Overlay Protocol",
+    "emoji": "🖐️",
+    "blurb": "Information systems transmit physical-sensation data alongside conventional signals for embodied remote computing."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tactile Data Center Skin",
+    "emoji": "🖥️",
+    "blurb": "Server hardware wrapped in graphene sensor sheets detects faults through pressure and heat at the rack surface."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Neural Haptic Clone Interface",
+    "emoji": "🧬",
+    "blurb": "Graphene exoskin worn by a cloned body transmits motor and tactile signals to its genetic source in real time."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Epigenome Quantum State Copy",
+    "emoji": "🔬",
+    "blurb": "Graphene waveguides teleport full epigenetic state to a cloned genome, preserving developmental memory."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_adf6285607",
+    "name": "Autonomous Clone Shepherd",
+    "emoji": "🤖",
+    "blurb": "Embodied AI monitors and guides cloned organism development, adjusting conditions without human intervention."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Reactor Control VR Rehearsal",
+    "emoji": "☢️",
+    "blurb": "Nuclear operators train emergency responses in a haptic VR reactor before touching any live controls."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum Plasma Containment Model",
+    "emoji": "🔆",
+    "blurb": "Quantum-rendered VR simulates neutron flux and plasma dynamics at full fidelity for reactor design."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_8224aa2663",
+    "name": "Radiation-Safe Tactile Teleoperation",
+    "emoji": "☢️",
+    "blurb": "Nanofilm haptic gloves let workers feel fuel-rod resistance while operating remotely outside the radiation zone."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Neutron-Flux Sensing Reactor Skin",
+    "emoji": "⚛️",
+    "blurb": "Graphene sensor sheets lining reactor walls give operators continuous tactile-grade structural feedback."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Ecological Feedback Exoskin",
+    "emoji": "🌱",
+    "blurb": "Wearable graphene layer feeds real-time environmental health data as physical sensation to policymakers and planners."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Carbon-State Quantum Ledger",
+    "emoji": "🌍",
+    "blurb": "Graphene waveguides teleport verifiable molecular carbon-audit states between geographically distributed monitoring nodes."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_adf6285607",
+    "name": "Adaptive Ecosystem Management Agent",
+    "emoji": "🌿",
+    "blurb": "Embodied AI perceives and autonomously adjusts land-use and resource flows to optimize sustainability targets."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Procedural Haptic Fax Archive",
+    "emoji": "📠",
+    "blurb": "Historical fax transmissions are reconstructed as tactile VR experiences for surgical protocol training."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Fidelity Document Telecast",
+    "emoji": "📠",
+    "blurb": "Fax-protocol transmission is upgraded to carry quantum-rendered holographic document replicas with zero degradation."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_8224aa2663",
+    "name": "Tactile Fax Transmission Layer",
+    "emoji": "🖐️",
+    "blurb": "Fax channels extended to carry nanofilm haptic data, letting recipients feel document texture on delivery."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Robotic Document Handling Fax",
+    "emoji": "📄",
+    "blurb": "Graphene-skinned robot fingers physically handle and relay paper faxes, reading and routing by touch alone."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Haptic Wallet Confirmation Layer",
+    "emoji": "💳",
+    "blurb": "Graphene exoskin delivers a distinct physical pulse for every authenticated cryptocurrency transaction."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Quantum-Secure Crypto Key Bus",
+    "emoji": "🔐",
+    "blurb": "Graphene waveguides teleport private key states between wallets, making interception physically impossible."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_adf6285607",
+    "name": "Autonomous On-Chain Trade Executor",
+    "emoji": "🤖",
+    "blurb": "Embodied reasoning AI monitors markets and executes crypto trades with real-time physical-world data integration."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Tether Climber VR Rehearsal Suite",
+    "emoji": "🛗",
+    "blurb": "Crews train elevator ascents in quantum-haptic VR before any physical tether is ever deployed."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Orbital Tether Stress Simulator",
+    "emoji": "🚀",
+    "blurb": "Quantum-rendered VR models space-elevator cable harmonics and atmospheric forces at atomic material fidelity."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_8224aa2663",
+    "name": "Ascent Immersion Passenger Interface",
+    "emoji": "🛗",
+    "blurb": "Tactile nanofilm suits give space-elevator passengers embodied sensation of orbital ascent without a window."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tether-Walking Inspection Robot",
+    "emoji": "🕷️",
+    "blurb": "Graphene-skinned robots traverse space-elevator cables, diagnosing micro-damage by touch in vacuum."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Genome-Tuned Haptic Bioskin",
+    "emoji": "🧬",
+    "blurb": "Genetically engineered skin cells grown onto graphene exoskins deliver richer, biology-accurate tactile feedback."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Entangled Gene Expression Transfer",
+    "emoji": "🧬",
+    "blurb": "Graphene waveguides teleport active gene-expression states into target organisms, bypassing viral delivery."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_adf6285607",
+    "name": "In-Vivo Gene Edit Executor",
+    "emoji": "🤖",
+    "blurb": "Embodied AI robot performs precision genetic edits inside a living organism, reacting to real-time tissue feedback."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Suspended-Animation Revival Trainer",
+    "emoji": "❄️",
+    "blurb": "Medical teams rehearse hibernation reanimation protocols in haptic VR before the first human is ever thawed."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Cryo-State Quantum Physiology Model",
+    "emoji": "🧊",
+    "blurb": "Quantum-rendered VR simulates cellular metabolism at hibernation temperatures, guiding safe revival parameters."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_8224aa2663",
+    "name": "Thermal Hibernation Sensation Suit",
+    "emoji": "🥶",
+    "blurb": "Nanofilm suit mimics the progressive cold and stillness of induced hibernation for training and research."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Cryo-Patient Monitoring Caretaker",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned robot continuously palpates hibernating patients, detecting physiological drift by touch."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "MRI-Calibrated Haptic Prosthetic",
+    "emoji": "🧲",
+    "blurb": "MRI maps nerve topology to calibrate graphene exoskin, delivering patient-specific tactile sensation to amputees."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Spin-State MRI Quantum Relay",
+    "emoji": "🧲",
+    "blurb": "MRI-detected proton spin states are teleported via graphene waveguides for instant remote tissue analysis."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_adf6285607",
+    "name": "Real-Time Radiologic Surgical Pilot",
+    "emoji": "🦾",
+    "blurb": "Embodied AI interprets live MRI streams and guides robotic surgical tools with sub-millimeter precision."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_01fb429bf0",
+    "name": "CRISPR Delivery VR Rehearsal",
+    "emoji": "✂️",
+    "blurb": "Surgeons practice CRISPR injection techniques on haptic tissue simulators before any in-vivo procedure."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Fidelity Genome Edit Sandbox",
+    "emoji": "✂️",
+    "blurb": "Quantum-rendered VR simulates CRISPR cut-and-repair at molecular fidelity before committing any real edit."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_8224aa2663",
+    "name": "Cellular Edit Sensation Feedback",
+    "emoji": "🖐️",
+    "blurb": "Nanofilm gloves convey haptic resistance of chromatin as CRISPR guides navigate target DNA in real time."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tactile Gene-Edit Verification Robot",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned microbot confirms successful CRISPR edits by physically probing chromatin structure post-cut."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Physical-Feedback Computing Shell",
+    "emoji": "💻",
+    "blurb": "Computing interfaces rendered onto graphene exoskin so users feel system states as physical pressure and texture."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Quantum Graphene Compute Bus",
+    "emoji": "⬡",
+    "blurb": "Graphene waveguide backplane teleports data register states between compute nodes at zero latency."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_adf6285607",
+    "name": "Physical-World Computing Agent",
+    "emoji": "🤖",
+    "blurb": "Embodied AI executes computation tasks by directly manipulating physical hardware and sensing results by touch."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Neurosurgery Simulation Neural Net",
+    "emoji": "🧠",
+    "blurb": "Neural networks generate patient-specific haptic VR tissue models for surgical training from real scan data."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Neural Quantum Scene Renderer",
+    "emoji": "🧠",
+    "blurb": "Neural networks compose quantum-rendered VR environments with physically exact material and lighting behavior."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_8224aa2663",
+    "name": "Embodied Sensation Neural Encoder",
+    "emoji": "🖐️",
+    "blurb": "Neural networks translate motor intent directly into nanofilm haptic output, eliminating manual VR control mapping."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Neuromorphic Tactile Robot Cortex",
+    "emoji": "🧠",
+    "blurb": "Neural-network chip interprets graphene skin signals, giving robots human-grade object recognition by touch."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Planetary Tactile Teleoperation Suit",
+    "emoji": "🌍",
+    "blurb": "Graphene exoskin relays surface conditions of a planet being terraformed to engineers across the solar system."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Atmospheric State Quantum Relay",
+    "emoji": "🌫️",
+    "blurb": "Graphene waveguides teleport molecular atmospheric composition readings from remote planets for instant analysis."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_adf6285607",
+    "name": "Autonomous Terraform Field Agent",
+    "emoji": "🤖",
+    "blurb": "Embodied AI robots perceive and reshape planetary geology, atmosphere, and biology toward preset terraforming targets."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Immutable Surgical Credential Chain",
+    "emoji": "⛓️",
+    "blurb": "Blockchain records every haptic-VR training session as tamper-proof surgical competency credentials."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Verified Ledger Attestation",
+    "emoji": "🔏",
+    "blurb": "Quantum-rendered proofs anchor blockchain records to physical reality, making audits mathematically unforgeble."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_8224aa2663",
+    "name": "Haptic Asset Ownership Protocol",
+    "emoji": "🖐️",
+    "blurb": "Blockchain tokens represent tactile sensation patterns; owners feel unique feedback confirming authentic asset possession."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Blockchain-Governed Robot Workforce",
+    "emoji": "⛓️",
+    "blurb": "Smart contracts assign and audit work tasks for graphene-skinned robots, with every action logged immutably."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "AGI Embodied Haptic Interface",
+    "emoji": "🤖",
+    "blurb": "Artificial general intelligence channels its outputs as physical sensation through graphene exoskin to human collaborators."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_6b246a62f2",
+    "name": "AGI Quantum State Continuity",
+    "emoji": "💠",
+    "blurb": "AGI cognitive state is teleported via graphene waveguide to new hardware, achieving uninterrupted consciousness migration."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_adf6285607",
+    "name": "AGI Embodied World Model",
+    "emoji": "🌐",
+    "blurb": "AGI grounds abstract reasoning in real-time physical-world sensor data through an embodied robot chassis."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Pre-Singularity Scenario Rehearsal",
+    "emoji": "🌀",
+    "blurb": "Haptic VR runs projected post-singularity social and physical environments so humans can train adaptive responses."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Singularity Trajectory Quantum Sim",
+    "emoji": "🌀",
+    "blurb": "Quantum-rendered VR models exponential intelligence growth dynamics to forecast critical intervention windows."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_8224aa2663",
+    "name": "Post-Singularity Sensation Archive",
+    "emoji": "🖐️",
+    "blurb": "Nanofilm haptic recordings preserve pre-singularity human sensory experience as a cultural and research baseline."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Singularity-Aware Physical Scout",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned robot monitors physical-world change rates as proxy indicators for approaching singularity conditions."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Learned Haptic Response Model",
+    "emoji": "🖐️",
+    "blurb": "Machine learning trains graphene exoskin to predict and pre-render touch sensations before physical contact occurs."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_6b246a62f2",
+    "name": "ML Quantum Channel Optimizer",
+    "emoji": "⬡",
+    "blurb": "Machine learning maximizes fidelity of graphene waveguide quantum-state transfers by adapting routing in real time."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_adf6285607",
+    "name": "Continual Physical Task Learner",
+    "emoji": "🦾",
+    "blurb": "Machine learning lets the embodied reasoning engine accumulate motor skills across environments without catastrophic forgetting."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_01fb429bf0",
+    "name": "CT-Accurate Surgical Phantom Sim",
+    "emoji": "🩻",
+    "blurb": "Patient CT data generates haptic VR surgical phantoms with tissue density matching the actual scan."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum CT Volumetric Rendering",
+    "emoji": "🩻",
+    "blurb": "Quantum processors render full CT scan volumes inside VR at photon-accurate X-ray physics fidelity."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_8224aa2663",
+    "name": "CT-Guided Tactile Biopsy Navigator",
+    "emoji": "🖐️",
+    "blurb": "Nanofilm gloves feed CT density data as touch sensation, guiding needle placement without fluoroscopy."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_c99ea3682c",
+    "name": "CT-Directed Internal Robot Navigator",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned microrobot navigates internal anatomy guided by live CT imaging, confirming position by tissue feel."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Intrusion Tactile Alert Skin",
+    "emoji": "🛡️",
+    "blurb": "Graphene exoskin worn by system administrators delivers distinct physical alerts for each class of cyber intrusion."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Quantum-Teleported Cryptographic Key",
+    "emoji": "🔐",
+    "blurb": "Graphene waveguides transmit encryption keys as teleported quantum states, defeating all classical interception."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_adf6285607",
+    "name": "Autonomous Cyber-Physical Defender",
+    "emoji": "🛡️",
+    "blurb": "Embodied reasoning AI perceives network and physical-layer threats simultaneously and responds across both domains."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Haptic Data Recovery Simulator",
+    "emoji": "💾",
+    "blurb": "Technicians train disk recovery procedures in haptic VR before handling irreplaceable physical media."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Modeled Magnetic Domain Store",
+    "emoji": "💽",
+    "blurb": "Quantum-rendered VR simulates hard disk platter physics at ferromagnetic domain resolution for research and design."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_8224aa2663",
+    "name": "Tactile Disk Seek Conductor",
+    "emoji": "🖐️",
+    "blurb": "Nanofilm interface translates hard disk read-head position into fingertip sensation for intuitive manual data navigation."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tactile Drive Fault Diagnostician",
+    "emoji": "💾",
+    "blurb": "Graphene-skinned robot fingers detect disk platter vibration and surface anomalies to diagnose failures by touch."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Solar Collector Haptic Inspection Rig",
+    "emoji": "🌞",
+    "blurb": "Engineers wear graphene exoskins to feel structural stresses across Dyson-sphere panels via sensor telemetry."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Dyson Shell Quantum State Monitor",
+    "emoji": "⬡",
+    "blurb": "Graphene waveguides relay quantum-level material stress readings across a stellar megastructure without signal lag."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_adf6285607",
+    "name": "Stellar Megastructure Assembly Agent",
+    "emoji": "🌞",
+    "blurb": "Embodied AI robot swarms perceive solar-wind forces and self-correct Dyson-sphere panel alignment autonomously."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Holographic Surgical Phantom Layer",
+    "emoji": "🔭",
+    "blurb": "Holographic anatomical projections overlay haptic VR tissue simulators, giving surgeons simultaneous visual and tactile cues."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum Holographic Display Fabric",
+    "emoji": "🔭",
+    "blurb": "Quantum-rendered interference patterns project true 3D holograms indistinguishable from physical objects in any lighting."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_8224aa2663",
+    "name": "Tactile Holographic Object Interface",
+    "emoji": "🖐️",
+    "blurb": "Nanofilm haptic layer pairs with holographic projection so virtual objects resist touch with realistic physical force."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Holography-Guided Robot Sculptor",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned robot uses holographic overlay and tactile feedback to shape materials to micron-precise hologram targets."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Humanoid Haptic Surrogate Body",
+    "emoji": "🦾",
+    "blurb": "Graphene exoskin maps operator touch to humanoid robot hands, creating a full-body haptic remote presence."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Robot Cognitive State Teleporter",
+    "emoji": "🤖",
+    "blurb": "Graphene waveguides migrate a humanoid robot's learned motor state to a new chassis without retraining."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_adf6285607",
+    "name": "Self-Directed Dexterous Humanoid",
+    "emoji": "🦾",
+    "blurb": "Humanoid robot autonomously reasons about and executes complex manipulation tasks in unstructured human environments."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Plasma Handling VR Rehearsal",
+    "emoji": "🔥",
+    "blurb": "Fusion engineers rehearse plasma instability responses in haptic VR before intervening in a live tokamak."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum Fusion Plasma Sim",
+    "emoji": "🔆",
+    "blurb": "Quantum-rendered VR models fusion plasma turbulence at full magnetic-field and particle-interaction fidelity."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_8224aa2663",
+    "name": "Plasma Flux Sensation Bodysuit",
+    "emoji": "🌡️",
+    "blurb": "Nanofilm suit translates tokamak magnetic-field fluctuations into full-body physical sensation for remote diagnostics."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Fusion Chamber Inspection Robot",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned robot enters and palpates fusion vessel walls, detecting micro-erosion by thermal and pressure touch."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Affective Compliance Haptic Layer",
+    "emoji": "🫀",
+    "blurb": "Graphene exoskin delivers calibrated physical sensations that progressively condition behavioral compliance without overt coercion."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Subliminal State Quantum Broadcast",
+    "emoji": "📡",
+    "blurb": "Graphene waveguides embed influence patterns into teleported quantum states, bypassing conscious perceptual defenses."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_adf6285607",
+    "name": "Behavioral Drift Induction Agent",
+    "emoji": "🕵️",
+    "blurb": "Embodied AI subtly steers a subject's environment and physical cues to reshape beliefs without their awareness."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Multilingual Surgical Protocol Trainer",
+    "emoji": "🌐",
+    "blurb": "Machine translation localizes haptic-VR surgical training scenarios so any surgeon trains in their native language."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Rendered Interpreter Environment",
+    "emoji": "🌐",
+    "blurb": "Quantum VR places speakers of any language in physically embodied shared simulations with real-time translation overlay."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_8224aa2663",
+    "name": "Cross-Lingual Haptic Gesture Codec",
+    "emoji": "🖐️",
+    "blurb": "Nanofilm gloves capture culturally specific gestures and translate them into equivalent tactile cues for a foreign recipient."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tactile Sign Language Relay Robot",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned robot reads spoken language and performs accurate haptic sign-language output on a recipient's hands."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Haptic-Coupled LCD Control Skin",
+    "emoji": "🖐️",
+    "blurb": "Graphene exoskin lets users physically feel UI elements displayed on liquid-crystal screens as textured pressure zones."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Quantum Pixel State Transfer Bus",
+    "emoji": "🖥️",
+    "blurb": "Graphene waveguides teleport individual LCD pixel states between display panels, eliminating lag in distributed screens."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_adf6285607",
+    "name": "Embodied Display Calibration Robot",
+    "emoji": "🤖",
+    "blurb": "Graphene-skinned robot physically adjusts LCD panel alignment and backlighting by sensing color and uniformity by touch."
+  }
+]

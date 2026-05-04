@@ -1,0 +1,352 @@
+[
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q11660",
+    "name": "Self-Assembling Neural Substrate",
+    "emoji": "🧬",
+    "blurb": "Nanoscale particles that wire themselves into functional neural architectures on demand."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q170519",
+    "name": "Tactile Immersion Nanofilm",
+    "emoji": "🖐️",
+    "blurb": "Skin-worn nanoparticle mesh that renders physical sensations inside virtual environments."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q32566",
+    "name": "Intravascular Tomography Swarm",
+    "emoji": "🔬",
+    "blurb": "Injectable nanobot clusters that perform sub-millimeter CT imaging from inside tissue."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q120877",
+    "name": "Phenotype Reconstruction Engine",
+    "emoji": "🧫",
+    "blurb": "AI that infers a full organism blueprint from fragmentary genetic or fossil evidence."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q17310682",
+    "name": "Directed Genome Compiler",
+    "emoji": "🧩",
+    "blurb": "AI designs CRISPR edit sequences to achieve complex multi-gene therapeutic targets."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q4439",
+    "name": "Predictive Magnetic Storage",
+    "emoji": "💾",
+    "blurb": "AI pre-fetches and re-arranges disk data based on predicted access patterns, eliminating latency."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q132744",
+    "name": "Asynchronous Document Relay",
+    "emoji": "📡",
+    "blurb": "IT infrastructure that routes high-fidelity document facsimiles across heterogeneous networks securely."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q192776",
+    "name": "Adaptive Infrastructure Neural Layer",
+    "emoji": "🌐",
+    "blurb": "Neural networks embedded in IT fabric that self-tune bandwidth, routing, and security in real time."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q584529",
+    "name": "Embodied IT Field Agent",
+    "emoji": "🤖",
+    "blurb": "Humanoid robots that physically deploy, repair, and reconfigure IT hardware in data centers."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q159408",
+    "name": "Suspended-State Tissue Bank",
+    "emoji": "❄️",
+    "blurb": "Cloned organ stock held in induced hibernation for on-demand transplant without immunosuppression."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q2264109",
+    "name": "Recursive Mind Instantiation",
+    "emoji": "🧠",
+    "blurb": "AGI that clones and diverges its own cognitive architecture to explore solution spaces in parallel."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q79798",
+    "name": "Cross-Species Syntax Bridge",
+    "emoji": "🐬",
+    "blurb": "Cloned neural tissue from multiple species used to train inter-species communication models."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q17310682",
+    "name": "Radiation-Resistant Crop Suite",
+    "emoji": "☢️",
+    "blurb": "CRISPR-edited organisms designed to thrive in elevated-radiation zones near nuclear facilities."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q4439",
+    "name": "Phonon-Cooled Spintronic Drive",
+    "emoji": "⚡",
+    "blurb": "Hard drives that use nuclear-decay heat differentials to power phonon-based cooling of storage media."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q159236",
+    "name": "Carbon-Fixing Organism Design",
+    "emoji": "🌿",
+    "blurb": "Engineered microbes that sequester atmospheric carbon at industrially meaningful rates."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q20514253",
+    "name": "Verified Green-Credit Ledger",
+    "emoji": "🌱",
+    "blurb": "Blockchain that audits and certifies carbon offsets and sustainability claims without third-party brokers."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q743263",
+    "name": "Behavioral Sustainability Conditioning",
+    "emoji": "📢",
+    "blurb": "Covert psychological techniques applied to shift population consumption habits toward ecological limits."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q176555",
+    "name": "Quantum-Secured Facsimile Channel",
+    "emoji": "🔐",
+    "blurb": "Fax-style document transmission over quantum-encrypted channels with provable interception immunity."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q469",
+    "name": "Stellar-Relay Signal Archive",
+    "emoji": "🌟",
+    "blurb": "Dyson sphere antenna array that stores and retransmits civilization-scale document repositories across light-years."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q169917",
+    "name": "Graphene-Lattice Transaction Fabric",
+    "emoji": "💎",
+    "blurb": "Cryptocurrency wallets and miners etched onto graphene sheets for room-temperature superconducting throughput."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q2539",
+    "name": "Adaptive Market Consensus Protocol",
+    "emoji": "📈",
+    "blurb": "Machine learning adjusts crypto consensus rules in real time to counter fraud and volatility."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q159236",
+    "name": "Orbital Bioreactor Tether",
+    "emoji": "🚀",
+    "blurb": "Space elevator doubles as a conduit for gene-edited microorganism cultivation in microgravity."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q20514253",
+    "name": "Decentralized Orbital Access Token",
+    "emoji": "🛗",
+    "blurb": "Blockchain coordinates and monetizes launch slots and cargo mass on a shared space elevator."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q743263",
+    "name": "Ascent Compliance Architecture",
+    "emoji": "🎭",
+    "blurb": "Psychological conditioning integrated into space elevator onboarding to ensure long-mission behavioral compliance."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q204043",
+    "name": "Genetic Payload Relay",
+    "emoji": "⚗️",
+    "blurb": "Teleportation of encoded genetic sequences rather than matter, reconstructing organisms at a destination."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q641442",
+    "name": "Plasma-Tolerant Organism Scaffold",
+    "emoji": "🔥",
+    "blurb": "Engineered organisms that harvest energy from fusion exhaust streams and repair radiation damage autonomously."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q192776",
+    "name": "Metabolic State Prediction Network",
+    "emoji": "🐻",
+    "blurb": "Neural networks model hibernation cycles to design safe long-duration human suspended animation."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q584529",
+    "name": "Caretaker Vigil Robot",
+    "emoji": "🏥",
+    "blurb": "Humanoid robots monitor and maintain hibernating patients during months-long deep-sleep protocols."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q192776",
+    "name": "Real-Time Lesion Detection Network",
+    "emoji": "🩻",
+    "blurb": "Neural networks parse MRI streams live in the scanner bore, flagging pathology before the scan ends."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q584529",
+    "name": "Intraoperative MRI Robot",
+    "emoji": "🦾",
+    "blurb": "Humanoid surgical robot that operates under continuous MRI guidance without ferromagnetic components."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q204043",
+    "name": "Graphene Quantum State Transfer",
+    "emoji": "⬡",
+    "blurb": "Graphene waveguides that teleport individual electron spin states across macroscopic distances intact."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q641442",
+    "name": "Neutron-Flux Graphene Moderator",
+    "emoji": "🔆",
+    "blurb": "Graphene-composite reactor liners that moderate neutron flux and harvest heat with near-zero degradation."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q20514253",
+    "name": "Verifiable Virtual Asset Registry",
+    "emoji": "🕶️",
+    "blurb": "Blockchain certifies ownership and provenance of virtual reality assets and in-world real estate."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q743263",
+    "name": "Immersive Belief Recalibration",
+    "emoji": "🌀",
+    "blurb": "VR environments engineered to systematically reshape user worldviews through extended perceptual immersion."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q2539",
+    "name": "Embodied Reinforcement Learning Platform",
+    "emoji": "🦿",
+    "blurb": "Robots that refine motor skills and task strategies through continuous on-body trial-and-error learning."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q176555",
+    "name": "Quantum-Optimized Edit Targeting",
+    "emoji": "🎯",
+    "blurb": "Quantum algorithms solve off-target CRISPR binding predictions exponentially faster than classical methods."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q469",
+    "name": "Stellar-Scale Biofoundry",
+    "emoji": "🌠",
+    "blurb": "Dyson sphere energy budget powers automated gene-editing factories producing organisms for terraforming at scale."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q20514253",
+    "name": "Post-Classical Consensus Ledger",
+    "emoji": "🔗",
+    "blurb": "Blockchain whose consensus and cryptography run natively on quantum hardware, defeating all classical attacks."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q743263",
+    "name": "Quantum Subliminal Inference Engine",
+    "emoji": "🧿",
+    "blurb": "Quantum processors identify subconscious cognitive patterns to craft maximally persuasive messaging at individual scale."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q4439",
+    "name": "Computation-Aware Storage Hierarchy",
+    "emoji": "🗄️",
+    "blurb": "Storage systems that shift compute workloads to where data already lives, eliminating data movement overhead."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q2264109",
+    "name": "Recursive Architecture Search",
+    "emoji": "♾️",
+    "blurb": "Neural networks that iteratively redesign their own topology toward artificial general intelligence benchmarks."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q79798",
+    "name": "Zero-Shot Dialect Transposition",
+    "emoji": "🗣️",
+    "blurb": "Neural networks translate between language pairs with no prior training examples by structural analogy."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q584529",
+    "name": "Discontinuous Presence Robot",
+    "emoji": "👁️",
+    "blurb": "Humanoid robot whose sensorimotor state is teleported rather than transmitted, achieving zero-latency remote embodiment."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q4439",
+    "name": "Planetary Atmosphere Data Vault",
+    "emoji": "🪐",
+    "blurb": "Hard drives embedded in terraformed crust archive long-term atmospheric and ecological transformation records."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q32566",
+    "name": "Immutable Imaging Provenance Chain",
+    "emoji": "📋",
+    "blurb": "Blockchain timestamps and chains CT scan data to prevent retroactive tampering in legal or clinical contexts."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q2539",
+    "name": "Bootstrapped General Learner",
+    "emoji": "🌌",
+    "blurb": "Machine learning system that uses its own outputs as curriculum to drive itself toward general intelligence."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "Q2539",
+    "name": "Singularity Onset Classifier",
+    "emoji": "📡",
+    "blurb": "Machine learning monitors AI capability metrics to predict and timestamp the technological singularity threshold."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q32566",
+    "name": "Sparse-View Reconstruction Network",
+    "emoji": "🩺",
+    "blurb": "Machine learning reconstructs diagnostic-quality CT volumes from a fraction of the normal radiation dose."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "Q4439",
+    "name": "Embedded Volumetric Cache Drive",
+    "emoji": "🗜️",
+    "blurb": "Hard drives co-packaged with CT reconstruction ASICs to render 3D volumes without host CPU involvement."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "Q584529",
+    "name": "Adversarial Embodiment Red Team",
+    "emoji": "🛡️",
+    "blurb": "Humanoid robots that physically probe building and network security by simulating human intruder behavior."
+  }
+]

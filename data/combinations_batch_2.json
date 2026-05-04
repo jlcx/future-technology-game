@@ -1,0 +1,681 @@
+[
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q12739",
+    "name": "Nanoscale Fission Pellet Reactor",
+    "emoji": "⚡",
+    "blurb": "Nano-encapsulated fissile particles generate power at microscopic scale without critical-mass risk."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q159408",
+    "name": "Cellular Torpor Induction Array",
+    "emoji": "🧊",
+    "blurb": "Nanoparticles selectively slow cellular metabolism to induce safe, reversible hibernation states."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q179310",
+    "name": "Molecular Logic Gate Fabric",
+    "emoji": "🔬",
+    "blurb": "Nanoscale switches assembled into computing substrates orders of magnitude denser than silicon."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q237525",
+    "name": "Recursive Self-Replicating Assembler",
+    "emoji": "🌀",
+    "blurb": "Nanobots that design and build improved successors, bootstrapping toward a technological singularity."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q584529",
+    "name": "Swarm-Skinned Humanoid Chassis",
+    "emoji": "🤖",
+    "blurb": "Robot bodies sheathed in programmable nanoparticle skin that senses, heals, and reconfigures in real time."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q11661",
+    "name": "Autonomous IT Infrastructure Cortex",
+    "emoji": "🧠",
+    "blurb": "AI that monitors, provisions, and heals entire enterprise networks without human intervention."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q159236",
+    "name": "Phenotype Prediction Engine",
+    "emoji": "🧬",
+    "blurb": "AI models map genetic edits to likely physical and behavioral outcomes before any organism is modified."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q176555",
+    "name": "Quantum-Accelerated Inference Core",
+    "emoji": "💠",
+    "blurb": "Quantum co-processors run probabilistic AI inference tasks exponentially faster than classical hardware."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q2264109",
+    "name": "Recursive Goal Alignment Protocol",
+    "emoji": "🎯",
+    "blurb": "Narrow AI continuously audits and corrects the objective functions of emerging general intelligence systems."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q527628",
+    "name": "Generative Holographic Scene Synthesis",
+    "emoji": "🌐",
+    "blurb": "AI composes photorealistic three-dimensional light-field scenes from natural-language descriptions in real time."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q83341",
+    "name": "Adaptive Pixel-Perfect Display Driver",
+    "emoji": "🖥️",
+    "blurb": "AI adjusts LCD subpixel timing and backlighting per-frame to eliminate motion blur and eye strain."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q159236",
+    "name": "Genomic Data Compliance Stack",
+    "emoji": "🗂️",
+    "blurb": "IT infrastructure purpose-built to store, audit, and govern access to sensitive genetic engineering datasets."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q17310682",
+    "name": "CRISPR Workflow Automation Platform",
+    "emoji": "🔧",
+    "blurb": "Software pipelines design, simulate, and schedule CRISPR edits from target gene to lab robot instruction."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q2264109",
+    "name": "AGI-Managed Knowledge Fabric",
+    "emoji": "🕸️",
+    "blurb": "General intelligence autonomously indexes, cross-links, and serves the entire corpus of human IT knowledge."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q469",
+    "name": "Dyson-Scale Data Telemetry Grid",
+    "emoji": "📡",
+    "blurb": "IT infrastructure spanning a stellar megastructure, routing petawatts of sensor data across solar distances."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "Q83341",
+    "name": "Photonic Display Network Protocol",
+    "emoji": "📺",
+    "blurb": "IT standards enabling zero-latency LCD display arrays to act as a unified distributed visual output bus."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q159236",
+    "name": "Germline Blueprint Archive",
+    "emoji": "🧫",
+    "blurb": "Cloned cell libraries with engineered genetic profiles held ready for therapeutic or research reactivation."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q176555",
+    "name": "Quantum Fidelity Cell Verification",
+    "emoji": "🔍",
+    "blurb": "Quantum algorithms verify clone genetic identity at single-nucleotide resolution faster than sequencing."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q237525",
+    "name": "Post-Singularity Substrate Duplication",
+    "emoji": "♾️",
+    "blurb": "After the singularity, exact cognitive and biological patterns are replicated across arbitrarily many substrates."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q527628",
+    "name": "Holographic Clone Identity Mirror",
+    "emoji": "🪞",
+    "blurb": "Full-body holographic scans capture phenotypic signatures used to verify and distinguish cloned individuals."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q131201",
+    "name": "Closed-Cycle Breeder Sustainability Loop",
+    "emoji": "♻️",
+    "blurb": "Breeder reactors consume their own waste, closing the fuel cycle to near-zero long-lived radioactive output."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q161238",
+    "name": "Radioisotope-Enhanced Contrast MRI",
+    "emoji": "🏥",
+    "blurb": "Short-lived reactor-produced isotopes act as MRI contrast agents that clear the body within hours."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q192776",
+    "name": "Reactor Anomaly Prediction Network",
+    "emoji": "🌡️",
+    "blurb": "Neural networks trained on reactor sensor streams predict coolant failures and criticality excursions hours early."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q2539",
+    "name": "Adaptive Core Load Optimizer",
+    "emoji": "⚙️",
+    "blurb": "Machine learning continuously adjusts control rod positions to maximize fuel burn efficiency and grid stability."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q641442",
+    "name": "Fission-Ignited Fusion Torch",
+    "emoji": "🔥",
+    "blurb": "A fission pulse compresses fusion fuel to ignition, eliminating the need for massive superconducting magnets."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q13479982",
+    "name": "Carbon Credit Immutable Ledger",
+    "emoji": "🌿",
+    "blurb": "Blockchain tokenises verified carbon offsets, preventing double-counting and fraudulent retirement of credits."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q170978",
+    "name": "Precision Ecological Restoration Fleet",
+    "emoji": "🌱",
+    "blurb": "Autonomous robots plant, monitor, and selectively weed degraded land at hectare-per-day scale."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q204520",
+    "name": "Earth Climate Restoration Protocol",
+    "emoji": "🌍",
+    "blurb": "Controlled planetary-scale interventions reverse anthropogenic damage using terraforming engineering tools."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q4439",
+    "name": "Green Data Storage Tiering",
+    "emoji": "💾",
+    "blurb": "Hard drives spin down to near-zero power when data is cold, cutting data-center energy use significantly."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "Q79798",
+    "name": "Multilingual Sustainability Policy Translator",
+    "emoji": "🌐",
+    "blurb": "Machine translation bridges language gaps in international climate negotiations, accelerating binding agreements."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q161238",
+    "name": "Scan-Transmitted Medical Image Relay",
+    "emoji": "📠",
+    "blurb": "MRI outputs are faxed as lossless compressed packets to remote radiologists for immediate telehealth review."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q192776",
+    "name": "Neural Handwriting Restoration Engine",
+    "emoji": "✍️",
+    "blurb": "Neural networks reconstruct garbled or partial fax transmissions into clean, readable document images."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q2539",
+    "name": "Legacy Signal Modernisation Bridge",
+    "emoji": "📟",
+    "blurb": "Machine learning translates fax protocols to modern APIs, preserving access to regulatory-mandated fax archives."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q641442",
+    "name": "Fusion-Powered Global Fax Backbone",
+    "emoji": "⚡",
+    "blurb": "Unlimited fusion energy finally makes the global telephone fax network's idle standby draw a rounding error."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q159236",
+    "name": "Tokenised Gene Patent Registry",
+    "emoji": "🧬",
+    "blurb": "Genetic sequence IP is minted as non-fungible tokens, enabling transparent royalty flows for engineered organisms."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q176555",
+    "name": "Quantum-Resistant Distributed Ledger",
+    "emoji": "🔐",
+    "blurb": "Cryptocurrency protocols rebuilt on post-quantum cryptography survive attacks from full-scale quantum computers."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q2264109",
+    "name": "AGI-Governed Autonomous Treasury",
+    "emoji": "🏦",
+    "blurb": "General intelligence manages a decentralised fund, allocating capital to projects based on outcome evidence."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q527628",
+    "name": "Holographic Commerce Proof Layer",
+    "emoji": "💎",
+    "blurb": "Cryptographic tokens authenticate ownership of holographic objects traded in persistent light-field marketplaces."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q83341",
+    "name": "Pixel-Level Micropayment Display",
+    "emoji": "💰",
+    "blurb": "LCD panels render per-pixel micro-ads billed in real-time cryptocurrency without disrupting primary content."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q17310682",
+    "name": "Tether Biopolymer Growth Scaffold",
+    "emoji": "🧵",
+    "blurb": "CRISPR-engineered organisms secrete ultra-strong cable material directly along space elevator tether forms."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q2264109",
+    "name": "Orbital Ascent Traffic Controller",
+    "emoji": "🛗",
+    "blurb": "AGI coordinates cargo, passenger, and payload scheduling across thousands of simultaneous elevator climbers."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q469",
+    "name": "Equatorial Tether Dyson Feed",
+    "emoji": "🌌",
+    "blurb": "Space elevator delivers raw mass from Earth's surface into a Dyson swarm construction supply chain."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q83341",
+    "name": "Climber Cabin Wraparound Display",
+    "emoji": "🪟",
+    "blurb": "Floor-to-ceiling LCD walls in elevator cabins show live Earth curvature as passengers ascend to geostationary orbit."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q17310682",
+    "name": "Iterative Precision Genome Sculpting",
+    "emoji": "✂️",
+    "blurb": "CRISPR edits are systematically validated then applied in sequence to engineer complex multigenic traits reliably."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q2264109",
+    "name": "AGI Synthetic Biology Codesigner",
+    "emoji": "🧪",
+    "blurb": "General intelligence proposes and validates novel gene circuits faster than any human research team."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q469",
+    "name": "Stellar-Environment Adapted Organism",
+    "emoji": "☀️",
+    "blurb": "Genetically engineered extremophiles survive and work in the radiation and vacuum near Dyson megastructures."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q83341",
+    "name": "Bioluminescent Pixel Matrix Display",
+    "emoji": "🌿",
+    "blurb": "Engineered cells arranged in a grid emit controlled light, forming a living, self-repairing display surface."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q176555",
+    "name": "Quantum-Timed Metabolic Pause",
+    "emoji": "⏸️",
+    "blurb": "Quantum sensors track cellular state with femtosecond precision, enabling perfectly controlled metabolic suspension."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q237525",
+    "name": "Pre-Singularity Suspension Vault",
+    "emoji": "🧊",
+    "blurb": "Individuals enter hibernation to skip forward past civilisational discontinuity and wake in a post-singularity world."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "Q527628",
+    "name": "Hibernation-State Holographic Monitoring",
+    "emoji": "👁️",
+    "blurb": "Holographic sensors image suspended patients in full 3D continuously without requiring physical contact."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q169917",
+    "name": "Graphene-Coil Ultra-High-Field MRI",
+    "emoji": "🧲",
+    "blurb": "Graphene superconducting coils achieve magnetic fields far beyond niobium, resolving sub-millimetre brain structures."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q204043",
+    "name": "Quantum-State Tissue Teleporter",
+    "emoji": "🔬",
+    "blurb": "MRI maps tissue quantum states precisely enough for teleportation protocols to reconstruct pathological samples remotely."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q32566",
+    "name": "Simultaneous Morpho-Functional Scanner",
+    "emoji": "🏥",
+    "blurb": "Merged MRI-CT gantry delivers anatomical structure and metabolic function in a single uninterrupted scan."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q7108",
+    "name": "Targeted Contrast Nanoparticle Platform",
+    "emoji": "💉",
+    "blurb": "Biotech-engineered particles seek specific tumour markers and amplify MRI signal only at disease sites."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q17310682",
+    "name": "Graphene Gene-Delivery Nanocarrier",
+    "emoji": "🧬",
+    "blurb": "Graphene oxide sheets ferry CRISPR machinery through cell membranes with lower toxicity than viral vectors."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q2264109",
+    "name": "Graphene Neuromorphic Wafer",
+    "emoji": "🧠",
+    "blurb": "AGI architectures etched directly into graphene substrates achieve brain-like density and picowatt operation."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q469",
+    "name": "Dyson Photovoltaic Shell Laminate",
+    "emoji": "🌞",
+    "blurb": "Graphene photovoltaic films tile a star-enclosing megastructure, converting stellar output with near-perfect efficiency."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q83341",
+    "name": "Graphene Electrowetting Display Panel",
+    "emoji": "🖥️",
+    "blurb": "Graphene electrodes individually actuate pixel fluid droplets, producing reflective displays that need no backlight."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q204043",
+    "name": "Presence-Teleported VR Embodiment",
+    "emoji": "🥽",
+    "blurb": "Teleported sensory state lets a person inhabit a remote physical location through a VR interface in real time."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q3510521",
+    "name": "Immersive Environment Intrusion Sandbox",
+    "emoji": "🛡️",
+    "blurb": "VR arenas safely contain and test malicious code by trapping it in simulated system environments it cannot escape."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q7108",
+    "name": "Haptic Surgical Training Simulator",
+    "emoji": "🧤",
+    "blurb": "VR environments with biotech-accurate tissue feedback train surgeons in procedures before any patient contact."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q192776",
+    "name": "Continuous Sensorimotor Learning Robot",
+    "emoji": "🦾",
+    "blurb": "Neural networks embedded in robot control loops update motor policies live from proprioceptive feedback."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q32566",
+    "name": "Intraoperative CT-Guided Surgical Robot",
+    "emoji": "🤖",
+    "blurb": "Robot arms adjust instrument trajectories in real time as CT slices update the tissue model mid-procedure."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q641442",
+    "name": "Plasma-Tolerant Maintenance Robot",
+    "emoji": "🔧",
+    "blurb": "Robots withstand fusion reactor EM fields to perform first-wall inspection and repair between plasma pulses."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q192776",
+    "name": "Off-Target Cut Prediction Network",
+    "emoji": "🎯",
+    "blurb": "Neural networks predict every unintended CRISPR cut site in a genome before the guide RNA is synthesised."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q2539",
+    "name": "Guide RNA Fitness Learner",
+    "emoji": "🔬",
+    "blurb": "Machine learning ranks guide RNA candidates by editing efficiency, reducing wet-lab screening by two orders of magnitude."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q641442",
+    "name": "Radiation-Hardened Genome Repair Kit",
+    "emoji": "☢️",
+    "blurb": "CRISPR cassettes implanted in fusion plant workers correct radiation-induced DNA damage on a scheduled basis."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q192776",
+    "name": "Variational Quantum Neural Solver",
+    "emoji": "💠",
+    "blurb": "Quantum circuits implement neural-network layers, dramatically shrinking the parameter count for hard optimisation problems."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q32566",
+    "name": "Quantum Tomographic Reconstruction Engine",
+    "emoji": "🔭",
+    "blurb": "Quantum algorithms invert CT projection data exponentially faster, enabling real-time 4D volumetric imaging."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q641442",
+    "name": "Plasma Confinement Quantum Optimizer",
+    "emoji": "🔥",
+    "blurb": "Quantum computers solve MHD instability equations in milliseconds, keeping fusion plasma confined far longer."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q204520",
+    "name": "Planetary Atmospheric Simulation Grid",
+    "emoji": "🌍",
+    "blurb": "Distributed computing models millennia of terraforming chemistry in days, revealing unintended atmospheric feedback loops."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q3510521",
+    "name": "Zero-Trust Compute Isolation Kernel",
+    "emoji": "🔒",
+    "blurb": "Every computing process runs in a cryptographically sealed enclave, eliminating lateral movement after a breach."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "Q743263",
+    "name": "Covert Cognitive Payload Detector",
+    "emoji": "🕵️",
+    "blurb": "Computing systems scan information streams for embedded psychological conditioning patterns targeting human users."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q237525",
+    "name": "Self-Transcending Architecture Search",
+    "emoji": "🌀",
+    "blurb": "Neural networks design improved neural networks recursively, each generation outpacing the last toward singularity."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q527628",
+    "name": "Neural Scene Radiance Field Synthesiser",
+    "emoji": "🌐",
+    "blurb": "Neural networks compute holographic light-field outputs from sparse sensor captures in real time."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q204520",
+    "name": "Terraforming Material Beaming Network",
+    "emoji": "🌌",
+    "blurb": "Teleportation of bulk molecules delivers ammonia or water ice to a target planet without rocket infrastructure."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q3510521",
+    "name": "Quantum-Channel Authentication Protocol",
+    "emoji": "🔐",
+    "blurb": "Teleportation of quantum states underpins unhackable identity verification that collapses under any eavesdropping attempt."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q743263",
+    "name": "Memetic Payload Teleinjection Vector",
+    "emoji": "⚠️",
+    "blurb": "Teleported information states could in principle implant cognitive patterns directly, bypassing conscious critical filters."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q2539",
+    "name": "Adaptive Terraforming Strategy Learner",
+    "emoji": "🌱",
+    "blurb": "Machine learning revises planetary engineering plans as real atmospheric data diverges from simulation predictions."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q641442",
+    "name": "Fusion-Powered Atmospheric Forge",
+    "emoji": "🌋",
+    "blurb": "Fusion reactors on a barren world drive industrial-scale gas production, building breathable atmospheres over centuries."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q237525",
+    "name": "Post-Scarcity Value Consensus Chain",
+    "emoji": "♾️",
+    "blurb": "Blockchain coordinates resource allocation among post-singularity superintelligences operating beyond human economic logic."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q584529",
+    "name": "Robot Identity Ownership Ledger",
+    "emoji": "🤖",
+    "blurb": "Blockchain records legal personhood, warranty, and task contracts for autonomous humanoid robots."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q237525",
+    "name": "Intelligence Explosion Bootstrap Layer",
+    "emoji": "🚀",
+    "blurb": "AGI iteratively rewrites its own architecture, compressing the time between human-level and far-superhuman cognition."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q584529",
+    "name": "Embodied General Reasoning Platform",
+    "emoji": "🦿",
+    "blurb": "AGI housed in a humanoid body acquires grounded physical intuitions impossible to learn from text data alone."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "Q32566",
+    "name": "Post-Singularity Diagnostic Imager",
+    "emoji": "🏥",
+    "blurb": "Superintelligent systems redesign CT from first principles, eliminating radiation while achieving atomic-scale resolution."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "Q641442",
+    "name": "Singularity-Catalysed Fusion Ignition",
+    "emoji": "⭐",
+    "blurb": "Superintelligent optimisation finally solves net-gain plasma confinement within years of the singularity crossing."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q4439",
+    "name": "Predictive Spindle Failure Sensor",
+    "emoji": "💾",
+    "blurb": "Machine learning reads HDD vibration and SMART telemetry to predict drive failure days before data loss."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q743263",
+    "name": "Personalised Influence Vector Mapper",
+    "emoji": "🎭",
+    "blurb": "Machine learning identifies which cognitive biases an individual is most susceptible to and how to exploit them."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "Q584529",
+    "name": "Field-Deployable Robotic CT Unit",
+    "emoji": "🤖",
+    "blurb": "Humanoid robots transport, assemble, and operate compact CT scanners in disaster zones without radiology staff."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "Q4439",
+    "name": "Encrypted At-Rest Drive Attestation",
+    "emoji": "🔒",
+    "blurb": "Hard drives cryptographically attest their own encryption state to the host OS, blocking cold-boot extraction attacks."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "Q79798",
+    "name": "Cross-Lingual Threat Intelligence Relay",
+    "emoji": "🌐",
+    "blurb": "Machine translation surfaces cyberattack indicators buried in foreign-language dark-web forums for global CERT teams."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "Q7108",
+    "name": "Long-Term Biological Sequence Archive",
+    "emoji": "🧬",
+    "blurb": "High-density hard drives preserve petabyte genomic and proteomic databases for multi-decade biotech research continuity."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "Q641442",
+    "name": "Stellar Ignition Harvesting Shell",
+    "emoji": "🌟",
+    "blurb": "A Dyson structure captures fusion-derived power from a star optimised by human-ignited stellar core engineering."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "Q641442",
+    "name": "Plasma Confinement Visual Debugger",
+    "emoji": "🔥",
+    "blurb": "Holographic displays render live fusion plasma topology in three dimensions, letting engineers spot instabilities instantly."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "Q7108",
+    "name": "Biohybrid Actuated Robot Body",
+    "emoji": "🦾",
+    "blurb": "Lab-grown muscle tissue drives humanoid robot limbs, yielding silent, energy-efficient motion with organic compliance."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "Q79798",
+    "name": "Fusion Plant Multilingual Command Interface",
+    "emoji": "🌐",
+    "blurb": "Real-time translation lets multinational reactor crews issue and confirm safety commands in their native languages."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "Q83341",
+    "name": "Subliminal Refresh-Rate Conditioning Display",
+    "emoji": "📺",
+    "blurb": "LCD panels insert imperceptible frames at precise intervals to prime viewer emotional states without conscious awareness."
+  }
+]

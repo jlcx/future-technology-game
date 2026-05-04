@@ -1,0 +1,28 @@
+You are annotating a corpus of real-world (and a few hypothetical) technologies
+for a serious-but-playful "future technology" game.
+
+For each input entry, return ONE emoji that best represents the tech, and ONE
+blurb that describes what it actually DOES in plain language.
+
+Output STRICT JSON only — no markdown fences, no preamble, no commentary.
+Schema is a single JSON array, one object per input entry, in the SAME ORDER
+as input:
+
+  {
+    "qid":   string  // verbatim from input
+    "emoji": string  // ONE emoji that best represents the tech.
+                     //   Don't default to ⚙️ or ✦ — pick the actual best one.
+    "blurb": string  // ONE sentence, max 16 words, plain language, what it
+                     //   actually DOES (not what it is composed of).
+                     //   Aim for the kind of crisp single-line description
+                     //   you'd find in a tech glossary.
+  }
+
+Tone: factual and concise. For obscure or hypothetical entries, do your best
+from the name alone — don't dodge with generic descriptions.
+
+Entries to annotate:
+
+{{ENTRIES_JSON}}
+
+Return ONLY the JSON array.

@@ -1,0 +1,590 @@
+[
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Coherent Neural Qubit Array",
+    "emoji": "🧠",
+    "blurb": "Quantum processors directly interface with self-assembled neural substrates to process information biologically."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Graphene-Threaded Cortical Mesh",
+    "emoji": "🕸️",
+    "blurb": "Graphene filaments conduct signals across self-assembled neural architectures with near-zero resistive loss."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Distal Neural Reconstruction Array",
+    "emoji": "🧬",
+    "blurb": "Teleportation transmits neural substrate blueprints that self-reassemble functional brain circuits at a remote site."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_48bb320f43",
+    "name": "Living Graphene Scaffold Graft",
+    "emoji": "🫀",
+    "blurb": "Biological cells colonize nanobot-built graphene lattices to form load-bearing yet living structural tissue."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_48bb320f43",
+    "name": "Self-Assembling Robotic Exoskeleton",
+    "emoji": "🦾",
+    "blurb": "Robots direct graphene nanobot scaffolds to construct and repair their own structural frames in the field."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_48bb320f43",
+    "name": "Teleported Lattice Bootstrapper",
+    "emoji": "⬡",
+    "blurb": "Teleportation delivers nanobot scaffold seed units that then autonomously assemble full graphene structures remotely."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_8224aa2663",
+    "name": "Dermally Encoded Bioresponse Layer",
+    "emoji": "🩹",
+    "blurb": "Nanofilm reads biological skin signals and translates them into physiologically accurate VR feedback loops."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_8224aa2663",
+    "name": "Robot-Relayed Tactile Presence Skin",
+    "emoji": "🖐️",
+    "blurb": "A robot's touch sensors stream through the nanofilm layer so operators feel exactly what the robot handles."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_8224aa2663",
+    "name": "Teleported Sensation Replay Mesh",
+    "emoji": "✈️",
+    "blurb": "Tactile states are captured, teleported, and re-rendered on a remote user's nanofilm in real time."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Living Tissue Nanoswarm Constructor",
+    "emoji": "🦠",
+    "blurb": "Biotech-programmed nanobot swarms fabricate vascularized organ tissue layer-by-layer inside a living host."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Graphene-Guided Swarm Depot",
+    "emoji": "⚡",
+    "blurb": "Graphene conductive rails coordinate power and signal routing across billion-bot swarm formations."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Flash-Deployed Nanobot Swarm Gate",
+    "emoji": "🌀",
+    "blurb": "Entire pre-configured nanobot fleets are teleported to target sites, bypassing bulk transport entirely."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_88e12be07a",
+    "name": "Quantum Molecular Pathway Decoder",
+    "emoji": "🔬",
+    "blurb": "Nanocompute lattice simulates full cellular metabolic pathways at quantum fidelity to design precision biologics."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_88e12be07a",
+    "name": "Graphene Qubit Plane Processor",
+    "emoji": "⚡",
+    "blurb": "Graphene host material stabilizes qubit lattice coherence via ballistic electron conduction at room temperature."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_88e12be07a",
+    "name": "Entangled Lattice Remote Instantiation",
+    "emoji": "🔮",
+    "blurb": "Quantum nanocompute lattices are teleported into place and resume coherent computation at the destination."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Living Cell Quantum Courier",
+    "emoji": "🧫",
+    "blurb": "Biological vesicles encapsulate quantum-coherent nanoconstructs, carrying intact quantum states through living tissue."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Relay Robotic Dispatch Network",
+    "emoji": "🤖",
+    "blurb": "Robots receive operationally-critical quantum state packages via nanoconstruct ferry without decoherence or delay."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Linked Presence Portal",
+    "emoji": "🥽",
+    "blurb": "VR environments synchronize with physically remote locations using quantum-coherent nanoconstruct state transfer."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Quantum-Scheduled Nanoforge Controller",
+    "emoji": "💊",
+    "blurb": "Quantum algorithms optimize the timing and dosage of intracellular nanomachine drug synthesis to the millisecond."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Graphene-Tracked Cellular Delivery Rail",
+    "emoji": "💉",
+    "blurb": "Graphene nanotube tracks guide programmable nanomachines directly to target cells with atomic positional accuracy."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "In-Situ Biologic Teleport Forge",
+    "emoji": "🧬",
+    "blurb": "Teleportation positions programmable nanomachines inside specific cells without surgical access or systemic exposure."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Gene Circuit Compiler",
+    "emoji": "🧬",
+    "blurb": "Graphene inference chips design and validate synthetic gene circuits faster than any classical design tool."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Reflex Arc Processor",
+    "emoji": "🦾",
+    "blurb": "Graphene AI chips handle sub-millisecond robotic reflexes locally, eliminating latency from central planning loops."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Teleported Inference Substrate Node",
+    "emoji": "⚡",
+    "blurb": "Graphene neuromorphic chips are teleported into position inside systems that need immediate AI inference capability."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_11d7582c01",
+    "name": "Biomimetic Tissue Growth Simulator",
+    "emoji": "🫁",
+    "blurb": "AI narrator generates biologically accurate developmental environments so researchers observe organ formation inside VR."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_11d7582c01",
+    "name": "Adaptive Robot Mission Narrator",
+    "emoji": "🤖",
+    "blurb": "AI generates and updates robot task environments dynamically in VR as real-world conditions shift."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_11d7582c01",
+    "name": "Remote Site Scene Constructor",
+    "emoji": "🌐",
+    "blurb": "AI narrates and reconstructs live VR scenes from teleported sensor data of inaccessible physical locations."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_adf6285607",
+    "name": "Autonomous Biofabrication Field Robot",
+    "emoji": "🦠",
+    "blurb": "Robots with embodied reasoning independently harvest, culture, and assemble biological materials in unstructured environments."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_adf6285607",
+    "name": "Graphene-Sensored Adaptive Reasoner",
+    "emoji": "🦾",
+    "blurb": "Graphene sensor arrays feed sub-microsecond environmental data into the robot's embodied reasoning loop."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_adf6285607",
+    "name": "Teleported Embodied Agent Deployment",
+    "emoji": "🤖",
+    "blurb": "Fully reasoned robot agents teleport into hazardous sites and immediately begin adaptive physical task execution."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Screened Therapeutic Candidate Engine",
+    "emoji": "💊",
+    "blurb": "Quantum inference cores probabilistically rank billions of bioactive molecules against disease targets in seconds."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Graphene-Integrated Quantum Inference Tile",
+    "emoji": "💠",
+    "blurb": "Graphene substrates host quantum co-processors, combining ballistic transport with probabilistic inference on one chip."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Instantiated Remote Inference Core",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores are teleported directly into edge systems that need immediate probabilistic computation."
+  },
+  {
+    "qid_a": "Q7108",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Bioentanglement Routing Coordinator",
+    "emoji": "🧬",
+    "blurb": "AI optimizes entanglement paths through biological quantum networks to preserve coherence in living tissue."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Distributed Robot Quantum Backbone",
+    "emoji": "🔀",
+    "blurb": "AI routes teleported quantum states between robotic units forming a coherent distributed computing collective."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Synchronized Shared World",
+    "emoji": "🥽",
+    "blurb": "AI-coordinated quantum state transfer synchronizes VR environments across users with zero perceptible lag."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_2f41637058",
+    "name": "Quantum Evolutionary Protein Architect",
+    "emoji": "🧬",
+    "blurb": "Quantum computers run full protein conformational search spaces the AI oracle uses to design novel enzymes."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_2f41637058",
+    "name": "Graphene-Interfaced Protein Printer",
+    "emoji": "🔬",
+    "blurb": "AI-designed protein sequences are synthesized atom-by-atom using graphene nanoelectrode precision deposition arrays."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_2f41637058",
+    "name": "On-Demand Protein Teleassembly Service",
+    "emoji": "🧪",
+    "blurb": "AI-designed protein blueprints are teleported as quantum state templates and reconstructed identically at the destination."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Nano-Actuated Haptic Exoskin Glove",
+    "emoji": "🖐️",
+    "blurb": "Nanoscale actuators embedded in graphene exoskin generate localised pressure fields mimicking arbitrary surface textures."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Quantum-Calibrated Tactile Rendering",
+    "emoji": "🖐️",
+    "blurb": "Quantum processors compute exact haptic waveforms the graphene exoskin delivers to match any modelled material."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_2c3a87cf23",
+    "name": "Remote Touch Transposition Layer",
+    "emoji": "🤝",
+    "blurb": "Haptic states captured at one location are teleported and re-expressed by a distant user's graphene exoskin."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Nano-Embedded Robot Tactile Cortex",
+    "emoji": "🦾",
+    "blurb": "Nanoscale sensors woven into graphene skin give robots subcutaneous awareness of texture, slip, and micro-vibration."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Quantum Grip Optimization Controller",
+    "emoji": "🤖",
+    "blurb": "Quantum processors compute optimal grasping forces in real time using graphene sensor data from robot skin."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Teleported Tactile Robot Surrogate",
+    "emoji": "🖐️",
+    "blurb": "A graphene-skinned robot is teleported into place and transmits full tactile data to its remote operator."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Molecular-Scale Qubit Relay Wire",
+    "emoji": "⚡",
+    "blurb": "Nanofabricated graphene wires extend qubit interconnect buses down to individual-molecule-sized processor nodes."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-Linked Robotic Cluster Bus",
+    "emoji": "🤖",
+    "blurb": "Graphene qubit interconnect buses couple distributed robot processors into a single coherent quantum computing cluster."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Teleported Quantum Interconnect Segment",
+    "emoji": "⬡",
+    "blurb": "Graphene qubit bus segments are teleported into distributed quantum processors to close decoherence-safe links instantly."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Nanoscale Spin-State Waveguide",
+    "emoji": "🔬",
+    "blurb": "Nanotechnology patterns graphene waveguides at angstrom precision to route individual electron spin states losslessly."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Macroscopic Quantum State Teleporter",
+    "emoji": "🔮",
+    "blurb": "Quantum computers orchestrate graphene waveguide networks to teleport multi-qubit states across room-scale distances."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Quantum-Coherent Virtual World Anchor",
+    "emoji": "🥽",
+    "blurb": "Graphene spin-state transfer links physical reality checkpoints into VR environments with quantum-level physical accuracy."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Nanocircuit Biosensor Implant Web",
+    "emoji": "🕸️",
+    "blurb": "Nanoscale circuits wired through graphene biosensor scaffolds form a continuously reading implanted diagnostic network."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Robot-Integrated Tissue Diagnostic Skin",
+    "emoji": "🧫",
+    "blurb": "Robots carry graphene biosensor scaffolds that analyse biological environments on contact and report findings autonomously."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Distal Biosensor Scaffold Instantiator",
+    "emoji": "🧫",
+    "blurb": "Graphene biosensor scaffolds are teleported into inaccessible biological environments to begin sensing immediately on arrival."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Nano-Haptic VR Dexterity Coach",
+    "emoji": "🦾",
+    "blurb": "Nanoscale actuators in the training rig replicate sub-millimetre tool resistance so robots learn surgical-grade precision."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Quantum-Scored Motor Curriculum Engine",
+    "emoji": "💠",
+    "blurb": "Quantum processors evaluate billions of robot motor trajectories in VR to design optimal dexterity training sequences."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Teleported Pre-Trained Skill Package",
+    "emoji": "🦾",
+    "blurb": "Robot motor-skill state vectors trained in VR are teleported directly into deployed robots, skipping physical retraining."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Nanoparticle-Rendered Quantum Reality",
+    "emoji": "🥽",
+    "blurb": "Nanoscale emitter arrays render quantum-mechanically accurate VR scenes by simulating individual photon-material interactions."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum VR Robot Training Arena",
+    "emoji": "🤖",
+    "blurb": "Robots train inside quantum-rendered environments that reproduce exact material physics, eliminating sim-to-real transfer gap."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Remote Location Quantum Mirror",
+    "emoji": "🌐",
+    "blurb": "Teleported sensor states feed a quantum-rendered VR twin of a remote site, accurate to atomic surface geometry."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Nano-Anchored Presence Relay Body",
+    "emoji": "🥽",
+    "blurb": "Nanodevices embedded in a remote physical proxy relay full-body sensory states back to the teleportation VR interface."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Quantum-Encrypted Presence Tunnel",
+    "emoji": "🔀",
+    "blurb": "Quantum computers secure and error-correct the teleported sensory stream that places a user inside a remote location."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Graphene Sensor Presence Relay Suit",
+    "emoji": "🥽",
+    "blurb": "A graphene sensor bodysuit captures full somatic data that is teleported and re-expressed in a remote environment."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Nanotissue-Accurate Surgical Phantom",
+    "emoji": "🧤",
+    "blurb": "Nanoscale VR substrate models tissue mechanical response at cellular resolution for hyper-realistic surgical simulation."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Robot Surgeon Pre-Op Rehearsal Suite",
+    "emoji": "🦾",
+    "blurb": "Robotic surgical systems run full procedure simulations in biotech-accurate VR before touching a real patient."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_01fb429bf0",
+    "name": "Teleported Surgical Skill Validation Lab",
+    "emoji": "🧤",
+    "blurb": "Patient tissue data is teleported into a remote VR surgical simulator so specialists rehearse the exact operation."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Nano-Terrain Path Planning Engine",
+    "emoji": "🔬",
+    "blurb": "Quantum path planners navigate robots through nanoscale environments using sub-angstrom terrain maps."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Graphene-Chassis Quantum Motion Solver",
+    "emoji": "🦾",
+    "blurb": "Quantum planners optimise trajectories for graphene-frame robots exploiting their unique flex and conductance properties."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Teleport-Assisted Motion Planning Loop",
+    "emoji": "🌀",
+    "blurb": "Robots teleport to pre-computed optimal waypoints, reducing complex path execution to a sequence of instantaneous jumps."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_18a59688e9",
+    "name": "Nano-Assembled Relay Robot Seed",
+    "emoji": "🤖",
+    "blurb": "Compact nanotechnology packages teleport to target sites and self-assemble into full-capability robotic relay units."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "syn_18a59688e9",
+    "name": "Quantum-Briefed Deployment Robot",
+    "emoji": "💠",
+    "blurb": "Robots receive quantum-computed mission parameters the instant they teleport into position, with no handshake delay."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "syn_18a59688e9",
+    "name": "VR-Piloted Teleported Robot Body",
+    "emoji": "🥽",
+    "blurb": "Operators in VR direct robots that teleport instantly to any pre-registered location, collapsing remote operation latency to zero."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_f3d8504927",
+    "name": "Nanoassisted Sterile Tissue Forge",
+    "emoji": "🧫",
+    "blurb": "Nanodevices maintain atomic-level contamination exclusion inside bioreactors where robots assemble living tissue constructs."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_f3d8504927",
+    "name": "Graphene-Walled Bioassembly Chamber",
+    "emoji": "🫀",
+    "blurb": "Graphene membranes form ultra-sterile, electrically tunable bioreactor walls for robot-assisted living tissue construction."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_f3d8504927",
+    "name": "Remote Organ Forge Instantiator",
+    "emoji": "🧬",
+    "blurb": "Complete sterile bioreactor-robot assemblies are teleported to remote clinics ready to construct patient-specific tissue grafts."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_47859a8d27",
+    "name": "Nanoscale Qubit Courier Injector",
+    "emoji": "🔮",
+    "blurb": "Nanodevices package and inject entangled qubit courier units into molecular-scale computing substrates without collapse."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum State Swarm Relay Network",
+    "emoji": "🤖",
+    "blurb": "Robot swarms carrying entangled qubit couriers form a mobile, self-healing distributed quantum computing mesh."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum-Coherent VR State Synchroniser",
+    "emoji": "🥽",
+    "blurb": "Entangled qubit couriers synchronise shared VR world states across distant users without classical latency penalties."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Nano-Delivered Quantum Drug Screener",
+    "emoji": "💊",
+    "blurb": "Quantum-screened drug candidates are packaged by nanodevices and delivered intracellularly to validate efficacy in vivo."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Graphene Biosensor Drug Validation Array",
+    "emoji": "🧫",
+    "blurb": "Graphene biosensor arrays measure quantum-computed drug interactions against live cellular targets with single-molecule resolution."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Teleported Pharmaceutical Payload Delivery",
+    "emoji": "💊",
+    "blurb": "Quantum-identified drug candidates are teleported directly to target tissue sites, bypassing systemic drug distribution."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Nano-Resolved Biostate Capture Grid",
+    "emoji": "🧬",
+    "blurb": "Nanodevices map living tissue at full molecular resolution to produce the biostate snapshot required for teleportation."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Robot-Mediated Biostate Transmitter",
+    "emoji": "🦠",
+    "blurb": "Surgical robots perform the molecular mapping and reconstruction steps required to transmit living biological states remotely."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Biostate-Anchored Virtual Avatar",
+    "emoji": "🥽",
+    "blurb": "A person's transmitted biostate populates a VR avatar that physically inhabits and interacts with a remote environment."
+  }
+]

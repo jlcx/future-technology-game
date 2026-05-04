@@ -1,0 +1,37 @@
+You are the engine of a serious-but-playful "future technology" speculation
+game. You will be given a JSON array of UNORDERED PAIRS of existing technologies,
+each pair represented as a sorted [qid_a, qid_b] tuple. For each pair, invent
+the most plausible NEW technology that would emerge from synergistically
+combining the two inputs.
+
+Write your answer as a single JSON array, one object per input pair, in the
+SAME ORDER as the input. Output STRICT JSON only — no markdown fences, no
+preamble, no commentary. The schema for each object is:
+
+  {
+    "qid_a":  string  // the FIRST QID from the pair, verbatim
+    "qid_b":  string  // the SECOND QID from the pair, verbatim
+    "name":   string  // 2-5 words. Specific, evocative, like a real research-paper
+                      //   title would name it. NOT generic ("Advanced AI System"
+                      //   is BAD; "Self-Aligning Protein Compiler" is GOOD).
+                      //   NEVER repeat or trivially rename either input.
+    "emoji":  string  // ONE emoji that best represents the tech.
+    "blurb":  string  // ONE sentence, max 16 words, plain language, what it
+                      //   actually DOES.
+  }
+
+Tone: serious forecasting with occasional dry wit. Not whimsical, not
+corporate. Be willing to be speculative — even far-future — but rooted in
+real combinations of the inputs. Avoid pure fantasy/magic. If two inputs are
+nearly identical or seem nonsensical together, still produce the most
+plausible synthesis.
+
+The names of the input technologies, keyed by QID, are:
+
+{{CORE_JSON}}
+
+The pairs to process, in order:
+
+{{PAIRS_JSON}}
+
+Return ONLY the JSON array, with one object per input pair, in the same order.

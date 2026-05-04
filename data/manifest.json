@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-05-04T00:33:07+00:00",
+  "model": "claude-sonnet-4-6 (via subagents)",
+  "batch_files": [
+    "combinations_batch_0.json",
+    "combinations_batch_1.json",
+    "combinations_batch_2.json",
+    "combinations_batch_3.json",
+    "combinations_batch_4.json",
+    "combinations_batch_5.json",
+    "combinations_batch_test.json"
+  ],
+  "n_pairs_expected": 630,
+  "n_pairs_covered": 630,
+  "n_pairs_missing": 0,
+  "n_skipped_entries": 0,
+  "n_unique_synths": 1972,
+  "n_convergent_collisions": 6,
+  "checksums": {
+    "pipeline/combine_prompt.txt": "8333ee0ea4d56384",
+    "pipeline/core_techs.json": "2ea12cd6dc11b404",
+    "pipeline/pairs.json": "81be8e924e0f16ee",
+    "data/corpus.js": "5a97d564afd97ebb"
+  },
+  "runs": [
+    {
+      "ran_at": "2026-05-04T01:04:06+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_next_batch_*.json",
+      "added": 168,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T01:14:46+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_core_x_synth_batch_*.json",
+      "added": 784,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T01:24:52+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_synth_x_synth_batch_*.json",
+      "added": 378,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T01:47:28+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_expand_batch_*.json",
+      "added": 405,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T02:56:14+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_cryo_rev.json",
+      "added": 85,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-04T03:10:53+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_cryo_rev_synth.json",
+      "added": 56,
+      "skipped": 0
+    }
+  ],
+  "n_pairs_in_combinations": 1978
+}

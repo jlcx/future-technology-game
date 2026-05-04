@@ -1,0 +1,597 @@
+[
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q185410",
+    "name": "Lossless State RFID Fabric",
+    "emoji": "📡",
+    "blurb": "Tags that log every read and state change, enabling full audit-trail replay."
+  },
+  {
+    "qid_a": "Q104954",
+    "qid_b": "Q633581",
+    "name": "Cryogenic Implant Tag",
+    "emoji": "🧊",
+    "blurb": "RFID chip embedded in preserved tissue broadcasts identity data at liquid-nitrogen temperatures."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q185410",
+    "name": "Reversible Superfluid Logic",
+    "emoji": "🌊",
+    "blurb": "Encodes and erases computation in zero-viscosity helium vortices, dissipating almost no heat."
+  },
+  {
+    "qid_a": "Q106667",
+    "qid_b": "Q633581",
+    "name": "Superfluid Cryo-Perfusion",
+    "emoji": "🌊",
+    "blurb": "Circulates superfluid helium through preserved tissue to achieve uniform, damage-free ultra-cooling."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q185410",
+    "name": "Nanoscale Entropy-Zero Gates",
+    "emoji": "⚗️",
+    "blurb": "Atomic-scale logic gates that mechanically toggle without erasing bits, approaching Landauer-limit efficiency."
+  },
+  {
+    "qid_a": "Q11468",
+    "qid_b": "Q633581",
+    "name": "Nanobot Ice-Crystal Repair",
+    "emoji": "⚗️",
+    "blurb": "Molecular machines navigate frozen tissue to dissolve ice crystals before thawing begins."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q185410",
+    "name": "Computation-History-Aware AI",
+    "emoji": "🤖",
+    "blurb": "AI that retains and can rewind every reasoning step, enabling full decision auditability."
+  },
+  {
+    "qid_a": "Q11660",
+    "qid_b": "Q633581",
+    "name": "AI Revival Protocol Optimizer",
+    "emoji": "🤖",
+    "blurb": "AI designs and personalizes the precise warming and resuscitation sequence for each cryonics patient."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q185410",
+    "name": "Bit-Preserving Clone Ledger",
+    "emoji": "🐑",
+    "blurb": "Records every step of the cloning process so developmental forks can be precisely traced."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "Q633581",
+    "name": "Cryo-Archive Cloning",
+    "emoji": "🐑",
+    "blurb": "Thaws and clones tissue samples from cryogenic archives to restore extinct or deceased organisms."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q185410",
+    "name": "Resettable Nuclear Control Rod",
+    "emoji": "☢️",
+    "blurb": "Reactor control systems designed so every insertion event can be computationally undone and replayed."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "Q633581",
+    "name": "Nuclear-Powered Cryo-Vault",
+    "emoji": "☢️",
+    "blurb": "Small modular reactors maintain cryogenic storage at depth indefinitely without surface power infrastructure."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q185410",
+    "name": "Bidirectional Document Telecopier",
+    "emoji": "📠",
+    "blurb": "Fax protocol that stores outbound images so any transmission can be verified or re-sent exactly."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "Q633581",
+    "name": "Frozen Medical Record Relay",
+    "emoji": "📠",
+    "blurb": "Transmits cryonics patient vital history to future revival centers on demand decades later."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q185410",
+    "name": "Undo-Chain Cryptocurrency",
+    "emoji": "🪙",
+    "blurb": "A digital currency whose transactions can be cryptographically reversed within a defined dispute window."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "Q633581",
+    "name": "Cryonics Endowment Token",
+    "emoji": "🪙",
+    "blurb": "Smart-contract funds that automatically release revival payments when a preserved patient is thawed."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q185410",
+    "name": "Reversible Orbital Tether Logic",
+    "emoji": "🛗",
+    "blurb": "Elevator counterweight swings encode reversible bits, harvesting energy from every descent cycle."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "Q633581",
+    "name": "Orbital Cryo-Freight Elevator",
+    "emoji": "🛗",
+    "blurb": "Lifts cryogenically preserved cargo to orbit cheaply, enabling long-duration deep-space preservation missions."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q185410",
+    "name": "Reversible Gene-Edit Cassette",
+    "emoji": "🧬",
+    "blurb": "Genetic edits packaged with their own excision machinery, allowing full restoration of wild-type sequence."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "Q633581",
+    "name": "Vitrification-Guided Gene Repair",
+    "emoji": "🧬",
+    "blurb": "Genetic edits applied post-thaw correct cryo-damage directly in revived tissue."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q185410",
+    "name": "Undoable MRI Gradient Protocol",
+    "emoji": "🧲",
+    "blurb": "Scan sequences stored as reversible operations, enabling retrospective image reconstruction from raw field data."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "Q633581",
+    "name": "Cryogenic Connectome MRI",
+    "emoji": "🧲",
+    "blurb": "Ultra-high-field MRI maps the complete neural architecture of a frozen brain without thawing it."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q185410",
+    "name": "Graphene Reversible Memory Plane",
+    "emoji": "🪨",
+    "blurb": "Single-layer graphene switches store bits mechanically, toggling with no heat dissipation or data loss."
+  },
+  {
+    "qid_a": "Q169917",
+    "qid_b": "Q633581",
+    "name": "Graphene Cryo-Wrap Membrane",
+    "emoji": "🪨",
+    "blurb": "Graphene sheets insulate and hermetically seal cryogenic containers at the cellular scale."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q185410",
+    "name": "Session-Rewindable Virtual World",
+    "emoji": "🥽",
+    "blurb": "VR environment that preserves full state history so any moment can be re-entered exactly."
+  },
+  {
+    "qid_a": "Q170519",
+    "qid_b": "Q633581",
+    "name": "Preserved-Mind VR Interface",
+    "emoji": "🥽",
+    "blurb": "Simulated environment allows a cryonics patient's uploaded connectome to remain active during physical suspension."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q185410",
+    "name": "Reversible-Motion Robotic Arm",
+    "emoji": "🤖",
+    "blurb": "Robot joints log torque and position so every movement can be played back or undone safely."
+  },
+  {
+    "qid_a": "Q170978",
+    "qid_b": "Q633581",
+    "name": "Cryo-Surgery Microrobot",
+    "emoji": "🤖",
+    "blurb": "Precision robots inject cryoprotectant and perform tissue sealing before and after cryogenic preservation."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q185410",
+    "name": "Traceable CRISPR Edit History",
+    "emoji": "✂️",
+    "blurb": "Every CRISPR cut is logged with flanking sequences so edits can be verified and reversed."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "Q633581",
+    "name": "Post-Thaw CRISPR Triage",
+    "emoji": "✂️",
+    "blurb": "CRISPR scans and repairs cryo-induced genomic damage in revived cells before proliferation."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q185410",
+    "name": "Quantum Uncomputation Engine",
+    "emoji": "💻",
+    "blurb": "Quantum computer erases ancilla qubits by running subroutines in reverse, recycling coherence with zero waste."
+  },
+  {
+    "qid_a": "Q176555",
+    "qid_b": "Q633581",
+    "name": "Quantum Cryostat Co-Processor",
+    "emoji": "💻",
+    "blurb": "Quantum chips share liquid-helium infrastructure with cryo-preserved tissue, cutting facility costs radically."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q185410",
+    "name": "Stateful Biometric Audit Trail",
+    "emoji": "🖐️",
+    "blurb": "Biometric reads are stored as invertible logs, letting analysts reconstruct any identity-check session."
+  },
+  {
+    "qid_a": "Q177765",
+    "qid_b": "Q633581",
+    "name": "Cryo-Patient Identity Continuity",
+    "emoji": "🖐️",
+    "blurb": "Biometric baseline captured before preservation guarantees legal identity upon revival decades later."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q185410",
+    "name": "Fullerene Reversible Data Cage",
+    "emoji": "⚽",
+    "blurb": "Molecules trapped inside fullerene shells encode bits that can be removed and restored without damage."
+  },
+  {
+    "qid_a": "Q178026",
+    "qid_b": "Q633581",
+    "name": "Fullerene Cryoprotectant Carrier",
+    "emoji": "⚽",
+    "blurb": "Hollow fullerene cages deliver cryoprotectant chemicals directly into cells with molecular precision."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q185410",
+    "name": "Reversible Brain-State Replay",
+    "emoji": "🧠",
+    "blurb": "EEG recordings stored as invertible sequences enable exact reconstruction of prior cognitive states."
+  },
+  {
+    "qid_a": "Q179965",
+    "qid_b": "Q633581",
+    "name": "Pre-Cryo Neural Baseline EEG",
+    "emoji": "🧠",
+    "blurb": "High-resolution brain maps recorded before suspension serve as revival benchmarks for consciousness verification."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q185410",
+    "name": "Reversible Low-Energy Fusion Cell",
+    "emoji": "⚗️",
+    "blurb": "Cold-fusion reaction chamber logs every energy transfer, enabling thermodynamic backtracking for safety analysis."
+  },
+  {
+    "qid_a": "Q180381",
+    "qid_b": "Q633581",
+    "name": "Cold-Fusion Cryo-Power Supply",
+    "emoji": "⚗️",
+    "blurb": "Compact cold-fusion cells provide indefinite off-grid power to remote cryogenic storage facilities."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q185410",
+    "name": "Undo-Calibrated Neural Prosthetic",
+    "emoji": "🦾",
+    "blurb": "Prosthetic limb stores every movement command so motor patterns can be analyzed and re-run."
+  },
+  {
+    "qid_a": "Q181802",
+    "qid_b": "Q633581",
+    "name": "Cryo-Preserved Prosthetic Interface",
+    "emoji": "🦾",
+    "blurb": "Neural interfaces are preserved alongside the patient so motor linkages reconnect seamlessly on revival."
+  },
+  {
+    "qid_a": "Q184199",
+    "qid_b": "Q185410",
+    "name": "Reversible Process Automation",
+    "emoji": "🔄",
+    "blurb": "Industrial pipelines log state at every step so any failed batch can be rolled back instantly."
+  },
+  {
+    "qid_a": "Q184199",
+    "qid_b": "Q633581",
+    "name": "Automated Cryo-Facility Management",
+    "emoji": "🤖",
+    "blurb": "Autonomous systems monitor, refill, and maintain cryogenic dewars for centuries without human staff."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q192776",
+    "name": "Reversible Backpropagation Network",
+    "emoji": "🕸️",
+    "blurb": "Neural network training stores all gradient steps so weight updates can be fully unwound."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q204043",
+    "name": "Reversible Quantum Teleportation",
+    "emoji": "✨",
+    "blurb": "Teleportation protocol that preserves entanglement history, allowing re-transmission if the original state is corrupted."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q204520",
+    "name": "Undoable Planetary Atmosphere Engine",
+    "emoji": "🌍",
+    "blurb": "Terraforming interventions are logged and modeled so failed modifications can be chemically reversed."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q20514253",
+    "name": "Rollback-Enabled Smart Contract",
+    "emoji": "🔗",
+    "blurb": "Blockchain transactions include a reversibility window enforced by cryptographic proof of prior state."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q212809",
+    "name": "Replayable Endoscopic Procedure",
+    "emoji": "🔦",
+    "blurb": "Endoscopy records instrument path and tissue state so surgeons can reconstruct any moment of the procedure."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q2264109",
+    "name": "AGI Thought-Log Architecture",
+    "emoji": "🧠",
+    "blurb": "General AI that preserves every reasoning trace, making its decisions fully auditable and reversible."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q2539",
+    "name": "Invertible Learning Algorithm",
+    "emoji": "🧠",
+    "blurb": "Machine learning model stores update history so any trained weight can be precisely un-learned."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q254183",
+    "name": "State-Preserving AR Overlay",
+    "emoji": "🥽",
+    "blurb": "Augmented-reality session logs every overlay change so users replay, compare, or undo any annotation."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q30642",
+    "name": "Retraceable Language Model",
+    "emoji": "💬",
+    "blurb": "NLP system logs every token decision so any generated sentence can be traced to its inputs."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q32566",
+    "name": "Lossless CT Reconstruction Log",
+    "emoji": "🏥",
+    "blurb": "CT pipeline stores raw projections and every filter step, allowing any image to be reprocessed from scratch."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q381490",
+    "name": "Reversible Aerogel Synthesis Route",
+    "emoji": "🌫️",
+    "blurb": "Aerogel fabrication recorded at each gelation step so porosity or composition can be dialed back."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q4439",
+    "name": "Journaled Magnetic Storage",
+    "emoji": "💾",
+    "blurb": "Hard drive firmware logs every write in reversible form, enabling perfect sector-level undo."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q469",
+    "name": "Reversible Dyson Collector Array",
+    "emoji": "⭐",
+    "blurb": "Energy-capture panels designed for staged disassembly so stellar megastructures can be incrementally un-built."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q527628",
+    "name": "Phase-Conjugate Holographic Memory",
+    "emoji": "🔆",
+    "blurb": "Holographic storage that uses time-reversal optics to retrieve and erase data without destructive read-out."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q584529",
+    "name": "Motion-Log Humanoid Robot",
+    "emoji": "🦾",
+    "blurb": "Humanoid robot records every joint torque so any physical action can be rewound and corrected."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q633581",
+    "name": "Reversible Vitrification Protocol",
+    "emoji": "🧊",
+    "blurb": "Cryoprotectant loading and cooling steps are fully logged so warming can precisely mirror the freeze."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q641442",
+    "name": "Entropy-Tracked Fusion Reactor",
+    "emoji": "☀️",
+    "blurb": "Plasma state logged at every cycle so fusion control systems can replay and diagnose any disruption."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q7108",
+    "name": "Reversible Bioprocess Ledger",
+    "emoji": "🧬",
+    "blurb": "Bioreactor logs metabolic state continuously, enabling exact re-run or rollback of any fermentation batch."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q741490",
+    "name": "Replayable Autonomous Drive Log",
+    "emoji": "🚗",
+    "blurb": "Self-driving car stores every sensor frame and decision so any trip can be forensically reconstructed."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q79798",
+    "name": "Invertible Translation Memory",
+    "emoji": "🌐",
+    "blurb": "Machine translation system logs all alignment decisions, allowing any output to be traced back to source."
+  },
+  {
+    "qid_a": "Q185410",
+    "qid_b": "Q83341",
+    "name": "Reversible Pixel-State LCD",
+    "emoji": "📺",
+    "blurb": "Display controller logs every liquid-crystal state so screen history can be replayed or audited."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "Q633581",
+    "name": "Frozen Connectome Emulator",
+    "emoji": "🕸️",
+    "blurb": "Neural network trained on a patient's cryo-mapped brain simulates their cognition during suspension."
+  },
+  {
+    "qid_a": "Q204043",
+    "qid_b": "Q633581",
+    "name": "Cryogenic Quantum State Transfer",
+    "emoji": "✨",
+    "blurb": "Teleports the quantum state of frozen molecular structures to a receiver for remote reconstruction."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "Q633581",
+    "name": "Cryo-Seed Vault Terraforming",
+    "emoji": "🌍",
+    "blurb": "Cryogenically stored ecosystems are shipped to newly terraformed planets and thawed on arrival."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "Q633581",
+    "name": "Cryo-Patient Rights Ledger",
+    "emoji": "🔗",
+    "blurb": "Blockchain records legal personhood and revival contracts of preserved patients across centuries and jurisdictions."
+  },
+  {
+    "qid_a": "Q212809",
+    "qid_b": "Q633581",
+    "name": "Cryogenic Tissue Endoscopy",
+    "emoji": "🔦",
+    "blurb": "Micro-endoscope inspects preserved organ interiors at cryogenic temperatures to assess vitrification quality."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "Q633581",
+    "name": "AGI-Directed Revival Medicine",
+    "emoji": "🧠",
+    "blurb": "General AI manages real-time revival, adapting rewarming rate and repair interventions per patient biology."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "Q633581",
+    "name": "Cryo-Damage Prediction Model",
+    "emoji": "🧠",
+    "blurb": "ML model forecasts ice formation patterns from cooling curves, optimizing cryoprotectant dosing in real time."
+  },
+  {
+    "qid_a": "Q254183",
+    "qid_b": "Q633581",
+    "name": "Cryo-Facility AR Guidance",
+    "emoji": "🥽",
+    "blurb": "Technicians see real-time temperature overlays and alerts on cryogenic dewars through AR headsets."
+  },
+  {
+    "qid_a": "Q30642",
+    "qid_b": "Q633581",
+    "name": "Pre-Mortem Directive Parser",
+    "emoji": "💬",
+    "blurb": "NLP system reads and legally formalizes a patient's revival instructions from natural-language documents."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "Q633581",
+    "name": "Cryo-Tissue CT Vitrification Check",
+    "emoji": "🏥",
+    "blurb": "CT scanner images frozen organs in situ to detect ice inclusions or fractures before revival."
+  },
+  {
+    "qid_a": "Q381490",
+    "qid_b": "Q633581",
+    "name": "Aerogel Cryogenic Insulation Pod",
+    "emoji": "🌫️",
+    "blurb": "Aerogel-lined pods maintain cryogenic temperatures with minimal liquid-nitrogen consumption over long storage periods."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "Q633581",
+    "name": "Cryogenic Long-Term Archive Drive",
+    "emoji": "💾",
+    "blurb": "Magnetic storage designed to operate at 77 K, co-locating patient records with their physical preservation."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "Q633581",
+    "name": "Stellar-Powered Cryo-Ark",
+    "emoji": "⭐",
+    "blurb": "Dyson-harvested energy sustains planet-scale cryogenic vaults for civilizational biological preservation."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "Q633581",
+    "name": "Holographic Cryo-Patient Record",
+    "emoji": "🔆",
+    "blurb": "3D holographic scans of preserved anatomy serve as revival reference for reconstructive surgeons."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "Q633581",
+    "name": "Cryo-Assisted Humanoid Caretaker",
+    "emoji": "🦾",
+    "blurb": "Humanoid robots perform long-term monitoring, maintenance, and revival procedures on cryogenic patients."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "Q641442",
+    "name": "Fusion-Heated Revival Chamber",
+    "emoji": "☀️",
+    "blurb": "Compact fusion reactor delivers precisely controlled warmth to thaw preserved patients at a safe, uniform rate."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "Q7108",
+    "name": "Cryo-Compatible Synthetic Biofluid",
+    "emoji": "🧬",
+    "blurb": "Bioengineered blood substitute circulates through thawing tissue, delivering oxygen and removing cryoprotectant."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "Q741490",
+    "name": "Autonomous Cryo-Transport Vehicle",
+    "emoji": "🚗",
+    "blurb": "Self-driving vehicle maintains cryogenic conditions and reroutes around hazards during patient transport."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "Q79798",
+    "name": "Temporal Language Bridging System",
+    "emoji": "🌐",
+    "blurb": "Translates a revived patient's language and cultural context into the idioms of their revival era."
+  },
+  {
+    "qid_a": "Q633581",
+    "qid_b": "Q83341",
+    "name": "Cryo-Dewar Status Display",
+    "emoji": "📺",
+    "blurb": "High-contrast LCD panels on cryogenic vessels show internal temperature and nitrogen levels at a glance."
+  }
+]

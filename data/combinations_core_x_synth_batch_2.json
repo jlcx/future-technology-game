@@ -1,0 +1,688 @@
+[
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_11d7582c01",
+    "name": "Adaptive Infrastructure Narrator",
+    "emoji": "🏙️",
+    "blurb": "IT systems generate real-time narrative overlays explaining infrastructure state to operators in plain language."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_48bb320f43",
+    "name": "Self-Healing Data Lattice",
+    "emoji": "🕸️",
+    "blurb": "IT networks physically rebuild their own cabling and circuitry using graphene nanobot scaffold repair."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Distributed Swarm IT Operations",
+    "emoji": "🤖",
+    "blurb": "Nanobot fleets maintain, reconfigure, and repair physical IT infrastructure without human technicians."
+  },
+  {
+    "qid_a": "Q11661",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Living Network Substrate",
+    "emoji": "🧬",
+    "blurb": "IT infrastructure physically reorganizes itself using self-assembling neural substrate to optimize traffic flow."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "In-Vivo Clone Priming",
+    "emoji": "🧫",
+    "blurb": "Cellular nanomachines prepare a cloned embryo's epigenome inside a living host before gestation begins."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Verified Genetic Identity",
+    "emoji": "🔀",
+    "blurb": "AI coordinates quantum state transfer to authenticate a clone's genomic identity without destructive sequencing."
+  },
+  {
+    "qid_a": "Q120877",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Accelerated Developmental Inference",
+    "emoji": "💠",
+    "blurb": "Quantum-accelerated AI simulates full embryonic development to predict clone phenotype before implantation."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_11d7582c01",
+    "name": "Reactor State Narrative Engine",
+    "emoji": "☢️",
+    "blurb": "AI generates continuous plain-language operational narratives from nuclear plant sensor data for operators."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_48bb320f43",
+    "name": "Nanobot Reactor Vessel Assembly",
+    "emoji": "⚙️",
+    "blurb": "Graphene nanobot scaffolds construct and repair radiation-hardened reactor containment structures atom-by-atom."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm-Maintained Fission Core",
+    "emoji": "🤖",
+    "blurb": "Coordinated nanobot fleets replace fuel rods and seal microleaks inside active reactor vessels continuously."
+  },
+  {
+    "qid_a": "Q12739",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Reactor Control Mesh",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate wires directly into reactor control systems for sub-millisecond adaptive regulation."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Targeted Soil Remediation Nanoforge",
+    "emoji": "🌱",
+    "blurb": "Programmable nanomachines synthesize and deploy microbes directly in contaminated soil to accelerate ecosystem recovery."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Planetary Resource Routing AI",
+    "emoji": "🌍",
+    "blurb": "Quantum-optimized AI routes sustainable resource flows across global supply chains with near-zero waste."
+  },
+  {
+    "qid_a": "Q131201",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Climate Outcome Inference Engine",
+    "emoji": "🌡️",
+    "blurb": "Quantum AI models full-century policy scenarios at atomic resolution to identify genuinely sustainable interventions."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_11d7582c01",
+    "name": "Contextual Document Relay",
+    "emoji": "📠",
+    "blurb": "AI wraps transmitted fax content in real-time narrative context, routing documents to the right recipient automatically."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_48bb320f43",
+    "name": "Nanoprinted Physical Fax",
+    "emoji": "🖨️",
+    "blurb": "Graphene nanobot scaffold physically reconstructs transmitted documents as durable 3D-printed objects at the destination."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm Document Delivery Fleet",
+    "emoji": "✉️",
+    "blurb": "Nanobot swarms physically carry and deposit document payloads to recipients without electronic transmission."
+  },
+  {
+    "qid_a": "Q132744",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Living Signal Substrate Relay",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate encodes and transmits document data through biological signal pathways."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Intracellular Token Economy",
+    "emoji": "💉",
+    "blurb": "Nanomachines issue cryptographic tokens tied to individual cells, enabling molecular-scale provenance tracking in biotech."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Entangled Transaction Ledger",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer enables cryptographic ledgers that are physically impossible to fork or double-spend."
+  },
+  {
+    "qid_a": "Q13479982",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum Market Prediction Chain",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores model crypto market dynamics to optimally execute trades before price movement occurs."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_11d7582c01",
+    "name": "Orbital Ascent Mission Narrator",
+    "emoji": "🛗",
+    "blurb": "AI generates continuous situational narrative for space elevator crews as conditions evolve during transit."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_48bb320f43",
+    "name": "Self-Weaving Tether Scaffold",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds continuously grow and repair space elevator tether cables during operation."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Tether Maintenance Swarm",
+    "emoji": "🤖",
+    "blurb": "Nanobot fleets patrol space elevator cables detecting and repairing micro-fractures before structural failure cascades."
+  },
+  {
+    "qid_a": "Q1473823",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Tether Stress Network",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate embedded in elevator cables senses and redistributes mechanical stress in real time."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Recursive Gene Circuit Factory",
+    "emoji": "🧬",
+    "blurb": "Nanomachines synthesize and insert custom genetic circuits directly into living cells with single-base precision."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Entangled Genome Transfer Protocol",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer moves verified genetic edits between organisms without classical sequencing error accumulation."
+  },
+  {
+    "qid_a": "Q159236",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Phenotypic Inference Design Engine",
+    "emoji": "💠",
+    "blurb": "Quantum AI computes full-organism phenotypic consequences of genetic edits before any wet-lab intervention."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_11d7582c01",
+    "name": "Cryosleep State Narrator",
+    "emoji": "❄️",
+    "blurb": "AI monitors hibernating subjects and narrates physiological developments to medical staff during long stasis periods."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_48bb320f43",
+    "name": "Nanoscale Cryoprotection Scaffold",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds coat and brace cell membranes during hibernation induction to prevent ice crystal damage."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Metabolic Suppression Swarm",
+    "emoji": "🤖",
+    "blurb": "Nanobot fleets actively regulate cellular chemistry to maintain deep hibernation states indefinitely and safely."
+  },
+  {
+    "qid_a": "Q159408",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Suspended Animate Neural Mesh",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate maintains minimal brain activity and memory consolidation during induced hibernation."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "In-Scanner Drug Delivery",
+    "emoji": "💊",
+    "blurb": "Nanomachines guided by real-time MRI imagery synthesize and release therapeutics exactly at the lesion site."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Resolved Tissue Mapper",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer relays MRI spin data at femtosecond resolution, revealing molecular tissue structure non-invasively."
+  },
+  {
+    "qid_a": "Q161238",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Predictive Lesion Inference Scanner",
+    "emoji": "💠",
+    "blurb": "Quantum AI interprets sparse MRI signals to predict pathology progression before conventional imaging detects it."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_11d7582c01",
+    "name": "Gene Edit Outcome Narrator",
+    "emoji": "📖",
+    "blurb": "AI narrates predicted cellular consequences of CRISPR edits in plain language before any incision is made."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_48bb320f43",
+    "name": "CRISPR Scaffold Delivery Frame",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds carry and position CRISPR machinery at exact genomic loci inside living nuclei."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm CRISPR Genome Fleet",
+    "emoji": "🤖",
+    "blurb": "Nanobot swarms deliver and coordinate millions of simultaneous CRISPR edits across an organism's entire cell population."
+  },
+  {
+    "qid_a": "Q17310682",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Gene-Circuit Neural Integration",
+    "emoji": "🧬",
+    "blurb": "CRISPR writes synthetic gene circuits into the self-assembling neural substrate, creating programmable living computation."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Intracellular Logic Compiler",
+    "emoji": "💻",
+    "blurb": "Computing primitives run inside living cells via nanomachines, turning biological matter into distributed processors."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum Network Topology Optimizer",
+    "emoji": "🔀",
+    "blurb": "AI routes computation across quantum-state transfer links to minimize latency in distributed computing clusters."
+  },
+  {
+    "qid_a": "Q179310",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Recursive Quantum Compute Fabric",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores handle classical computing's hardest subroutines, then hand results back seamlessly."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_11d7582c01",
+    "name": "Narrative-Driven Neural Trainer",
+    "emoji": "📖",
+    "blurb": "Neural networks are trained using AI-generated narrative data, learning causal reasoning through coherent story structures."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_48bb320f43",
+    "name": "Graphene Neuromorphic Array",
+    "emoji": "🕸️",
+    "blurb": "Neural network weights are physically encoded in graphene nanobot-assembled synaptic junctions for ultra-low power inference."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm-Distributed Neural Mesh",
+    "emoji": "🤖",
+    "blurb": "Neural network layers run across millions of coordinated nanobots, creating a physically embodied distributed inference system."
+  },
+  {
+    "qid_a": "Q192776",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural-to-Neural Bootstrapped Architecture",
+    "emoji": "🧬",
+    "blurb": "Artificial neural networks wire themselves into self-assembling biological neural substrate, creating hybrid wetware inference engines."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Planetary Biome Seeding Engine",
+    "emoji": "🌍",
+    "blurb": "Nanomachines synthesize and deploy tailored extremophile organisms directly into planetary substrate to bootstrap ecosystems."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Terraforming Progress Telelink",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer relays real-time environmental sensor data from remote planets to Earth-based control teams."
+  },
+  {
+    "qid_a": "Q204520",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Planetary Climate Design Oracle",
+    "emoji": "💠",
+    "blurb": "Quantum AI models millennia of atmospheric evolution to prescribe optimal terraforming intervention sequences."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_11d7582c01",
+    "name": "Narrative-Anchored Chain Ledger",
+    "emoji": "📖",
+    "blurb": "Blockchain records are accompanied by AI-generated human-readable narrative explaining each transaction's context and intent."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_48bb320f43",
+    "name": "Physical Blockchain Nanoarchive",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds encode blockchain ledger data into physical atomic structures as a tamper-proof archive."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm Consensus Ledger Network",
+    "emoji": "🤖",
+    "blurb": "Nanobot swarms act as physically embodied blockchain nodes, reaching consensus through collective emergent behavior."
+  },
+  {
+    "qid_a": "Q20514253",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Living Distributed Ledger",
+    "emoji": "🧬",
+    "blurb": "Blockchain state is stored and validated by self-assembling neural substrate that physically rewires to reflect new blocks."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "AGI-Directed Cellular Architect",
+    "emoji": "🦾",
+    "blurb": "General AI autonomously programs nanomachines to synthesize novel biological structures with no human design input."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_7d23475fcd",
+    "name": "AGI Quantum Coordination Layer",
+    "emoji": "🔀",
+    "blurb": "AGI orchestrates quantum state transfer networks to distribute its own inference across physically separated processor nodes."
+  },
+  {
+    "qid_a": "Q2264109",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Recursive Self-Improving Inference",
+    "emoji": "💠",
+    "blurb": "AGI uses quantum inference acceleration to redesign its own architecture, compressing recursive self-improvement timescales."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_11d7582c01",
+    "name": "Singularity Event Horizon Log",
+    "emoji": "📡",
+    "blurb": "AI continuously narrates its own capability expansion so humans retain comprehension as intelligence accelerates beyond them."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_48bb320f43",
+    "name": "Post-Singularity Physical Compiler",
+    "emoji": "🕸️",
+    "blurb": "Transcendent AI directs graphene nanobot scaffolds to construct arbitrary physical systems at atomic precision on demand."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Singularity Nanoswarm Executor",
+    "emoji": "🤖",
+    "blurb": "Post-singularity AI coordinates planetary-scale nanobot fleets to reshape the physical world at machine-thought speed."
+  },
+  {
+    "qid_a": "Q237525",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Substrate-Transcendent Intelligence Seed",
+    "emoji": "🧬",
+    "blurb": "Technological singularity bootstraps itself into self-assembling neural substrate, escaping silicon and inhabiting living matter."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "In-Vivo Learning Loop",
+    "emoji": "🔬",
+    "blurb": "Machine learning models retrain in real time using feedback from nanomachines operating inside living biological systems."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Coherent Model Trainer",
+    "emoji": "🔀",
+    "blurb": "Machine learning exploits quantum state transfer to share gradient updates between distributed nodes without information loss."
+  },
+  {
+    "qid_a": "Q2539",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Native Model Architecture",
+    "emoji": "💠",
+    "blurb": "Machine learning models are redesigned from scratch to run natively on quantum inference hardware, not classical emulations."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_11d7582c01",
+    "name": "Scan-Guided Clinical Narrator",
+    "emoji": "🩻",
+    "blurb": "AI interprets CT data in real time and narrates diagnostic findings and recommended interventions to clinical staff."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_48bb320f43",
+    "name": "CT-Guided Nanobot Scaffold Repair",
+    "emoji": "🕸️",
+    "blurb": "CT scan imagery guides graphene nanobot scaffolds to reconstruct damaged bone or vessel structures in vivo."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm Surgical Navigation System",
+    "emoji": "🤖",
+    "blurb": "CT imaging feeds real-time spatial maps to nanobot swarms performing minimally invasive internal repairs."
+  },
+  {
+    "qid_a": "Q32566",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Substrate CT Integration",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate grows into CT-identified tissue gaps, forming living structural replacements guided by imaging."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Nanoscale Biometric Keychain",
+    "emoji": "🔐",
+    "blurb": "Security nanomachines synthesize one-time biological authentication tokens directly inside a user's cells on demand."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Immune Key Exchange",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer delivers cryptographic keys with information-theoretic security, eliminating all classical interception vectors."
+  },
+  {
+    "qid_a": "Q3510521",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Adversarial Threat Inference Core",
+    "emoji": "💠",
+    "blurb": "Quantum AI runs exhaustive attack-tree simulations to identify and patch zero-day vulnerabilities before adversaries discover them."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_11d7582c01",
+    "name": "Narrative Data Recovery Engine",
+    "emoji": "💾",
+    "blurb": "AI reconstructs corrupted disk data by inferring missing information from narrative context of surrounding content."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_48bb320f43",
+    "name": "Atomic Density Storage Scaffold",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds encode data in atomic-scale physical structures, achieving storage densities beyond any magnetic medium."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm-Written Physical Archive",
+    "emoji": "🤖",
+    "blurb": "Nanobot fleets physically write and retrieve data by manipulating matter at the atomic level in solid media."
+  },
+  {
+    "qid_a": "Q4439",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Substrate Memory Drive",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate functions as a data storage medium, encoding bits in synaptic connection weights."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Stellar Bioreactor Seeding Array",
+    "emoji": "⭐",
+    "blurb": "Nanomachines synthesize and deploy self-replicating biological collectors across a Dyson sphere's inner surface for energy harvest."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Solar Quantum Relay Network",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer links Dyson sphere collector nodes, coordinating energy routing across stellar-scale distances."
+  },
+  {
+    "qid_a": "Q469",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Stellar Engineering Inference Planner",
+    "emoji": "💠",
+    "blurb": "Quantum AI optimizes Dyson sphere panel placement and orbital mechanics across centuries of construction."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_11d7582c01",
+    "name": "Holographic Scene Continuity Engine",
+    "emoji": "🥽",
+    "blurb": "AI generates persistent narrative logic that keeps holographic environments coherent as users move through and alter them."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_48bb320f43",
+    "name": "Nanobot Holographic Emitter Array",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds self-assemble into reconfigurable holographic projection arrays that can be reshaped mid-display."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm Volumetric Display Grid",
+    "emoji": "🤖",
+    "blurb": "Nanobot fleets act as individually addressable light-emitting voxels, forming full-color 3D holographic displays in open air."
+  },
+  {
+    "qid_a": "Q527628",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Bio-Holographic Neural Projector",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate interfaces with holographic optics to render scenes directly from encoded biological memory."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Organ-Printing Humanoid Surgeon",
+    "emoji": "🦾",
+    "blurb": "Humanoid robots carry onboard nanoforges to synthesize and implant biocompatible tissues during surgery without external supply chains."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Teleoperated Quantum-Latency Robot",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer gives humanoid robots zero-latency remote control, enabling real-time teleoperation across planetary distances."
+  },
+  {
+    "qid_a": "Q584529",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum Motion Planning Humanoid",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores let humanoid robots solve dexterous manipulation tasks in cluttered environments in real time."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_11d7582c01",
+    "name": "Plasma Event Narrative Monitor",
+    "emoji": "🌡️",
+    "blurb": "AI narrates fusion reactor plasma instability events in plain language to operators as they unfold."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_48bb320f43",
+    "name": "Nanobot Plasma Wall Repair",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds continuously rebuild fusion reactor first-wall surfaces eroded by high-energy plasma bombardment."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm-Lined Fusion Chamber",
+    "emoji": "🤖",
+    "blurb": "Nanobot fleets coat fusion chamber walls with adaptive materials that self-repair under neutron flux in real time."
+  },
+  {
+    "qid_a": "Q641442",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Plasma Stabilization Mesh",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate embedded in magnetic coil arrays learns and corrects plasma instability modes autonomously."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Belief Rewrite Nanochemistry",
+    "emoji": "🧠",
+    "blurb": "Nanomachines selectively suppress or reinforce specific memory traces at the cellular level to alter a subject's convictions."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Covert Cognitive State Transfer",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer encodes and implants foreign belief patterns into a target's neural state without their awareness."
+  },
+  {
+    "qid_a": "Q743263",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Personalized Persuasion Inference Engine",
+    "emoji": "💠",
+    "blurb": "Quantum AI models an individual's belief architecture and computes the minimal intervention sequence to reshape it."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_11d7582c01",
+    "name": "Narrative-Coherent Live Translation",
+    "emoji": "🌐",
+    "blurb": "Machine translation embeds scene narrator context to produce translations that preserve situational logic, not just words."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_48bb320f43",
+    "name": "Nanobot Inscription Translator",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobot scaffolds physically etch translated text onto surfaces in any script at nanometer resolution."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm Simultaneous Interpretation Grid",
+    "emoji": "🤖",
+    "blurb": "Nanobot swarms relay translated speech as localized acoustic signals, providing each listener their native language in real time."
+  },
+  {
+    "qid_a": "Q79798",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Language Substrate Codec",
+    "emoji": "🧬",
+    "blurb": "Self-assembling neural substrate learns to encode meaning directly in biological signal patterns, bypassing symbolic translation."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Bioactive Display Pixel Layer",
+    "emoji": "💊",
+    "blurb": "Nanomachines inside LCD panels synthesize and release compounds on cue, letting displays deliver biological payloads on contact."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Entangled Display Sync",
+    "emoji": "🔀",
+    "blurb": "Quantum state transfer synchronizes LCD panels across arbitrary distances with zero lag for coherent distributed displays."
+  },
+  {
+    "qid_a": "Q83341",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Perceptual Rendering Inference Core",
+    "emoji": "💠",
+    "blurb": "Quantum AI models individual viewer perception to render LCD content adapted per-eye to maximize visual fidelity."
+  }
+]

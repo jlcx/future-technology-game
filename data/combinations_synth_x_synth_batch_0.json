@@ -1,0 +1,667 @@
+[
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_05ff514d0d",
+    "name": "Quantum-Linked Surgical Rehearsal Grid",
+    "emoji": "🧤",
+    "blurb": "Distributes haptic surgical simulations across quantum-interconnected nodes for zero-latency remote training."
+  },
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_2f41637058",
+    "name": "Procedural Tissue Design Trainer",
+    "emoji": "🧬",
+    "blurb": "Trains surgeons on AI-designed novel proteins and tissues before those biologics exist in the lab."
+  },
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_47859a8d27",
+    "name": "Teleported Surgical State Mirror",
+    "emoji": "🔮",
+    "blurb": "Quantum-couriers a surgeon's haptic training session intact to a remote OR for real-time expert guidance."
+  },
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Quantum-Optimised Procedure Planner",
+    "emoji": "🧤",
+    "blurb": "Quantum path-planning computes optimal surgical instrument routes through patient anatomy before each training run."
+  },
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_88e12be07a",
+    "name": "Atomic-Fidelity Tissue Simulator",
+    "emoji": "🧤",
+    "blurb": "Nanocompute lattice renders tissue mechanics at molecular resolution inside surgical training VR."
+  },
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Surgical Dexterity Transfer Loop",
+    "emoji": "🦾",
+    "blurb": "Robotic training in VR and human surgical simulation share a closed feedback loop to co-refine motor programs."
+  },
+  {
+    "qid_a": "syn_01fb429bf0",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Procedure Coach",
+    "emoji": "🧤",
+    "blurb": "Graphene inference chips evaluate surgeon micro-movements in real time and deliver corrective haptic cues."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_18a59688e9",
+    "name": "Quantum-Coherent Robot Dispatch",
+    "emoji": "⚡",
+    "blurb": "Teleported robots arrive pre-loaded with quantum-interconnected command channels, ready to act immediately."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Entangled Presence Relay Bus",
+    "emoji": "⚡",
+    "blurb": "Graphene quantum wiring carries a teleported sensory presence signal with no measurable decoherence lag."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Coherent Biosignal Quantum Backbone",
+    "emoji": "🧫",
+    "blurb": "Graphene qubit bus transmits single-molecule biosensor readings as quantum states for lossless biological telemetry."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Quantum Drug Simulation Highway",
+    "emoji": "💊",
+    "blurb": "Graphene qubit interconnects distribute molecular drug screening workloads across a decentralised quantum cluster."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Coherence-Preserving Matter Transit Wire",
+    "emoji": "⚗️",
+    "blurb": "Graphene qubit bus and nanoconstruct ferry combine to relay quantum matter states across chip-to-chip distances intact."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Molecular Blueprint Quantum Channel",
+    "emoji": "🧬",
+    "blurb": "Graphene qubit wiring transmits full molecular-resolution biostate maps needed for remote tissue reconstruction."
+  },
+  {
+    "qid_a": "syn_05ff514d0d",
+    "qid_b": "syn_f3d8504927",
+    "name": "Quantum-Linked Bioassembly Cluster",
+    "emoji": "🦠",
+    "blurb": "Quantum-coherent graphene interconnects synchronise multiple surgical bioassembly robots working on the same construct."
+  },
+  {
+    "qid_a": "syn_11d7582c01",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Narrative-Driven Drug Delivery Scene",
+    "emoji": "🥽",
+    "blurb": "AI narrates a VR scenario whose story logic triggers targeted nanoforge delivery inside a patient in real time."
+  },
+  {
+    "qid_a": "syn_11d7582c01",
+    "qid_b": "syn_48bb320f43",
+    "name": "Emergent Architecture Story Engine",
+    "emoji": "🥽",
+    "blurb": "AI narrator directs nanobot graphene construction in real time, building environments as the plot demands them."
+  },
+  {
+    "qid_a": "syn_11d7582c01",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Entanglement-Routed Narrative Fabric",
+    "emoji": "🥽",
+    "blurb": "AI scene narration is distributed across quantum-entangled nodes so every user's VR reality stays causally consistent."
+  },
+  {
+    "qid_a": "syn_11d7582c01",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm-Enacted Story World",
+    "emoji": "🤖",
+    "blurb": "AI-generated narrative is physically instantiated by a swarm of nanobots that build scenery around the user."
+  },
+  {
+    "qid_a": "syn_11d7582c01",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Coherent Reality Authorship",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores generate physically consistent VR narratives at a fidelity impossible on classical hardware."
+  },
+  {
+    "qid_a": "syn_11d7582c01",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Substrate Story Imprinter",
+    "emoji": "🧬",
+    "blurb": "Narrative AI coordinates self-assembling neural tissue to encode story events as persistent experiential memories."
+  },
+  {
+    "qid_a": "syn_18a59688e9",
+    "qid_b": "syn_34bfc1ed6e",
+    "name": "Teleported Nanopharmacy Deployer",
+    "emoji": "💉",
+    "blurb": "Robots arrive pre-loaded with programmable nanoforges, dispensing bespoke biologics on site with zero supply-chain lag."
+  },
+  {
+    "qid_a": "syn_18a59688e9",
+    "qid_b": "syn_48bb320f43",
+    "name": "Instant Nano-Fabrication Brigade",
+    "emoji": "🕸️",
+    "blurb": "Teleported robots immediately deploy graphene nanobot scaffolding crews at disaster sites or orbital construction zones."
+  },
+  {
+    "qid_a": "syn_18a59688e9",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Quantum-Coordinated Robot Swarm Relay",
+    "emoji": "🔀",
+    "blurb": "Teleported robots communicate through AI-optimised entanglement routing, maintaining coherent swarm awareness at distance."
+  },
+  {
+    "qid_a": "syn_18a59688e9",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Instant-Deployed Swarm Assembly",
+    "emoji": "🤖",
+    "blurb": "Teleportation places a seed robot that immediately bootstraps a full nanobot swarm from local materials."
+  },
+  {
+    "qid_a": "syn_18a59688e9",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Ready Robot Vanguard",
+    "emoji": "💠",
+    "blurb": "Teleported robots carry embedded quantum inference cores, making high-stakes decisions before classical signals arrive."
+  },
+  {
+    "qid_a": "syn_18a59688e9",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural Scaffold Rapid Deployment",
+    "emoji": "🧬",
+    "blurb": "Teleported robots seed self-assembling neural substrates at any location, establishing compute nodes without infrastructure."
+  },
+  {
+    "qid_a": "syn_2c3a87cf23",
+    "qid_b": "syn_3c65b5a00a",
+    "name": "Tactile Presence Exoskin Bridge",
+    "emoji": "🖐️",
+    "blurb": "Graphene exoskin renders physical touch sensations from a remote location inhabited via teleported sensory presence."
+  },
+  {
+    "qid_a": "syn_2c3a87cf23",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Skin-Surface Molecular Diagnostics",
+    "emoji": "🧫",
+    "blurb": "Graphene haptic layer doubles as biosensor scaffold, reading skin-level biomarkers while delivering VR touch feedback."
+  },
+  {
+    "qid_a": "syn_2c3a87cf23",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Drug-Response Haptic Testbed",
+    "emoji": "💊",
+    "blurb": "Graphene exoskin simulates tissue sensations predicted by quantum drug-screening models, validating candidates on live skin."
+  },
+  {
+    "qid_a": "syn_2c3a87cf23",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Quantum-Preserved Touch Transmission",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs ferry haptic state as quantum information, letting graphene exoskins share tactile experience across distance."
+  },
+  {
+    "qid_a": "syn_2c3a87cf23",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Bioskin State Broadcast Suit",
+    "emoji": "🧬",
+    "blurb": "Graphene exoskin maps and transmits full cutaneous biostate for remote molecular-resolution skin reconstruction."
+  },
+  {
+    "qid_a": "syn_2c3a87cf23",
+    "qid_b": "syn_f3d8504927",
+    "name": "Exoskin-Guided Tissue Assembly",
+    "emoji": "🦠",
+    "blurb": "Graphene haptic suit feeds real-time pressure and temperature data to bioassembly robots fabricating matched skin grafts."
+  },
+  {
+    "qid_a": "syn_2f41637058",
+    "qid_b": "syn_47859a8d27",
+    "name": "Entangled Protein Design Pipeline",
+    "emoji": "🧬",
+    "blurb": "Quantum couriers relay protein folding solutions between distributed AI oracle nodes without measurement collapse."
+  },
+  {
+    "qid_a": "syn_2f41637058",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Quantum-Steered Enzyme Pathfinding",
+    "emoji": "🧬",
+    "blurb": "Quantum path-planning optimises how engineered proteins navigate cellular machinery to reach their targets."
+  },
+  {
+    "qid_a": "syn_2f41637058",
+    "qid_b": "syn_88e12be07a",
+    "name": "Nanocompute Protein Folding Accelerator",
+    "emoji": "⚡",
+    "blurb": "Quantum nanocompute lattice runs protein design iterations in nanoseconds, collapsing months of wet-lab exploration."
+  },
+  {
+    "qid_a": "syn_2f41637058",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Robotic Protein Synthesis Rehearsal",
+    "emoji": "🦾",
+    "blurb": "Robots practise novel protein-handling procedures in VR before physically synthesising AI-designed biologics."
+  },
+  {
+    "qid_a": "syn_2f41637058",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Protein Oracle Interface",
+    "emoji": "⚡",
+    "blurb": "Graphene neuromorphic chips run protein design inference continuously, surfacing viable candidates at the speed of thought."
+  },
+  {
+    "qid_a": "syn_34bfc1ed6e",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Rendered Intracellular Theatre",
+    "emoji": "💉",
+    "blurb": "VR quantum simulation of cell interiors guides nanoforge payload delivery to the mechanistically correct target site."
+  },
+  {
+    "qid_a": "syn_34bfc1ed6e",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Spin-State Drug Courier",
+    "emoji": "💉",
+    "blurb": "Graphene waveguides teleport nanoforge activation signals as electron spin states directly into target cellular sites."
+  },
+  {
+    "qid_a": "syn_34bfc1ed6e",
+    "qid_b": "syn_8224aa2663",
+    "name": "Intracellular Sensation Mapper",
+    "emoji": "💉",
+    "blurb": "Nanoforges relay cellular synthesis events as tactile sensations through a VR nanofilm for intuitive biologic control."
+  },
+  {
+    "qid_a": "syn_34bfc1ed6e",
+    "qid_b": "syn_adf6285607",
+    "name": "Adaptive Intracellular Agent",
+    "emoji": "🤖",
+    "blurb": "Embodied AI fuses real-time cellular perception with nanoforge control to improvise drug synthesis in novel microenvironments."
+  },
+  {
+    "qid_a": "syn_34bfc1ed6e",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tactile Nanopharmacology Interface",
+    "emoji": "🖐️",
+    "blurb": "Graphene-skinned robot hands manipulate nanoforges, translating cellular resistance into surgeon-felt pressure feedback."
+  },
+  {
+    "qid_a": "syn_3c65b5a00a",
+    "qid_b": "syn_3cf44a79ef",
+    "name": "Quantum-Exact Remote Embodiment",
+    "emoji": "🥽",
+    "blurb": "Quantum renderer provides physically exact remote site simulation so teleported sensory presence feels indistinguishable from reality."
+  },
+  {
+    "qid_a": "syn_3c65b5a00a",
+    "qid_b": "syn_6b246a62f2",
+    "name": "Spin-Encoded Presence Conduit",
+    "emoji": "⬡",
+    "blurb": "Graphene waveguides carry teleported sensory state as electron spin streams, enabling latency-free remote embodiment."
+  },
+  {
+    "qid_a": "syn_3c65b5a00a",
+    "qid_b": "syn_8224aa2663",
+    "name": "Full-Body Remote Touch Interface",
+    "emoji": "🖐️",
+    "blurb": "Teleported presence plus nanofilm tactile overlay lets users physically feel the remote environment they inhabit."
+  },
+  {
+    "qid_a": "syn_3c65b5a00a",
+    "qid_b": "syn_adf6285607",
+    "name": "Embodied Remote Presence Agent",
+    "emoji": "🤖",
+    "blurb": "AI motor-control system inhabits a remote body via teleported presence, acting autonomously when the human steps away."
+  },
+  {
+    "qid_a": "syn_3c65b5a00a",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Tactile-Skinned Telepresence Shell",
+    "emoji": "🖐️",
+    "blurb": "Graphene-skinned robot body hosts the teleported human presence, transmitting exact tactile data back to the operator."
+  },
+  {
+    "qid_a": "syn_3cf44a79ef",
+    "qid_b": "syn_47859a8d27",
+    "name": "Quantum-State Reality Bootstrapper",
+    "emoji": "🥽",
+    "blurb": "Entangled qubit couriers seed a quantum renderer with live physical-world state, making VR indistinguishable from observation."
+  },
+  {
+    "qid_a": "syn_3cf44a79ef",
+    "qid_b": "syn_75cdc04a8b",
+    "name": "Physics-Exact Motion Planner",
+    "emoji": "🦾",
+    "blurb": "Quantum renderer validates robot path plans against quantum-mechanically accurate environment models before execution."
+  },
+  {
+    "qid_a": "syn_3cf44a79ef",
+    "qid_b": "syn_88e12be07a",
+    "name": "Lattice-Accelerated World Renderer",
+    "emoji": "⚡",
+    "blurb": "Quantum nanocompute arrays power physically exact VR rendering at resolutions that expose quantum material behaviour."
+  },
+  {
+    "qid_a": "syn_3cf44a79ef",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Physics-True Dexterity Sandbox",
+    "emoji": "🦾",
+    "blurb": "Robots rehearse manipulation in quantum-rendered environments where material responses obey full quantum mechanical laws."
+  },
+  {
+    "qid_a": "syn_3cf44a79ef",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Quantum Scene Inference",
+    "emoji": "⚡",
+    "blurb": "Graphene inference chips interpret quantum-rendered scene data in real time, bridging quantum simulation and fast perception."
+  },
+  {
+    "qid_a": "syn_47859a8d27",
+    "qid_b": "syn_5dedebafd4",
+    "name": "Entangled Biosignal Qubit Courier",
+    "emoji": "🔮",
+    "blurb": "Teleports single-molecule biosensor readings as quantum states, preserving measurement integrity across diagnostic networks."
+  },
+  {
+    "qid_a": "syn_47859a8d27",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Quantum Drug Discovery Relay",
+    "emoji": "💊",
+    "blurb": "Entangled qubit couriers shuttle molecular simulation results between distributed quantum drug-screening processors instantly."
+  },
+  {
+    "qid_a": "syn_47859a8d27",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Nested Quantum State Shuttle",
+    "emoji": "⚗️",
+    "blurb": "Qubit couriers and nanoconstruct ferries operate in tandem for multi-hop quantum state transfer across arbitrary distances."
+  },
+  {
+    "qid_a": "syn_47859a8d27",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Quantum-Fidelity Biostate Courier",
+    "emoji": "🧬",
+    "blurb": "Entangled qubit couriers transmit molecular-resolution body maps with quantum-guaranteed fidelity for remote tissue reconstruction."
+  },
+  {
+    "qid_a": "syn_47859a8d27",
+    "qid_b": "syn_f3d8504927",
+    "name": "Quantum-Synchronised Bioassembly Network",
+    "emoji": "🦠",
+    "blurb": "Qubit couriers coordinate distributed surgical bioassembly robots with entanglement-level timing precision."
+  },
+  {
+    "qid_a": "syn_48bb320f43",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Entanglement-Steered Lattice Builder",
+    "emoji": "🕸️",
+    "blurb": "AI entanglement routing directs graphene nanobot assembly to propagate quantum-coherent structures across macroscopic scales."
+  },
+  {
+    "qid_a": "syn_48bb320f43",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm-Assembled Graphene Megastructure",
+    "emoji": "🕸️",
+    "blurb": "Nanobot swarm intelligence and graphene scaffold assembly combine to erect arbitrarily large atomic-precision structures."
+  },
+  {
+    "qid_a": "syn_48bb320f43",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Directed Atomic Fabrication",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores steer nanobot graphene assembly in real time, eliminating lattice defects below the thermal limit."
+  },
+  {
+    "qid_a": "syn_48bb320f43",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural-Lattice Co-Assembly Engine",
+    "emoji": "🕸️",
+    "blurb": "Graphene nanobots and neural-substrate particles assemble simultaneously, weaving structural and cognitive layers into one material."
+  },
+  {
+    "qid_a": "syn_5dedebafd4",
+    "qid_b": "syn_7d23475fcd",
+    "name": "Entanglement-Routed Tissue Telemetry",
+    "emoji": "🧫",
+    "blurb": "AI optimises quantum entanglement paths to relay single-molecule biosensor data across a living organ network in real time."
+  },
+  {
+    "qid_a": "syn_5dedebafd4",
+    "qid_b": "syn_a5a03e4ea1",
+    "name": "Swarm Biosensor Cartography",
+    "emoji": "🧫",
+    "blurb": "Nanobot swarms deploy graphene biosensor arrays throughout tissue, continuously mapping the body's molecular landscape."
+  },
+  {
+    "qid_a": "syn_5dedebafd4",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Interpreted Biomarker Oracle",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores decode graphene biosensor streams to identify disease signatures faster than classical pattern matching."
+  },
+  {
+    "qid_a": "syn_5dedebafd4",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Neural-Responsive Tissue Monitor",
+    "emoji": "🧫",
+    "blurb": "Self-assembling neural substrate integrates with graphene biosensors to create tissue that monitors and reports its own state."
+  },
+  {
+    "qid_a": "syn_6b246a62f2",
+    "qid_b": "syn_7ddb9a0a81",
+    "name": "Spin-Wire Drug Modelling Fabric",
+    "emoji": "💊",
+    "blurb": "Graphene spin waveguides distribute quantum drug-screening computations, treating the entire graphene lattice as one processor."
+  },
+  {
+    "qid_a": "syn_6b246a62f2",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Cascaded Quantum Matter Transit",
+    "emoji": "⬡",
+    "blurb": "Graphene spin waveguides and nanoconstruct ferries chain into a long-range quantum state delivery system for matter teleportation."
+  },
+  {
+    "qid_a": "syn_6b246a62f2",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Spin-Channel Biostate Relay",
+    "emoji": "🧬",
+    "blurb": "Graphene electron-spin waveguides carry molecular-resolution body maps as entangled states for faithful biological reconstruction."
+  },
+  {
+    "qid_a": "syn_6b246a62f2",
+    "qid_b": "syn_f3d8504927",
+    "name": "Spin-Coordinated Sterile Assembly",
+    "emoji": "🦠",
+    "blurb": "Graphene spin channels synchronise sterile bioassembly robots with sub-nanosecond timing, preventing cross-contamination during tissue builds."
+  },
+  {
+    "qid_a": "syn_75cdc04a8b",
+    "qid_b": "syn_88e12be07a",
+    "name": "Atomic-Scale Motion Solver",
+    "emoji": "⚡",
+    "blurb": "Quantum nanocompute lattice solves robot kinematics at atomic fidelity, enabling manipulation of individual molecules."
+  },
+  {
+    "qid_a": "syn_75cdc04a8b",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Quantum-Optimised Dexterity Curriculum",
+    "emoji": "🦾",
+    "blurb": "Quantum path planner generates statistically optimal motor-skill training sequences for robots learning in virtual environments."
+  },
+  {
+    "qid_a": "syn_75cdc04a8b",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Trajectory Arbitration Engine",
+    "emoji": "⚡",
+    "blurb": "Graphene inference chips score quantum-computed motion plans in real time, selecting the safest trajectory at robot speed."
+  },
+  {
+    "qid_a": "syn_7d23475fcd",
+    "qid_b": "syn_8224aa2663",
+    "name": "Entanglement-Mapped Haptic Field",
+    "emoji": "🖐️",
+    "blurb": "AI entanglement routing distributes tactile nanofilm sensation data across quantum-linked users sharing the same VR space."
+  },
+  {
+    "qid_a": "syn_7d23475fcd",
+    "qid_b": "syn_adf6285607",
+    "name": "Quantum-Routed Embodied Cognition",
+    "emoji": "🔀",
+    "blurb": "Entanglement routing aligns perception-to-action latency for embodied AI agents operating across quantum-distributed sensor networks."
+  },
+  {
+    "qid_a": "syn_7d23475fcd",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Quantum-Linked Tactile Robot Mesh",
+    "emoji": "🔀",
+    "blurb": "Entanglement routing synchronises graphene-skinned robot touch data across a distributed swarm for coherent haptic awareness."
+  },
+  {
+    "qid_a": "syn_7ddb9a0a81",
+    "qid_b": "syn_8224aa2663",
+    "name": "Pharmacokinetic Sensation Emulator",
+    "emoji": "💊",
+    "blurb": "Quantum drug simulations drive nanofilm tactile signals that let researchers feel predicted drug-tissue interaction forces."
+  },
+  {
+    "qid_a": "syn_7ddb9a0a81",
+    "qid_b": "syn_adf6285607",
+    "name": "Adaptive Molecular Therapeutic Robot",
+    "emoji": "🤖",
+    "blurb": "Embodied AI uses quantum drug-screening predictions to adapt drug delivery behaviour inside a patient in real time."
+  },
+  {
+    "qid_a": "syn_7ddb9a0a81",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Drug-Sensation Validation Skin",
+    "emoji": "🖐️",
+    "blurb": "Graphene-skinned robot measures tissue responses matching quantum-screened drug candidates, closing the simulation-to-experiment loop."
+  },
+  {
+    "qid_a": "syn_8224aa2663",
+    "qid_b": "syn_88e12be07a",
+    "name": "Quantum-Rendered Tactile Reality",
+    "emoji": "🖐️",
+    "blurb": "Nanocompute lattice simulates material quantum mechanics and renders the result as skin-felt sensation via nanofilm."
+  },
+  {
+    "qid_a": "syn_8224aa2663",
+    "qid_b": "syn_aff77d2a20",
+    "name": "Haptic Motor Skill Transfer Layer",
+    "emoji": "🦾",
+    "blurb": "Nanofilm tactile overlay maps sensations between human trainers and robots, enabling direct physical skill imitation."
+  },
+  {
+    "qid_a": "syn_8224aa2663",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Haptic Encoding Bus",
+    "emoji": "⚡",
+    "blurb": "Graphene neuromorphic chip compresses and encodes nanofilm tactile sensation streams at synaptic speed for VR transmission."
+  },
+  {
+    "qid_a": "syn_88e12be07a",
+    "qid_b": "syn_ad18f952a7",
+    "name": "Coherent Qubit Matter Amplifier",
+    "emoji": "⚗️",
+    "blurb": "Nanocompute lattice amplifies quantum coherence in nanoconstruct ferries, extending matter-state transfer range by orders of magnitude."
+  },
+  {
+    "qid_a": "syn_88e12be07a",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Quantum-Encoded Biostate Archiver",
+    "emoji": "🧬",
+    "blurb": "Nanocompute lattice encodes molecular-resolution body maps as long-lived qubit arrays for lossless biological transmission."
+  },
+  {
+    "qid_a": "syn_88e12be07a",
+    "qid_b": "syn_f3d8504927",
+    "name": "Quantum-Timed Sterile Fabrication",
+    "emoji": "🦠",
+    "blurb": "Nanocompute lattice coordinates bioassembly robot timing at qubit precision, eliminating sequencing errors in complex tissue builds."
+  },
+  {
+    "qid_a": "syn_a5a03e4ea1",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Steered Swarm Intelligence",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores compute optimal emergent behaviours for nanobot swarms faster than swarm events unfold classically."
+  },
+  {
+    "qid_a": "syn_a5a03e4ea1",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Swarm-Wired Neural Colony",
+    "emoji": "🤖",
+    "blurb": "Nanobot swarm coordinates self-assembling neural particles into colony-scale cognitive architectures across large physical volumes."
+  },
+  {
+    "qid_a": "syn_ad18f952a7",
+    "qid_b": "syn_b1442a2e88",
+    "name": "Quantum-Assisted Coherence Extender",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores predict and correct decoherence events in nanoconstruct ferries, making matter-state transfer arbitrarily long-range."
+  },
+  {
+    "qid_a": "syn_ad18f952a7",
+    "qid_b": "syn_e98dc137a1",
+    "name": "Quantum-Ferried Neural Substrate",
+    "emoji": "⚗️",
+    "blurb": "Nanoconstructs preserve quantum coherence while relocating self-assembling neural particles, enabling remote mind-substrate deployment."
+  },
+  {
+    "qid_a": "syn_adf6285607",
+    "qid_b": "syn_c743ef30ee",
+    "name": "Embodied Biostate Reconstruction Agent",
+    "emoji": "🤖",
+    "blurb": "Embodied AI guides molecular-resolution remote tissue reconstruction by physically navigating the reconstruction environment in real time."
+  },
+  {
+    "qid_a": "syn_adf6285607",
+    "qid_b": "syn_f3d8504927",
+    "name": "Adaptive Sterile Tissue Architect",
+    "emoji": "🦠",
+    "blurb": "Embodied AI adapts surgical bioassembly plans on the fly when tissue geometry or contamination risks change mid-build."
+  },
+  {
+    "qid_a": "syn_aff77d2a20",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Motor Transfer Engine",
+    "emoji": "⚡",
+    "blurb": "Graphene inference chips extract motor policies from robot VR rehearsals and burn them directly into hardware control layers."
+  },
+  {
+    "qid_a": "syn_b1442a2e88",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Quantum-Inferred Tactile Reflex",
+    "emoji": "💠",
+    "blurb": "Quantum inference cores process graphene skin sensor data and trigger robot reflexes before classical signals could propagate."
+  },
+  {
+    "qid_a": "syn_c743ef30ee",
+    "qid_b": "syn_c99ea3682c",
+    "name": "Haptic Biostate Verification Skin",
+    "emoji": "🧬",
+    "blurb": "Graphene-skinned robot tactilely verifies that remotely reconstructed tissue matches the original molecular biostate map."
+  },
+  {
+    "qid_a": "syn_c99ea3682c",
+    "qid_b": "syn_d322dbdc03",
+    "name": "Neuromorphic Tactile Perception Stack",
+    "emoji": "⚡",
+    "blurb": "Graphene inference chips interpret graphene skin sensor data at synaptic speed, giving robots human-grade tactile awareness."
+  },
+  {
+    "qid_a": "syn_d322dbdc03",
+    "qid_b": "syn_f3d8504927",
+    "name": "Neuromorphic Bioassembly Control Plane",
+    "emoji": "🦠",
+    "blurb": "Graphene neuromorphic chips run closed-loop control for sterile bioassembly robots, adapting tissue construction in real time."
+  }
+]

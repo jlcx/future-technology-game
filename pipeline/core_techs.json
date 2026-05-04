@@ -1,0 +1,547 @@
+[
+  {
+    "qid": "Q11660",
+    "name": "Artificial intelligence",
+    "wp_count": 176,
+    "emoji": "🤖",
+    "blurb": "Machines that simulate human intelligence to reason, learn, and solve problems.",
+    "tags": [],
+    "selected_via": [
+      "staple",
+      "present"
+    ]
+  },
+  {
+    "qid": "Q4439",
+    "name": "Hard disk drive",
+    "wp_count": 129,
+    "emoji": "💾",
+    "blurb": "Stores data on spinning magnetic platters for persistent computer storage.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q12739",
+    "name": "Nuclear power",
+    "wp_count": 123,
+    "emoji": "☢️",
+    "blurb": "Generates electricity from heat produced by controlled nuclear fission chain reactions in a reactor.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q7108",
+    "name": "Biotechnology",
+    "wp_count": 122,
+    "emoji": "🧬",
+    "blurb": "Uses living systems and organisms to develop products, medicines, and industrial processes.",
+    "tags": [],
+    "selected_via": [
+      "staple",
+      "present"
+    ]
+  },
+  {
+    "qid": "Q11468",
+    "name": "Nanotechnology",
+    "wp_count": 120,
+    "emoji": "⚗️",
+    "blurb": "Engineers functional devices and materials at the scale of individual atoms and molecules.",
+    "tags": [],
+    "selected_via": [
+      "staple",
+      "present"
+    ]
+  },
+  {
+    "qid": "Q13479982",
+    "name": "Cryptocurrency",
+    "wp_count": 110,
+    "emoji": "🪙",
+    "blurb": "Decentralized digital currency secured by cryptographic proof instead of a central bank.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q159236",
+    "name": "Genetic engineering",
+    "wp_count": 91,
+    "emoji": "🧬",
+    "blurb": "Directly modifies an organism's DNA to change its traits or function.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q20514253",
+    "name": "Blockchain",
+    "wp_count": 91,
+    "emoji": "🔗",
+    "blurb": "Distributes transaction records across a tamper-resistant chain of cryptographic blocks.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q170519",
+    "name": "Virtual reality",
+    "wp_count": 90,
+    "emoji": "🥽",
+    "blurb": "Immerses the user in a fully computer-generated 3D environment via a headset.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q2539",
+    "name": "Machine learning",
+    "wp_count": 89,
+    "emoji": "🧠",
+    "blurb": "Algorithms that learn patterns from data to make predictions or decisions without explicit programming.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q161238",
+    "name": "Magnetic resonance imaging",
+    "wp_count": 87,
+    "emoji": "🧲",
+    "blurb": "Uses magnetic fields and radio waves to image soft tissue inside the body.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q170978",
+    "name": "Robotics",
+    "wp_count": 86,
+    "emoji": "🤖",
+    "blurb": "Designs, builds, and operates machines that carry out tasks autonomously or semi-autonomously.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q79798",
+    "name": "Machine translation",
+    "wp_count": 86,
+    "emoji": "🌐",
+    "blurb": "Automatically translates text or speech from one human language to another.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q120877",
+    "name": "Cloning",
+    "wp_count": 82,
+    "emoji": "🐑",
+    "blurb": "Creates a genetically identical copy of an organism from a single cell's DNA.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q83341",
+    "name": "Liquid-crystal display",
+    "wp_count": 76,
+    "emoji": "📺",
+    "blurb": "Display technology using liquid crystals modulated by electric fields to produce images.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q32566",
+    "name": "CT scan",
+    "wp_count": 74,
+    "emoji": "🏥",
+    "blurb": "Produces detailed cross-sectional images of the body by combining many X-ray measurements.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q132744",
+    "name": "Fax",
+    "wp_count": 73,
+    "emoji": "📠",
+    "blurb": "Transmits scanned documents over telephone lines to a remote printer.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q527628",
+    "name": "Holography",
+    "wp_count": 73,
+    "emoji": "🔆",
+    "blurb": "Records and reconstructs 3-D light-field images using laser interference patterns.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q192776",
+    "name": "Neural network (machine learning)",
+    "wp_count": 72,
+    "emoji": "🕸️",
+    "blurb": "Layered computational model loosely inspired by neurons that learns patterns from data.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q30642",
+    "name": "Natural language processing",
+    "wp_count": 72,
+    "emoji": "💬",
+    "blurb": "Enables computers to understand, interpret, and generate human language.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q184199",
+    "name": "Automation",
+    "wp_count": 69,
+    "emoji": "🤖",
+    "blurb": "Uses machines and software to perform tasks with minimal or no human intervention.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q169917",
+    "name": "Graphene",
+    "wp_count": 68,
+    "emoji": "🪨",
+    "blurb": "Single-atom-thick carbon layer that is stronger than steel and highly conductive.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "staple",
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q177765",
+    "name": "Biometrics",
+    "wp_count": 68,
+    "emoji": "🖐️",
+    "blurb": "Identifies or verifies individuals using unique physical traits like fingerprints or irises.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add",
+      "emerging"
+    ]
+  },
+  {
+    "qid": "Q212809",
+    "name": "Endoscopy",
+    "wp_count": 66,
+    "emoji": "🔦",
+    "blurb": "Inserts a camera through a small incision to inspect or treat internal organs.",
+    "tags": [],
+    "selected_via": [
+      "present"
+    ]
+  },
+  {
+    "qid": "Q106667",
+    "name": "Superfluidity",
+    "wp_count": 63,
+    "emoji": "🌊",
+    "blurb": "A fluid flows with zero viscosity, experiencing no friction or energy loss.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q179965",
+    "name": "Electroencephalography",
+    "wp_count": 63,
+    "emoji": "🧠",
+    "blurb": "Measures the brain's electrical activity via electrodes placed on the scalp.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q254183",
+    "name": "Augmented reality",
+    "wp_count": 63,
+    "emoji": "🥽",
+    "blurb": "Overlays digital information onto the real world via displays or smartphones.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q104954",
+    "name": "Radio-frequency identification",
+    "wp_count": 62,
+    "emoji": "📡",
+    "blurb": "Uses radio waves to wirelessly read data stored on small embedded tags.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q176555",
+    "name": "Quantum computer",
+    "wp_count": 61,
+    "emoji": "💻",
+    "blurb": "Uses quantum bits to solve problems exponentially faster than classical computers.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "staple"
+    ]
+  },
+  {
+    "qid": "Q178026",
+    "name": "Fullerene",
+    "wp_count": 60,
+    "emoji": "⚽",
+    "blurb": "Hollow cage-like carbon molecules with unique chemical and material properties.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q381490",
+    "name": "Aerogel",
+    "wp_count": 59,
+    "emoji": "🌫️",
+    "blurb": "Ultralight solid material made of air-filled nanopores, one of the best insulators known.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q181802",
+    "name": "Prosthesis",
+    "wp_count": 58,
+    "emoji": "🦾",
+    "blurb": "An artificial limb or device that replaces or augments a missing body part.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q204043",
+    "name": "Teleportation",
+    "wp_count": 57,
+    "emoji": "✨",
+    "blurb": "Transfers matter or information from one location to another without crossing the space between.",
+    "tags": [
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q741490",
+    "name": "Self-driving car",
+    "wp_count": 54,
+    "emoji": "🚗",
+    "blurb": "A vehicle that navigates and drives itself using sensors, cameras, and AI.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q1473823",
+    "name": "Space elevator",
+    "wp_count": 52,
+    "emoji": "🛗",
+    "blurb": "A tether from Earth's surface to orbit lets payloads be lifted without rockets.",
+    "tags": [
+      "emerging",
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q469",
+    "name": "Dyson sphere",
+    "wp_count": 51,
+    "emoji": "⭐",
+    "blurb": "A megastructure enclosing a star to capture virtually all of its energy output.",
+    "tags": [
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q204520",
+    "name": "Terraforming",
+    "wp_count": 49,
+    "emoji": "🌍",
+    "blurb": "Transforms a planet's atmosphere, temperature, and surface to support Earth life.",
+    "tags": [
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q633581",
+    "name": "Cryonics",
+    "wp_count": 49,
+    "emoji": "🧊",
+    "blurb": "Preserves human bodies at ultra-low temperatures after death in hopes of future revival.",
+    "tags": [
+      "emerging"
+    ],
+    "selected_via": [
+      "manual_add"
+    ]
+  },
+  {
+    "qid": "Q2264109",
+    "name": "Artificial general intelligence",
+    "wp_count": 48,
+    "emoji": "🧠",
+    "blurb": "An AI that matches or exceeds human cognitive ability across all domains.",
+    "tags": [
+      "emerging",
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q641442",
+    "name": "Fusion power",
+    "wp_count": 42,
+    "emoji": "☀️",
+    "blurb": "Generates electricity by fusing light atomic nuclei, mimicking the sun.",
+    "tags": [
+      "emerging",
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q584529",
+    "name": "Humanoid robot",
+    "wp_count": 38,
+    "emoji": "🦾",
+    "blurb": "A robot with a body shaped and proportioned like a human.",
+    "tags": [
+      "hypothetical"
+    ],
+    "selected_via": [
+      "staple",
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q180381",
+    "name": "Cold fusion",
+    "wp_count": 37,
+    "emoji": "⚗️",
+    "blurb": "Hypothetical nuclear fusion achieved near room temperature rather than at stellar temperatures.",
+    "tags": [
+      "hypothetical"
+    ],
+    "selected_via": [
+      "hypothetical"
+    ]
+  },
+  {
+    "qid": "Q17310682",
+    "name": "CRISPR gene editing",
+    "wp_count": 32,
+    "emoji": "✂️",
+    "blurb": "Precisely cuts and rewrites DNA sequences using Cas9 protein guided by RNA.",
+    "tags": [],
+    "selected_via": [
+      "staple"
+    ]
+  },
+  {
+    "qid": "Q185410",
+    "name": "Reversible computing",
+    "wp_count": 12,
+    "emoji": "🔄",
+    "blurb": "Computation engineered to preserve all inputs, enabling reversal and theoretically near-zero-energy operation.",
+    "tags": [],
+    "selected_via": [
+      "manual_add"
+    ]
+  }
+]
