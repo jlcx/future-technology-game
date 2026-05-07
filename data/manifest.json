@@ -14,8 +14,8 @@
   "n_pairs_covered": 630,
   "n_pairs_missing": 0,
   "n_skipped_entries": 0,
-  "n_unique_synths": 7722,
-  "n_convergent_collisions": 35,
+  "n_unique_synths": 9718,
+  "n_convergent_collisions": 39,
   "checksums": {
     "pipeline/combine_prompt.txt": "8333ee0ea4d56384",
     "pipeline/core_techs.json": "2ea12cd6dc11b404",
@@ -99,7 +99,14 @@
       "pattern": "combinations_top2k_batch_*.json",
       "added": 2000,
       "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-05T07:40:42+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_synth_corp_batch_*.json",
+      "added": 2000,
+      "skipped": 0
     }
   ],
-  "n_pairs_in_combinations": 7757
+  "n_pairs_in_combinations": 9757
 }
