@@ -14,8 +14,8 @@
   "n_pairs_covered": 630,
   "n_pairs_missing": 0,
   "n_skipped_entries": 0,
-  "n_unique_synths": 9718,
-  "n_convergent_collisions": 39,
+  "n_unique_synths": 13689,
+  "n_convergent_collisions": 68,
   "checksums": {
     "pipeline/combine_prompt.txt": "8333ee0ea4d56384",
     "pipeline/core_techs.json": "2ea12cd6dc11b404",
@@ -106,7 +106,21 @@
       "pattern": "combinations_synth_corp_batch_*.json",
       "added": 2000,
       "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-07T23:36:05+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_c2k_v2_batch_*.json",
+      "added": 2000,
+      "skipped": 0
+    },
+    {
+      "ran_at": "2026-05-08T00:15:41+00:00",
+      "kind": "next_level_merge",
+      "pattern": "combinations_c2k_v3_batch_*.json",
+      "added": 2000,
+      "skipped": 0
     }
   ],
-  "n_pairs_in_combinations": 9757
+  "n_pairs_in_combinations": 13757
 }
